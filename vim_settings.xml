@@ -12,10 +12,11 @@
         <mark key="]" line="94" column="5" />
         <mark key="." line="94" column="5" />
       </file>
+      <file name="D:/gitdir/RemoteDebug/UnityServer/RemoteDebug/Assets/Scripts/SocketState.cs" timestamp="1556522759245" />
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1556447783611">
         <mark key="'" line="111" column="90" />
       </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" timestamp="1556521037088">
+      <file name="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" timestamp="1556523251356">
         <mark key="'" line="345" column="25" />
       </file>
     </filemarks>
@@ -55,6 +56,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
