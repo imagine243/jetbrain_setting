@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/project/tf2_3.9.0/Assets/Scripts/NET/Message/SystemCGMessage.cs" timestamp="1556507805124" />
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1556446521872">
         <mark key="'" line="127" column="20" />
       </file>
@@ -16,8 +15,8 @@
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1556447783611">
         <mark key="'" line="111" column="90" />
       </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" timestamp="1556447887822">
-        <mark key="'" line="321" column="15" />
+      <file name="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" timestamp="1556521037088">
+        <mark key="'" line="345" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -25,6 +24,10 @@
       <jump line="111" column="90" filename="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" />
       <jump line="321" column="15" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
       <jump line="680" column="35" filename="D:/project/tf2_3.9.0/Assets/Scripts/GameCtrl/Main.cs" />
+      <jump line="90" column="8" filename="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" />
+      <jump line="87" column="8" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
+      <jump line="345" column="25" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
+      <jump line="79" column="9" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
     </jumps>
     <registers />
     <search>
@@ -38,17 +41,23 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
