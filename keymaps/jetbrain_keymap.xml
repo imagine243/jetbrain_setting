@@ -1,0 +1,6 @@
+<keymap version="1" name="jetbrain_keymap" parent="$default">
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+</keymap>
