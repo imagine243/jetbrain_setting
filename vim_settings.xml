@@ -12,6 +12,9 @@
         <mark key="]" line="94" column="5" />
         <mark key="." line="94" column="5" />
       </file>
+      <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" timestamp="1556523532575">
+        <mark key="'" line="264" column="50" />
+      </file>
       <file name="D:/gitdir/RemoteDebug/UnityServer/RemoteDebug/Assets/Scripts/SocketState.cs" timestamp="1556522759245" />
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1556447783611">
         <mark key="'" line="111" column="90" />
@@ -29,6 +32,7 @@
       <jump line="87" column="8" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
       <jump line="345" column="25" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
       <jump line="79" column="9" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
+      <jump line="264" column="50" filename="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" />
     </jumps>
     <registers />
     <search>
