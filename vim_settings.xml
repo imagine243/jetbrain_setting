@@ -3,38 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1556446521872">
-        <mark key="'" line="127" column="20" />
-      </file>
-      <file name="D:/project/tf2_3.9.0/Assets/Scripts/GameCtrl/Main.cs" timestamp="1556507727114">
-        <mark key="'" line="680" column="35" />
-        <mark key="[" line="94" column="4" />
-        <mark key="]" line="94" column="5" />
-        <mark key="." line="94" column="5" />
-      </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" timestamp="1556523532575">
-        <mark key="'" line="264" column="50" />
-      </file>
-      <file name="D:/gitdir/RemoteDebug/UnityServer/RemoteDebug/Assets/Scripts/SocketState.cs" timestamp="1556522759245" />
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1556447783611">
-        <mark key="'" line="111" column="90" />
-      </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" timestamp="1556523251356">
-        <mark key="'" line="345" column="25" />
+      <file name="$USER_HOME$/Downloads/test/Test/Assets/NewBehaviourScript.cs" timestamp="1556705001581">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="127" column="20" filename="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" />
-      <jump line="111" column="90" filename="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" />
-      <jump line="321" column="15" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
-      <jump line="680" column="35" filename="D:/project/tf2_3.9.0/Assets/Scripts/GameCtrl/Main.cs" />
-      <jump line="90" column="8" filename="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" />
-      <jump line="87" column="8" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
-      <jump line="345" column="25" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
-      <jump line="79" column="9" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
-      <jump line="264" column="50" filename="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" />
-    </jumps>
-    <registers />
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZvaWQgVXBkYXRlKCkK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZvaWQgVXBkYXRlKCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -46,26 +38,8 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
