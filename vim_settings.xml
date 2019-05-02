@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/gitdir/UnityDemo/UnityDemo/Assets/Scripts/nucleus/NucleonSpawner.cs" timestamp="1556763722053">
+        <mark key="'" line="24" column="31" />
+      </file>
       <file name="$USER_HOME$/Downloads/test/Test/Assets/NewBehaviourScript.cs" timestamp="1556705326426">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="7" />
@@ -38,6 +41,7 @@
       <jump line="345" column="25" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
       <jump line="79" column="9" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
       <jump line="264" column="50" filename="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" />
+      <jump line="24" column="31" filename="$USER_HOME$/Desktop/gitdir/UnityDemo/UnityDemo/Assets/Scripts/nucleus/NucleonSpawner.cs" />
     </jumps>
     <registers>
       <register name="1" type="2">
