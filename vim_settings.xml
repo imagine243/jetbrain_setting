@@ -4,7 +4,72 @@
     <globalmarks />
     <filemarks>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1557042348668" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationActivityDataCenter.cs" timestamp="1557046902749" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationActivityDataCenter.cs" timestamp="1557049681715">
+        <mark key="[" line="241" column="57" />
+        <mark key="]" line="243" column="32" />
+        <mark key="^" line="243" column="32" />
+        <mark key="." line="243" column="32" />
+      </file>
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557050797129">
+        <mark key="'" line="74" column="25" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" timestamp="1557049745115">
+        <mark key="'" line="317" column="92" />
+        <mark key="[" line="323" column="97" />
+        <mark key="]" line="323" column="95" />
+        <mark key="^" line="323" column="95" />
+        <mark key="." line="323" column="95" />
+      </file>
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/GlobalUI/UILuckyValueHintPanel.cs" timestamp="1557050782582">
+        <mark key="[" line="132" column="0" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" timestamp="1557047552308">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="42" />
+        <mark key="^" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanelBtnFunction.cs" timestamp="1557049801852">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1557039850397">
+        <mark key="[" line="125" column="86" />
+        <mark key="]" line="126" column="85" />
+        <mark key="^" line="126" column="85" />
+        <mark key="." line="126" column="85" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" timestamp="1557042342916">
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="23" />
+        <mark key="^" line="38" column="23" />
+        <mark key="." line="38" column="23" />
+      </file>
+      <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" timestamp="1556523532575">
+        <mark key="'" line="264" column="50" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557038849422">
+        <mark key="'" line="487" column="76" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557042204081">
+        <mark key="'" line="393" column="43" />
+      </file>
+      <file name="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" timestamp="1556523251356">
+        <mark key="'" line="345" column="25" />
+      </file>
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557050693052">
+        <mark key="'" line="503" column="85" />
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="12" />
+        <mark key="^" line="48" column="12" />
+        <mark key="." line="48" column="12" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityCGMessage.cs" timestamp="1557047432892">
         <mark key="[" line="208" column="5" />
         <mark key="]" line="210" column="16" />
@@ -24,53 +89,13 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557042330925">
         <mark key="'" line="75" column="22" />
       </file>
-      <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557048344463">
-        <mark key="'" line="75" column="25" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="74" column="41" />
-        <mark key="^" line="74" column="41" />
-        <mark key="." line="74" column="41" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" timestamp="1557047552308">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="42" />
-        <mark key="^" line="20" column="42" />
-        <mark key="." line="20" column="42" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1557039850397">
-        <mark key="[" line="125" column="86" />
-        <mark key="]" line="126" column="85" />
-        <mark key="^" line="126" column="85" />
-        <mark key="." line="126" column="85" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" timestamp="1557042342916">
-        <mark key="'" line="38" column="26" />
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="23" />
-        <mark key="^" line="38" column="23" />
-        <mark key="." line="38" column="23" />
-      </file>
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1557050655332" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIOperationActivityHugeAwardArrive.cs" timestamp="1557046816934" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1557047051086">
-        <mark key="[" line="462" column="35" />
-        <mark key="]" line="465" column="32" />
-        <mark key="^" line="465" column="32" />
-        <mark key="." line="465" column="32" />
-      </file>
-      <file name="D:/project/tf2_3.9.0/Assets/Scripts/GameCtrl/Main.cs" timestamp="1556507727114">
-        <mark key="'" line="680" column="35" />
-        <mark key="[" line="94" column="4" />
-        <mark key="]" line="94" column="5" />
-        <mark key="." line="94" column="5" />
-      </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" timestamp="1556523532575">
-        <mark key="'" line="264" column="50" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557038849422">
-        <mark key="'" line="487" column="76" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557042204081">
-        <mark key="'" line="393" column="43" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1557049556067">
+        <mark key="[" line="1899" column="22" />
+        <mark key="]" line="1900" column="31" />
+        <mark key="^" line="1900" column="31" />
+        <mark key="." line="1900" column="31" />
       </file>
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1556447783611">
         <mark key="'" line="111" column="90" />
@@ -87,9 +112,6 @@
         <mark key="]" line="405" column="69" />
         <mark key="." line="405" column="69" />
         <mark key="^" line="405" column="69" />
-      </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" timestamp="1556523251356">
-        <mark key="'" line="345" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -111,6 +133,10 @@
       <jump line="38" column="26" filename="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" />
       <jump line="231" column="64" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ActivityGCHandler.cs" />
       <jump line="225" column="52" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ActivityGCHandler.cs" />
+      <jump line="72" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
+      <jump line="317" column="92" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
+      <jump line="486" column="16" filename="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" />
+      <jump line="503" column="85" filename="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" />
       <jump line="75" column="25" filename="E:/project/tf2_3.7.0/Assets/Scripts/UI/Panel/UIGameExit.cs" />
     </jumps>
     <registers>
@@ -118,12 +144,15 @@
         <text encoding="base64">CQlEeW5hbWljRGF0YUNlbnRlci5SZWNlaXZlRGF0YShFbURhdGFUeXBlLldhbmRlck1lcmNoYW50X1Nob3dJbmZvLCBtc2cpOwkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlXYW5kZXJNZXJjaGFudF9TaG93SW5mbwo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlVJR2FtZUV4aXQgT25CdXR0b25FeGl0Iik7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ShowInfo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlVJR2FtZUV4aXQgT25CdXR0b25FeGl0Iik7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQlXYW5kZXJNZXJjaGFudF9TaG93SW5mbwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
@@ -169,6 +198,66 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
