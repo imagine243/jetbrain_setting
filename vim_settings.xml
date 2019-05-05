@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1557036980993">
+        <mark key="[" line="124" column="82" />
+        <mark key="]" line="125" column="85" />
+        <mark key="^" line="125" column="85" />
+        <mark key="." line="125" column="85" />
+      </file>
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1556446521872">
         <mark key="'" line="127" column="20" />
       </file>
@@ -21,7 +27,6 @@
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" timestamp="1556523251356">
         <mark key="'" line="345" column="25" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/HeroAI.cs" timestamp="1556618184361" />
     </filemarks>
     <jumps>
       <jump line="127" column="20" filename="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" />
@@ -66,6 +71,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
