@@ -17,8 +17,8 @@
         <mark key="^" line="475" column="27" />
         <mark key="." line="475" column="27" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557038884127">
-        <mark key="'" line="74" column="25" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557041706215">
+        <mark key="'" line="75" column="21" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1557039850397">
         <mark key="[" line="125" column="86" />
@@ -26,11 +26,12 @@
         <mark key="^" line="126" column="85" />
         <mark key="." line="126" column="85" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" timestamp="1557038959568">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" timestamp="1557041723447">
+        <mark key="'" line="38" column="23" />
         <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="18" />
-        <mark key="^" line="38" column="18" />
-        <mark key="." line="38" column="18" />
+        <mark key="]" line="38" column="23" />
+        <mark key="^" line="38" column="23" />
+        <mark key="." line="38" column="23" />
       </file>
       <file name="D:/project/tf2_3.9.0/Assets/Scripts/GameCtrl/Main.cs" timestamp="1556507727114">
         <mark key="'" line="680" column="35" />
@@ -69,6 +70,8 @@
       <jump line="487" column="76" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" />
       <jump line="74" column="25" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/UIGameExit.cs" />
       <jump line="475" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityGCMessage.cs" />
+      <jump line="75" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/UIGameExit.cs" />
+      <jump line="38" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" />
     </jumps>
     <registers />
     <search>
