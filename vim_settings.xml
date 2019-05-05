@@ -15,13 +15,13 @@
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" timestamp="1556523532575">
         <mark key="'" line="264" column="50" />
       </file>
-      <file name="D:/gitdir/RemoteDebug/UnityServer/RemoteDebug/Assets/Scripts/SocketState.cs" timestamp="1556522759245" />
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1556447783611">
         <mark key="'" line="111" column="90" />
       </file>
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" timestamp="1556523251356">
         <mark key="'" line="345" column="25" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/HeroAI.cs" timestamp="1556618184361" />
     </filemarks>
     <jumps>
       <jump line="127" column="20" filename="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" />
