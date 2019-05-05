@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1557038177307" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1557038953052" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1557036980993">
         <mark key="[" line="124" column="82" />
         <mark key="]" line="125" column="85" />
@@ -13,6 +13,12 @@
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1556446521872">
         <mark key="'" line="127" column="20" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" timestamp="1557038959568">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+      </file>
       <file name="D:/project/tf2_3.9.0/Assets/Scripts/GameCtrl/Main.cs" timestamp="1556507727114">
         <mark key="'" line="680" column="35" />
         <mark key="[" line="94" column="4" />
@@ -21,6 +27,13 @@
       </file>
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" timestamp="1556523532575">
         <mark key="'" line="264" column="50" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557038849422">
+        <mark key="'" line="487" column="76" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557038894795" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557038884127">
+        <mark key="'" line="74" column="25" />
       </file>
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1556447783611">
         <mark key="'" line="111" column="90" />
@@ -40,6 +53,8 @@
       <jump line="79" column="9" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
       <jump line="264" column="50" filename="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" />
       <jump line="33" column="5" filename="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" />
+      <jump line="487" column="76" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" />
+      <jump line="74" column="25" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/UIGameExit.cs" />
     </jumps>
     <registers />
     <search>
