@@ -46,7 +46,8 @@
         <mark key="^" line="69" column="30" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" timestamp="1557112960729" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" timestamp="1557047552308">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" timestamp="1557125610281">
+        <mark key="'" line="27" column="15" />
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="42" />
         <mark key="^" line="20" column="42" />
@@ -162,6 +163,9 @@
       <jump line="44" column="58" filename="E:/project/tf2_3.7.0/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" />
       <jump line="486" column="27" filename="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" />
       <jump line="639" column="32" filename="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/ProjectBuild.cs" />
+      <jump line="143" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
+      <jump line="54" column="78" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
+      <jump line="27" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
