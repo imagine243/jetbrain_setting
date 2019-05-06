@@ -17,9 +17,9 @@
         <mark key="." line="74" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/Build.cs" timestamp="1557113144532" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" timestamp="1557049745115">
-        <mark key="'" line="317" column="92" />
-        <mark key="[" line="323" column="97" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" timestamp="1557126973467">
+        <mark key="'" line="323" column="95" />
+        <mark key="[" line="324" column="35" />
         <mark key="]" line="323" column="95" />
         <mark key="^" line="323" column="95" />
         <mark key="." line="323" column="95" />
@@ -87,6 +87,7 @@
         <mark key="." line="491" column="12" />
         <mark key="^" line="491" column="12" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1557126734123" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityCGMessage.cs" timestamp="1557047432892">
         <mark key="[" line="208" column="5" />
         <mark key="]" line="210" column="16" />
@@ -96,12 +97,12 @@
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1556446521872">
         <mark key="'" line="127" column="20" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityGCMessage.cs" timestamp="1557040317743">
-        <mark key="'" line="475" column="27" />
-        <mark key="[" line="481" column="5" />
-        <mark key="]" line="475" column="27" />
-        <mark key="^" line="475" column="27" />
-        <mark key="." line="475" column="27" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityGCMessage.cs" timestamp="1557127522032">
+        <mark key="'" line="477" column="27" />
+        <mark key="[" line="40" column="78" />
+        <mark key="]" line="42" column="87" />
+        <mark key="^" line="42" column="87" />
+        <mark key="." line="42" column="87" />
       </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1557109071096" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557042330925">
@@ -166,6 +167,7 @@
       <jump line="143" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
       <jump line="54" column="78" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
       <jump line="27" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
+      <jump line="323" column="95" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
