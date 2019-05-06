@@ -34,6 +34,13 @@
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
       </file>
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" timestamp="1557109592852">
+        <mark key="'" line="44" column="58" />
+        <mark key="[" line="69" column="12" />
+        <mark key="]" line="69" column="30" />
+        <mark key="." line="69" column="30" />
+        <mark key="^" line="69" column="30" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" timestamp="1557047552308">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="42" />
@@ -59,33 +66,23 @@
         <mark key="^" line="38" column="23" />
         <mark key="." line="38" column="23" />
       </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" timestamp="1556523532575">
-        <mark key="'" line="264" column="50" />
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/YaYaWan/YaYaWanConstants.cs" timestamp="1557109450621">
+        <mark key="[" line="19" column="79" />
+        <mark key="]" line="19" column="79" />
+        <mark key="^" line="19" column="79" />
+        <mark key="." line="19" column="79" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557038849422">
-        <mark key="'" line="487" column="76" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557042204081">
-        <mark key="'" line="393" column="43" />
-      </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" timestamp="1556523251356">
-        <mark key="'" line="345" column="25" />
-      </file>
-      <file name="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557050693052">
-        <mark key="'" line="503" column="85" />
-        <mark key="[" line="48" column="34" />
-        <mark key="]" line="48" column="12" />
-        <mark key="^" line="48" column="12" />
-        <mark key="." line="48" column="12" />
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557109091981">
+        <mark key="'" line="505" column="85" />
+        <mark key="[" line="486" column="0" />
+        <mark key="]" line="486" column="0" />
+        <mark key="." line="486" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityCGMessage.cs" timestamp="1557047432892">
         <mark key="[" line="208" column="5" />
         <mark key="]" line="210" column="16" />
         <mark key="^" line="210" column="16" />
         <mark key="." line="210" column="16" />
-      </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1556446521872">
-        <mark key="'" line="127" column="20" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityGCMessage.cs" timestamp="1557040317743">
         <mark key="'" line="475" column="27" />
@@ -94,8 +91,11 @@
         <mark key="^" line="475" column="27" />
         <mark key="." line="475" column="27" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557042330925">
-        <mark key="'" line="75" column="22" />
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1557109071096" />
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" timestamp="1557109125122">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1557050655332" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIOperationActivityHugeAwardArrive.cs" timestamp="1557046816934" />
@@ -105,9 +105,6 @@
         <mark key="^" line="1900" column="31" />
         <mark key="." line="1900" column="31" />
       </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1556447783611">
-        <mark key="'" line="111" column="90" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ActivityGCHandler.cs" timestamp="1557047525340">
         <mark key="'" line="225" column="52" />
         <mark key="[" line="237" column="64" />
@@ -115,7 +112,7 @@
         <mark key="." line="237" column="66" />
         <mark key="^" line="237" column="66" />
       </file>
-      <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557046045467">
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557108994921">
         <mark key="[" line="405" column="62" />
         <mark key="]" line="405" column="69" />
         <mark key="." line="405" column="69" />
@@ -146,34 +143,47 @@
       <jump line="486" column="16" filename="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" />
       <jump line="503" column="85" filename="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" />
       <jump line="75" column="25" filename="E:/project/tf2_3.7.0/Assets/Scripts/UI/Panel/UIGameExit.cs" />
+      <jump line="44" column="58" filename="E:/project/tf2_3.7.0/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBVSVBhbmVsTWFuYWdlckxvY2FsLmluc3RhbmNlLk9wZW5QYW5lbChVSVBhbmVsRGVmaW5lLkx1Y2t5U3RhclVJcGFuZWwpOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">CSAgICAK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>LuckyStarUIpanel</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlVJR2FtZUV4aXQgT25CdXR0b25FeGl0Iik7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlXYW5kZXJNZXJjaGFudF9TaG93SW5mbwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="-" type="4">
         <text>LuckyStarUIpanel</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMb2coc3RyaW5nLkZvcm1hdCgiWWFZYVdhbkNhbGxiYWNrTWVzc2FnZSBPbllhWWFXYW5Mb2dpblJlc3VsdCAgc3VjY2VzcyAsIGNvZGU9ezB9LCBtc2c9ezF9IiwgY29kZSwgbXNnKSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXB1YmxpYyBvdmVycmlkZSB2b2lkIHB4UGxhdGZvcm1FeGl0KCkKCXsKCQliYXNlLnB4UGxhdGZvcm1FeGl0KCk7CgkJWWFZYVdhblNESy5ZYVlhV2FuRXhpdCgpOwoJfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSAgICAgICAgWWFZYVdhblNESy5ZYVlhV2FuRXhpdCgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CSAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlVJR2FtZUV4aXQgT25CdXR0b25FeGl0Iik7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
