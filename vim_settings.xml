@@ -4,20 +4,14 @@
     <globalmarks />
     <filemarks>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1557042348668" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationActivityDataCenter.cs" timestamp="1557049681715">
-        <mark key="[" line="241" column="57" />
-        <mark key="]" line="243" column="32" />
-        <mark key="^" line="243" column="32" />
-        <mark key="." line="243" column="32" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationActivityDataCenter.cs" timestamp="1557216536251">
+        <mark key="[" line="756" column="69" />
+        <mark key="]" line="756" column="83" />
+        <mark key="^" line="756" column="83" />
+        <mark key="." line="756" column="83" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" timestamp="1557208027810">
         <mark key="'" line="137" column="37" />
-      </file>
-      <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557050797129">
-        <mark key="'" line="74" column="25" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/Build.cs" timestamp="1557113144532" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" timestamp="1557126973467">
@@ -66,12 +60,7 @@
         <mark key="." line="32" column="79" />
         <mark key="^" line="32" column="79" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1557039850397">
-        <mark key="[" line="125" column="86" />
-        <mark key="]" line="126" column="85" />
-        <mark key="^" line="126" column="85" />
-        <mark key="." line="126" column="85" />
-      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1557216075961" />
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" timestamp="1556523532575">
         <mark key="'" line="264" column="50" />
       </file>
@@ -189,14 +178,14 @@
       <jump line="108" column="43" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityGCMessage.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CAPRICIOUSGIFT</text>
       </register>
       <register name="-" type="4">
-        <text>LuckyStarUIpanel</text>
+        <text>CAPRICIOUSGIFT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2coc3RyaW5nLkZvcm1hdCgiWWFZYVdhbkNhbGxiYWNrTWVzc2FnZSBPbllhWWFXYW5Mb2dpblJlc3VsdCAgc3VjY2VzcyAsIGNvZGU9ezB9LCBtc2c9ezF9IiwgY29kZSwgbXNnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IG9hRGF0YS5hY3Rpdml0eUxpc3REYXRhLnR5cGUgPT0gKGludClBY3Rpdml0eVR5cGUuQ0FQUklDSU9VU0dJRlQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
