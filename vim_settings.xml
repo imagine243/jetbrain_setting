@@ -45,6 +45,11 @@
         <mark key="." line="69" column="30" />
         <mark key="^" line="69" column="30" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" timestamp="1557195762059">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" timestamp="1557131662673">
         <mark key="'" line="45" column="24" />
         <mark key="[" line="94" column="49" />
@@ -175,7 +180,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>LuckyStarUIpanel</text>
@@ -184,31 +189,31 @@
         <text encoding="base64">ICAgICAgICBMb2coc3RyaW5nLkZvcm1hdCgiWWFZYVdhbkNhbGxiYWNrTWVzc2FnZSBPbllhWWFXYW5Mb2dpblJlc3VsdCAgc3VjY2VzcyAsIGNvZGU9ezB9LCBtc2c9ezF9IiwgY29kZSwgbXNnKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGJsQnV5UHJpY2UudGV4dCA9IHN0cmluZy5Gb3JtYXQoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KCJOb3JtYWxDaGFyZ2V7MH1Nb25leSIpLCAiPyIpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmlnaHRNYXJrLlNldEFjdGl2ZSh0cnVlKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlICAgIC8vxubK/czsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGJsQnV5UHJpY2UudGV4dCA9IHN0cmluZy5Gb3JtYXQoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KCJOb3JtYWxDaGFyZ2V7MH1Nb25leSIpLCAiPyIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmlnaHRNYXJrLlNldEFjdGl2ZSh0cnVlKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlICAgIC8vxubK/czsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2hvd01zZy5kYXkgJSAyID09IDApICAgLy/FvMr9zOwK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYmxCdXlQcmljZS50ZXh0ID0gc3RyaW5nLkZvcm1hdChTdG9ybUxvY2FsaXphdGlvbi5HZXQoIk5vcm1hbENoYXJnZXswfU1vbmV5IiksIHByaWNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2hvd01zZy5kYXkgJSAyID09IDApICAgLy/FvMr9zOwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
