@@ -127,6 +127,9 @@
         <mark key="^" line="1904" column="31" />
         <mark key="." line="1904" column="31" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" timestamp="1557209416679">
+        <mark key="'" line="1471" column="25" />
+      </file>
       <file name="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1556447783611">
         <mark key="'" line="111" column="90" />
       </file>
@@ -181,6 +184,7 @@
       <jump line="101" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
       <jump line="45" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
       <jump line="137" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" />
+      <jump line="1471" column="25" filename="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
