@@ -10,6 +10,9 @@
         <mark key="^" line="243" column="32" />
         <mark key="." line="243" column="32" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" timestamp="1557199160729">
+        <mark key="'" line="137" column="121" />
+      </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557050797129">
         <mark key="'" line="74" column="25" />
         <mark key="[" line="74" column="0" />
@@ -177,6 +180,7 @@
       <jump line="106" column="92" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
       <jump line="101" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
       <jump line="45" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
+      <jump line="137" column="121" filename="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
