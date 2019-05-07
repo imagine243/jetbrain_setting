@@ -47,8 +47,8 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" timestamp="1557131662673">
-        <mark key="'" line="45" column="24" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" timestamp="1557224966539">
+        <mark key="'" line="54" column="51" />
         <mark key="[" line="94" column="49" />
         <mark key="]" line="95" column="56" />
         <mark key="." line="95" column="56" />
@@ -191,7 +191,6 @@
       <jump line="486" column="27" filename="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" />
       <jump line="639" column="32" filename="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/ProjectBuild.cs" />
       <jump line="143" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
-      <jump line="54" column="78" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
       <jump line="27" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
       <jump line="323" column="95" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
       <jump line="46" column="69" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
@@ -219,6 +218,8 @@
       <jump line="14" column="43" filename="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/DisplayModelDisplayInfoEditor.cs" />
       <jump line="108" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanelHeroAttributeCtrl.cs" />
       <jump line="172" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanelHeroAttributeCtrl.cs" />
+      <jump line="26" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
+      <jump line="54" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
