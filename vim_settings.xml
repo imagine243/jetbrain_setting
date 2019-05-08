@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1557042348668" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" timestamp="1557285809157">
         <mark key="'" line="49" column="49" />
       </file>
@@ -12,8 +13,9 @@
         <mark key="." line="62" column="43" />
         <mark key="^" line="62" column="43" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/ProjectBuild.cs" timestamp="1557113023768">
-        <mark key="'" line="639" column="32" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/Build.cs" timestamp="1557287071756" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/ProjectBuild.cs" timestamp="1557286973596">
+        <mark key="'" line="704" column="36" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1557220549561">
         <mark key="[" line="144" column="56" />
@@ -54,12 +56,14 @@
         <mark key="^" line="19" column="79" />
         <mark key="." line="19" column="79" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1557126734123" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityCGMessage.cs" timestamp="1557047432892">
         <mark key="[" line="208" column="5" />
         <mark key="]" line="210" column="16" />
         <mark key="^" line="210" column="16" />
         <mark key="." line="210" column="16" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/ConfigTemplate/constantTemplateVO.cs" timestamp="1557287259287" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/AwardGridCtrl.cs" timestamp="1557221251332">
         <mark key="'" line="287" column="44" />
       </file>
@@ -73,12 +77,13 @@
         <mark key="." line="621" column="62" />
         <mark key="^" line="621" column="62" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" timestamp="1557285383766">
-        <mark key="'" line="97" column="58" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="14" column="39" />
-        <mark key="^" line="14" column="39" />
-        <mark key="." line="14" column="39" />
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1557050655332" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" timestamp="1557286913716">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="99" column="74" />
+        <mark key="]" line="99" column="73" />
+        <mark key="^" line="99" column="73" />
+        <mark key="." line="99" column="73" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1557220954416">
         <mark key="[" line="226" column="20" />
@@ -142,8 +147,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557038849422">
         <mark key="'" line="487" column="76" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UIFirstRechargePanel.cs" timestamp="1557221095731">
-        <mark key="'" line="26" column="61" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UIFirstRechargePanel.cs" timestamp="1557287271417">
+        <mark key="'" line="46" column="26" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="101" />
       </file>
@@ -164,6 +169,7 @@
         <mark key="^" line="42" column="87" />
         <mark key="." line="42" column="87" />
       </file>
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1557109071096" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557042330925">
         <mark key="'" line="75" column="22" />
       </file>
@@ -173,9 +179,11 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/AwardCtrl.cs" timestamp="1557221306104">
         <mark key="'" line="24" column="20" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIOperationActivityHugeAwardArrive.cs" timestamp="1557046816934" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" timestamp="1557209416679">
         <mark key="'" line="1471" column="25" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Charge_First_Msg.cs" timestamp="1557219171530" />
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557108994921">
         <mark key="[" line="405" column="62" />
         <mark key="]" line="405" column="69" />
@@ -256,6 +264,13 @@
       <jump line="175" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ChargeGCMessage.cs" />
       <jump line="97" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" />
       <jump line="49" column="49" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" />
+      <jump line="65" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" />
+      <jump line="0" column="0" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" />
+      <jump line="8" column="13" filename="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/ProjectBuild.cs" />
+      <jump line="40" column="4" filename="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/ProjectBuild.cs" />
+      <jump line="704" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/ProjectBuild.cs" />
+      <jump line="41" column="60" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UIFirstRechargePanel.cs" />
+      <jump line="46" column="26" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UIFirstRechargePanel.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
