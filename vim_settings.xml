@@ -59,7 +59,12 @@
         <mark key="^" line="19" column="79" />
         <mark key="." line="19" column="79" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1557126734123" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1557300944803">
+        <mark key="[" line="346" column="52" />
+        <mark key="]" line="346" column="59" />
+        <mark key="^" line="346" column="59" />
+        <mark key="." line="346" column="59" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityCGMessage.cs" timestamp="1557047432892">
         <mark key="[" line="208" column="5" />
         <mark key="]" line="210" column="16" />
@@ -129,12 +134,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" timestamp="1557208027810">
         <mark key="'" line="137" column="37" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" timestamp="1557299211344">
-        <mark key="'" line="330" column="41" />
-        <mark key="[" line="337" column="19" />
-        <mark key="]" line="338" column="29" />
-        <mark key="." line="338" column="29" />
-        <mark key="^" line="338" column="29" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" timestamp="1557301314638">
+        <mark key="'" line="331" column="60" />
+        <mark key="[" line="337" column="20" />
+        <mark key="]" line="331" column="60" />
+        <mark key="^" line="331" column="60" />
+        <mark key="." line="331" column="60" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanelBtnFunction.cs" timestamp="1557297858064">
         <mark key="[" line="38" column="101" />
@@ -198,12 +203,12 @@
         <mark key="." line="405" column="69" />
         <mark key="^" line="405" column="69" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1557225827591">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1557301399038">
         <mark key="'" line="26" column="33" />
-        <mark key="[" line="26" column="40" />
-        <mark key="]" line="33" column="42" />
-        <mark key="." line="33" column="42" />
-        <mark key="^" line="33" column="42" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="9" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -290,43 +295,45 @@
       <jump line="520" column="52" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
       <jump line="143" column="80" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrievePanel.cs" />
       <jump line="329" column="41" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
+      <jump line="368" column="47" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
+      <jump line="331" column="60" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>firstRechargeInfo</text>
+        <text>3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBSZWNlaXZlRmlyc3RSZWNoYXJnZUluZm8oR0NfQ2hhcmdlX0ZpcnN0X01zZyBpbmZvKQoJewoJCWlmKGZpcnN0UmVjaGFyZ2VJbmZvIT1udWxsCgkJICAgJiYoRW1Nb250aENhcmRTdGF0dXMpZmlyc3RSZWNoYXJnZUluZm8uY2hhcmdlRmlyc3Q9PUVtTW9udGhDYXJkU3RhdHVzLk5PVF9HRVQKCQkgICAmJihFbU1vbnRoQ2FyZFN0YXR1cylpbmZvLmNoYXJnZUZpcnN0PT1FbU1vbnRoQ2FyZFN0YXR1cy5BTFJFQURZX0dFVCkKCQkJY2FuUGxheUZpcnN0UmVjaGFyZ2VSZXdhcmQ9dHJ1ZTsKCQlmaXJzdFJlY2hhcmdlSW5mbz1pbmZvOwoJCUR5bmFtaWNEYXRhQ2VudGVyLlJlY2VpdmVEYXRhKEVtRGF0YVR5cGUuRklSU1RfUkVDSEFSR0VfREFUQSk7CgkJUmVkUG9pbnRNYW5hZ2VyLkdldEluc3RhbmNlKCkuRmlyc3RSZWNoYXJnZUNhbkdldCgpOwoKCQkvL8rXs+W689Kqy6LQwsrXs+W6zbPk1rWwtMWltcTXtMysCgkJaWYoTWFpbkNpdHlVSVBhbmVsLmluc3RhbmNlICE9IG51bGwpCgkJCU1haW5DaXR5VUlQYW5lbC5pbnN0YW5jZS5SZXNldFRvcEJ0bkdyb3VwKCk7Cgl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGUgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuYWJsZSA9IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlSZWRQb2ludE1hbmFnZXIuR2V0SW5zdGFuY2UoKS5GaXJzdFJlY2hhcmdlQ2FuR2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuYWJsZSA9IEZ1bmN0aW9uT3Blbk1nci5DaGVja0Z1bmN0aW9uT2ZmQnlHTShmdW5jdGlvbklEKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlEeW5hbWljRGF0YUNlbnRlci5SZWNlaXZlRGF0YShFbURhdGFUeXBlLkZJUlNUX1JFQ0hBUkdFX0RBVEEpOwo=</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSNyZWdpb24gbmV3Rmlyc3RDaGFyZ2UKCglwdWJsaWMgc3RhdGljIGludCBHZXROZXdGaXJzdENoYXJnZVN0YXR1cygpCgl7CgkJaWYgKG5ld0ZpcnN0UmVjaGFyZ2VJbmZvICE9IG51bGwpIHJldHVybiAwOwoJCXJldHVybiBuZXdGaXJzdFJlY2hhcmdlSW5mby5jaGFyZ2VGaXJzdDsKCX0KCgkjZW5kcmVnaW9uCgo=</text>
+        <text encoding="base64">CQlSZWRQb2ludE1hbmFnZXIuR2V0SW5zdGFuY2UoKS5GaXJzdFJlY2hhcmdlQ2FuR2V0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlEeW5hbWljRGF0YUNlbnRlci5SZWNlaXZlRGF0YShFbURhdGFUeXBlLkZJUlNUX1JFQ0hBUkdFX0RBVEEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSNyZWdpb24gbmV3Rmlyc3RDaGFyZ2UKCglwdWJsaWMgc3RhdGljIGludCBHZXROZXdGaXJzdENoYXJnZVN0YXR1cygpCgl7CgkJaWYgKG5ld0ZpcnN0UmVjaGFyZ2VJbmZvICE9IG51bGwpIHJldHVybiAwOwoJCXJldHVybiBuZXdGaXJzdFJlY2hhcmdlSW5mby5jaGFyZ2VGaXJzdDsKCX0KCgkjZW5kcmVnaW9uCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSNlbmRyZWdpb24K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CSNlbmRyZWdpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
