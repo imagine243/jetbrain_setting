@@ -76,8 +76,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/AwardGridCtrl.cs" timestamp="1557221251332">
         <mark key="'" line="287" column="44" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1557307142218">
-        <mark key="'" line="287" column="42" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1557308698858">
+        <mark key="'" line="286" column="42" />
         <mark key="[" line="262" column="0" />
         <mark key="]" line="262" column="0" />
         <mark key="." line="262" column="0" />
@@ -319,7 +319,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlHVUlMYXlvdXQuTGFiZWwoIi0tLS0tLc/gu/rJ6NbDLS0tLS0tIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5yZW5kZXJDYW1lcmEuY2xlYXJGbGFncyA9IF9kaXNwbGF5SW5mby5jYW1lcmFDbGVhckZsYWdzOwo=</text>
       </register>
       <register name="-" type="4">
         <text>EmModelDisplayType</text>
@@ -328,31 +328,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGUgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlHVUlMYXlvdXQuTGFiZWwoIi0tLS0tLc/gu/rJ6NbDLS0tLS0tIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5yZW5kZXJDYW1lcmEuY2xlYXJGbGFncyA9IF9kaXNwbGF5SW5mby5jYW1lcmFDbGVhckZsYWdzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihfZGlzcGxheUluZm8pCg==</text>
+        <text encoding="base64">CQlHVUlMYXlvdXQuTGFiZWwoIi0tLS0tLc/gu/rJ6NbDLS0tLS0tIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDYW1lcmEgY2FtZXJhID0gQ2FtZXJhLm1haW47Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihfZGlzcGxheUluZm8pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYW1lcmEuY2xlYXJGbGFncyAK</text>
+        <text encoding="base64">ICAgICAgICBDYW1lcmEgY2FtZXJhID0gQ2FtZXJhLm1haW47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuYWJsZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYW1lcmEuY2xlYXJGbGFncyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuYWJsZSA9IEZ1bmN0aW9uT3Blbk1nci5DaGVja0Z1bmN0aW9uT2ZmQnlHTShmdW5jdGlvbklEKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuYWJsZSA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuYWJsZSA9IEZ1bmN0aW9uT3Blbk1nci5DaGVja0Z1bmN0aW9uT2ZmQnlHTShmdW5jdGlvbklEKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlSZWRQb2ludE1hbmFnZXIuR2V0SW5zdGFuY2UoKS5GaXJzdFJlY2hhcmdlQ2FuR2V0KCk7Cg==</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlEeW5hbWljRGF0YUNlbnRlci5SZWNlaXZlRGF0YShFbURhdGFUeXBlLkZJUlNUX1JFQ0hBUkdFX0RBVEEpOwo=</text>
+        <text encoding="base64">CQlSZWRQb2ludE1hbmFnZXIuR2V0SW5zdGFuY2UoKS5GaXJzdFJlY2hhcmdlQ2FuR2V0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
