@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1557042348668" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" timestamp="1557296910070">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="152" column="27" />
-        <mark key="." line="153" column="0" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" timestamp="1557370324127">
+        <mark key="[" line="143" column="1" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelDisplayInfo.cs" timestamp="1557310366709">
         <mark key="[" line="120" column="0" />
@@ -97,7 +97,7 @@
         <mark key="^" line="99" column="73" />
         <mark key="." line="99" column="73" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1557295491946">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1557369887408">
         <mark key="[" line="1910" column="33" />
         <mark key="]" line="1910" column="34" />
         <mark key="^" line="1910" column="34" />
@@ -217,16 +217,15 @@
         <mark key="." line="405" column="69" />
         <mark key="^" line="405" column="69" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1557368866837">
-        <mark key="'" line="102" column="33" />
-        <mark key="[" line="52" column="76" />
-        <mark key="]" line="102" column="46" />
-        <mark key="." line="102" column="46" />
-        <mark key="^" line="102" column="46" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1557370354759">
+        <mark key="'" line="60" column="75" />
+        <mark key="[" line="102" column="24" />
+        <mark key="]" line="102" column="43" />
+        <mark key="." line="102" column="43" />
+        <mark key="^" line="102" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="20" filename="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" />
       <jump line="111" column="90" filename="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" />
       <jump line="321" column="15" filename="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" />
       <jump line="680" column="35" filename="D:/project/tf2_3.9.0/Assets/Scripts/GameCtrl/Main.cs" />
@@ -325,13 +324,15 @@
       <jump line="103" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" />
       <jump line="51" column="70" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
       <jump line="102" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
+      <jump line="27" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
+      <jump line="60" column="75" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>CG_Charge_First_Draw</text>
       </register>
       <register name="-" type="4">
-        <text>EmModelDisplayType</text>
+        <text>CG_Charge_First_Draw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGUgPSBmYWxzZTsK</text>
