@@ -4,12 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1557042348668" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" timestamp="1557387718177">
-        <mark key="'" line="158" column="22" />
-        <mark key="[" line="140" column="47" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" timestamp="1557393005246">
+        <mark key="'" line="159" column="22" />
+        <mark key="[" line="129" column="4" />
+        <mark key="]" line="129" column="4" />
+        <mark key="^" line="129" column="4" />
+        <mark key="." line="129" column="4" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelDisplayInfo.cs" timestamp="1557310366709">
         <mark key="[" line="120" column="0" />
@@ -17,12 +17,11 @@
         <mark key="." line="120" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/Build.cs" timestamp="1557287071756" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" timestamp="1557385928859">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" timestamp="1557393094445">
         <mark key="'" line="394" column="42" />
         <mark key="[" line="522" column="0" />
-        <mark key="]" line="522" column="7" />
-        <mark key="^" line="522" column="7" />
-        <mark key="." line="522" column="7" />
+        <mark key="]" line="522" column="55" />
+        <mark key="." line="522" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1557220549561">
         <mark key="[" line="144" column="56" />
@@ -197,12 +196,12 @@
         <mark key="." line="405" column="69" />
         <mark key="^" line="405" column="69" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1557388565556">
-        <mark key="'" line="61" column="24" />
-        <mark key="[" line="87" column="36" />
-        <mark key="]" line="87" column="39" />
-        <mark key="." line="87" column="39" />
-        <mark key="^" line="87" column="39" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1557393027331">
+        <mark key="'" line="62" column="24" />
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="17" column="47" />
+        <mark key="." line="17" column="47" />
+        <mark key="^" line="17" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -309,13 +308,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJnZUNHTWVzc2FnZS5DR19PcGVuX0ZpcnN0X0NoYXJnZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzbWFsbEdpZnRNYXNrLlNldEFjdGl2ZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJnZUNHTWVzc2FnZS5DR19PcGVuX0ZpcnN0X0NoYXJnZSgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
