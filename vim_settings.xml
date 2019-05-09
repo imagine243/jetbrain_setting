@@ -217,10 +217,12 @@
         <mark key="." line="405" column="69" />
         <mark key="^" line="405" column="69" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1557309529010">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1557368866837">
+        <mark key="'" line="102" column="33" />
+        <mark key="[" line="52" column="76" />
+        <mark key="]" line="102" column="46" />
+        <mark key="." line="102" column="46" />
+        <mark key="^" line="102" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -321,6 +323,8 @@
       <jump line="121" column="65" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelDisplayInfo.cs" />
       <jump line="41" column="70" filename="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" />
       <jump line="103" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" />
+      <jump line="51" column="70" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
+      <jump line="102" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
