@@ -17,9 +17,6 @@
         <mark key="." line="120" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/Build.cs" timestamp="1557287071756" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Editor/Build/ProjectBuild.cs" timestamp="1557286973596">
-        <mark key="'" line="704" column="36" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" timestamp="1557385928859">
         <mark key="'" line="394" column="42" />
         <mark key="[" line="522" column="0" />
@@ -67,9 +64,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557042204081">
         <mark key="'" line="393" column="43" />
       </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/TcpClientSocket.cs" timestamp="1556523251356">
-        <mark key="'" line="345" column="25" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/GlobalUI/UILogPanel.cs" timestamp="1557388246831">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -94,9 +88,6 @@
         <mark key="." line="210" column="16" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/ConfigTemplate/constantTemplateVO.cs" timestamp="1557386513660" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/AwardGridCtrl.cs" timestamp="1557221251332">
-        <mark key="'" line="287" column="44" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/UIHeroInfoPanel.cs" timestamp="1557222112978">
         <mark key="'" line="314" column="35" />
       </file>
@@ -124,15 +115,18 @@
         <mark key="^" line="1910" column="34" />
         <mark key="." line="1910" column="34" />
       </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1556447783611">
-        <mark key="'" line="111" column="90" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ActivityGCHandler.cs" timestamp="1557047525340">
         <mark key="'" line="225" column="52" />
         <mark key="[" line="237" column="64" />
         <mark key="]" line="237" column="66" />
         <mark key="." line="237" column="66" />
         <mark key="^" line="237" column="66" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnGroupCtrl.cs" timestamp="1557389944246">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="45" column="66" />
+        <mark key="^" line="45" column="66" />
+        <mark key="." line="45" column="66" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ChargeCGMessage.cs" timestamp="1557297533573">
         <mark key="'" line="49" column="63" />
@@ -155,9 +149,6 @@
         <mark key="^" line="175" column="20" />
         <mark key="." line="175" column="20" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" timestamp="1557208027810">
-        <mark key="'" line="137" column="37" />
-      </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557050797129">
         <mark key="'" line="74" column="25" />
         <mark key="[" line="74" column="0" />
@@ -177,21 +168,12 @@
         <mark key="." line="39" column="7" />
         <mark key="^" line="39" column="7" />
       </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Download/DownloadCondition.cs" timestamp="1556523532575">
-        <mark key="'" line="264" column="50" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557038849422">
-        <mark key="'" line="487" column="76" />
-      </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557112392134">
         <mark key="'" line="486" column="27" />
         <mark key="[" line="491" column="12" />
         <mark key="]" line="491" column="12" />
         <mark key="." line="491" column="12" />
         <mark key="^" line="491" column="12" />
-      </file>
-      <file name="D:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1556446521872">
-        <mark key="'" line="127" column="20" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityGCMessage.cs" timestamp="1557213821510">
         <mark key="'" line="108" column="43" />
@@ -202,28 +184,13 @@
       </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1557109071096" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/LoadingManager.cs" timestamp="1557380938257" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557042330925">
-        <mark key="'" line="75" column="22" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1557225745685">
-        <mark key="'" line="24" column="60" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/AwardCtrl.cs" timestamp="1557221306104">
-        <mark key="'" line="24" column="20" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIManager/FunctionOpenMgr.cs" timestamp="1557298795360" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrievePanel.cs" timestamp="1557298973930">
-        <mark key="'" line="143" column="80" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/RechargeItemCtrl.cs" timestamp="1557388327776">
         <mark key="'" line="272" column="34" />
         <mark key="[" line="299" column="5" />
         <mark key="]" line="271" column="59" />
         <mark key="^" line="271" column="59" />
         <mark key="." line="271" column="59" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3BAAB807-C9E6-4A53-A6AC-8B27910CCA8C/22/1ca3af75/Camera.cs" timestamp="1557305909708">
-        <mark key="'" line="480" column="31" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIOperationActivityHugeAwardArrive.cs" timestamp="1557046816934" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" timestamp="1557388169687">
