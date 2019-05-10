@@ -36,8 +36,8 @@
         <mark key="." line="69" column="30" />
         <mark key="^" line="69" column="30" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" timestamp="1557310911009">
-        <mark key="'" line="103" column="63" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" timestamp="1557472630257">
+        <mark key="'" line="32" column="46" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
@@ -205,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="52" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ActivityGCHandler.cs" />
       <jump line="72" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
       <jump line="317" column="92" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
       <jump line="503" column="85" filename="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" />
@@ -305,6 +304,7 @@
       <jump line="1053" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" />
       <jump line="1059" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" />
       <jump line="61" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
+      <jump line="32" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
