@@ -68,7 +68,7 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/UIHeroInfoPanel.cs" timestamp="1557222112978">
         <mark key="'" line="314" column="35" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1557308698858">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1557891636787">
         <mark key="'" line="286" column="42" />
         <mark key="[" line="262" column="0" />
         <mark key="]" line="262" column="0" />
@@ -132,6 +132,9 @@
         <mark key="^" line="331" column="60" />
         <mark key="." line="331" column="60" />
       </file>
+      <file name="E:/project/tf2_3.7.0_IOS/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557890695603">
+        <mark key="[" line="245" column="26" />
+      </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557112392134">
         <mark key="'" line="486" column="27" />
         <mark key="[" line="491" column="12" />
@@ -142,6 +145,7 @@
       <file name="/Dummy.txt" timestamp="1557744983171">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/project/tf2_3.7.0_IOS/Assets/Scripts/Platform/LianShangIOS/LianShangIOSPlatform.cs" timestamp="1557890448636" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityGCMessage.cs" timestamp="1557213821510">
         <mark key="'" line="108" column="43" />
         <mark key="[" line="40" column="78" />
