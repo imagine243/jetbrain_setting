@@ -94,8 +94,8 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="53" column="33" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" timestamp="1557999368371">
-        <mark key="'" line="19" column="21" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" timestamp="1558001257608">
+        <mark key="'" line="19" column="20" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationActivityDataCenter.cs" timestamp="1557216536251">
         <mark key="[" line="756" column="69" />
@@ -250,7 +250,7 @@
       <jump line="104" column="36" filename="E:/project/tf2_3.7.0_IOS/Assets/Scripts/Platform/FaceBook/FaceBookCallbackMessage.cs" />
       <jump line="100" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" />
       <jump line="6" column="53" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
-      <jump line="19" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" />
+      <jump line="19" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
