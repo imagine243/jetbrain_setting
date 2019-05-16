@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" timestamp="1557393005246">
-        <mark key="'" line="159" column="22" />
-        <mark key="[" line="129" column="4" />
-        <mark key="]" line="129" column="4" />
-        <mark key="^" line="129" column="4" />
-        <mark key="." line="129" column="4" />
-      </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557739404634" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" timestamp="1557393094445">
         <mark key="'" line="394" column="42" />
@@ -17,25 +10,17 @@
         <mark key="]" line="522" column="55" />
         <mark key="." line="522" column="0" />
       </file>
-      <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" timestamp="1557109592852">
-        <mark key="'" line="44" column="58" />
-        <mark key="[" line="69" column="12" />
-        <mark key="]" line="69" column="30" />
-        <mark key="." line="69" column="30" />
-        <mark key="^" line="69" column="30" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1557220549561">
+        <mark key="[" line="144" column="56" />
+        <mark key="]" line="144" column="58" />
+        <mark key="." line="144" column="58" />
+        <mark key="^" line="144" column="58" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" timestamp="1557472630257">
         <mark key="'" line="32" column="46" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" timestamp="1557224966539">
-        <mark key="'" line="54" column="51" />
-        <mark key="[" line="94" column="49" />
-        <mark key="]" line="95" column="56" />
-        <mark key="." line="95" column="56" />
-        <mark key="^" line="95" column="56" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1557739468648">
         <mark key="'" line="8" column="36" />
@@ -47,8 +32,33 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557042204081">
         <mark key="'" line="393" column="43" />
       </file>
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/YaYaWan/YaYaWanConstants.cs" timestamp="1557109450621">
+        <mark key="[" line="19" column="79" />
+        <mark key="]" line="19" column="79" />
+        <mark key="^" line="19" column="79" />
+        <mark key="." line="19" column="79" />
+      </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/UI/LoginUI/UILoginServerPanel.cs" timestamp="1557737132317">
         <mark key="'" line="133" column="44" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1557381119930">
+        <mark key="[" line="346" column="52" />
+        <mark key="]" line="346" column="59" />
+        <mark key="^" line="346" column="59" />
+        <mark key="." line="346" column="59" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityCGMessage.cs" timestamp="1557047432892">
+        <mark key="[" line="208" column="5" />
+        <mark key="]" line="210" column="16" />
+        <mark key="^" line="210" column="16" />
+        <mark key="." line="210" column="16" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" timestamp="1557999165438">
+        <mark key="'" line="6" column="53" />
+        <mark key="[" line="32" column="73" />
+        <mark key="]" line="32" column="76" />
+        <mark key="." line="32" column="76" />
+        <mark key="^" line="32" column="76" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557997625408">
         <mark key="[" line="250" column="26" />
@@ -60,18 +70,17 @@
         <mark key="'" line="314" column="35" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1557891636787" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" timestamp="1557391003979">
-        <mark key="'" line="97" column="60" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="58" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" timestamp="1557999035400">
+        <mark key="'" line="100" column="63" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="74" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ActivityGCHandler.cs" timestamp="1557047525340">
-        <mark key="'" line="225" column="52" />
-        <mark key="[" line="237" column="64" />
-        <mark key="]" line="237" column="66" />
-        <mark key="." line="237" column="66" />
-        <mark key="^" line="237" column="66" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1557999009623">
+        <mark key="[" line="676" column="16" />
+        <mark key="]" line="676" column="22" />
+        <mark key="^" line="676" column="22" />
+        <mark key="." line="676" column="22" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnGroupCtrl.cs" timestamp="1557732637761">
         <mark key="[" line="43" column="40" />
@@ -79,25 +88,26 @@
         <mark key="^" line="45" column="66" />
         <mark key="." line="45" column="66" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ChargeCGMessage.cs" timestamp="1557297533573">
-        <mark key="'" line="49" column="63" />
-        <mark key="[" line="111" column="5" />
-        <mark key="]" line="91" column="61" />
-        <mark key="^" line="91" column="61" />
-        <mark key="." line="91" column="61" />
-      </file>
       <file name="E:/gitdir/UnityDemo/UnityDemo/Assets/Scripts/Pgrid/Grid.cs" timestamp="1557804823909">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="33" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="53" column="33" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ChargeGCMessage.cs" timestamp="1557384630168">
-        <mark key="'" line="171" column="27" />
-        <mark key="[" line="19" column="82" />
-        <mark key="]" line="175" column="20" />
-        <mark key="^" line="175" column="20" />
-        <mark key="." line="175" column="20" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" timestamp="1557999368371">
+        <mark key="'" line="19" column="21" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationActivityDataCenter.cs" timestamp="1557216536251">
+        <mark key="[" line="756" column="69" />
+        <mark key="]" line="756" column="83" />
+        <mark key="^" line="756" column="83" />
+        <mark key="." line="756" column="83" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" timestamp="1557998503509">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
       </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557050797129">
         <mark key="'" line="74" column="25" />
@@ -106,12 +116,11 @@
         <mark key="." line="74" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1557739952919" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" timestamp="1557301314638">
-        <mark key="'" line="331" column="60" />
-        <mark key="[" line="337" column="20" />
-        <mark key="]" line="331" column="60" />
-        <mark key="^" line="331" column="60" />
-        <mark key="." line="331" column="60" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanelBtnFunction.cs" timestamp="1557371228393">
+        <mark key="[" line="38" column="101" />
+        <mark key="]" line="39" column="7" />
+        <mark key="." line="39" column="7" />
+        <mark key="^" line="39" column="7" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1557997050700">
         <mark key="[" line="302" column="0" />
@@ -119,36 +128,21 @@
       <file name="E:/project/tf2_3.7.0_IOS/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557890695603">
         <mark key="[" line="245" column="26" />
       </file>
-      <file name="E:/project/tf2_3.7.0/Assets/Scripts/GameCtrl/Main.cs" timestamp="1557112392134">
-        <mark key="'" line="486" column="27" />
-        <mark key="[" line="491" column="12" />
-        <mark key="]" line="491" column="12" />
-        <mark key="." line="491" column="12" />
-        <mark key="^" line="491" column="12" />
-      </file>
       <file name="/Dummy.txt" timestamp="1557744983171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/project/tf2_3.7.0_IOS/Assets/Scripts/Platform/LianShangIOS/LianShangIOSPlatform.cs" timestamp="1557890448636" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityGCMessage.cs" timestamp="1557213821510">
-        <mark key="'" line="108" column="43" />
-        <mark key="[" line="40" column="78" />
-        <mark key="]" line="42" column="87" />
-        <mark key="^" line="42" column="87" />
-        <mark key="." line="42" column="87" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/RechargeItemCtrl.cs" timestamp="1557388327776">
-        <mark key="'" line="272" column="34" />
-        <mark key="[" line="299" column="5" />
-        <mark key="]" line="271" column="59" />
-        <mark key="^" line="271" column="59" />
-        <mark key="." line="271" column="59" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" timestamp="1557388169687">
         <mark key="'" line="1059" column="23" />
       </file>
       <file name="E:/project/tf2_3.7.0_IOS/Assets/Scripts/Editor/Build/ProjectBuild.cs" timestamp="1557988947620" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1557729026711">
+      <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557108994921">
+        <mark key="[" line="405" column="62" />
+        <mark key="]" line="405" column="69" />
+        <mark key="." line="405" column="69" />
+        <mark key="^" line="405" column="69" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1557998473840">
         <mark key="'" line="62" column="24" />
         <mark key="[" line="16" column="26" />
         <mark key="]" line="17" column="47" />
@@ -157,9 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
-      <jump line="27" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
-      <jump line="323" column="95" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
       <jump line="46" column="69" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
       <jump line="57" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
       <jump line="62" column="64" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
@@ -257,43 +248,46 @@
       <jump line="9" column="52" filename="E:/project/tf2_3.9.0/Assets/Scripts/NET/Message/RoleGCMessage.cs" />
       <jump line="12" column="41" filename="E:/project/tf2_3.9.0/Assets/Scripts/NET/Message/RoleGCMessage.cs" />
       <jump line="104" column="36" filename="E:/project/tf2_3.7.0_IOS/Assets/Scripts/Platform/FaceBook/FaceBookCallbackMessage.cs" />
+      <jump line="100" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" />
+      <jump line="6" column="53" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
+      <jump line="19" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoLnZlcnRpY2VzID0gdmVydGljZXM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NEW_FIRST_RECHARGE_DATA</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>NEW_FIRST_RECHARGE_DATA</text>
       </register>
-      <register name="0" type="4">
-        <text>((y + 1) * (xSize + 1)) + i</text>
+      <register name="0" type="2">
+        <text encoding="base64">CSAgICBEeW5hbWljRGF0YUNlbnRlci5SZWNlaXZlRGF0YShFbURhdGFUeXBlLk5FV19GSVJTVF9SRUNIQVJHRV9EQVRBKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoLnZlcnRpY2VzID0gdmVydGljZXM7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoLnRyaWFuZ2xlcyA9IHRyaWFuZ2xlczsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRyaWFuZ2xlc1swXSA9IDA7Ci8vICAgICAgICB0cmlhbmdsZXNbMV0gPSB4U2l6ZSArIDE7Ci8vICAgICAgICB0cmlhbmdsZXNbMl0gPSAxOwogICAgICAgIGZvciAoaW50IHkgPSAwOyB5IDwgeVNpemU7IHkrKykKICAgICAgICB7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgeFNpemU7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdHJpYW5nbGVzWygoeSAqIHhTaXplICsgaSkgKiA2KV0gPSAoeSAqICh4U2l6ZSArIDEpKSArIGk7CiAgICAgICAgICAgICAgICB0cmlhbmdsZXNbKCh5ICogeFNpemUgKyBpKSAqIDYpICsgMV0gPSAoKHkgKyAxKSAqICh4U2l6ZSArIDEpKSArIGk7CiAgICAgICAgICAgICAgICB0cmlhbmdsZXNbKCh5ICogeFNpemUgKyBpKSAqIDYpICsgMl0gPSAoeSAqICh4U2l6ZSArIDEpKSArIGkgKyAxOwogICAgICAgICAgICAgICAgdHJpYW5nbGVzWygoeSAqIHhTaXplICsgaSkgKiA2KSArIDNdID0gKHkgKiAoeFNpemUgKyAxKSkgKyBpICsgMTsKICAgICAgICAgICAgICAgIHRyaWFuZ2xlc1soKHkgKiB4U2l6ZSArIGkpICogNikgKyA0XSA9ICgoeSArIDEpICogKHhTaXplICsgMSkpICsgaTsKICAgICAgICAgICAgICAgIHRyaWFuZ2xlc1soKHkgKiB4U2l6ZSArIGkpICogNikgKyA1XSA9ICgoeSArIDEpICogKHhTaXplICsgMSkpICsgaSArIDE7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZvaWQgVXBkYXRlICgpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRyaWFuZ2xlc1swXSA9IDA7Ci8vICAgICAgICB0cmlhbmdsZXNbMV0gPSB4U2l6ZSArIDE7Ci8vICAgICAgICB0cmlhbmdsZXNbMl0gPSAxOwo=</text>
+        <text encoding="base64">CS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRyaWFuZ2xlc1syXSA9IDE7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRyaWFuZ2xlc1sxXSA9IHhTaXplICsgMTsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRyaWFuZ2xlc1swXSA9IDA7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHhTaXplOyBpKyspCiAgICAgICAgewogICAgICAgICAgICB0cmlhbmdsZXNbKGkgKiA2KV0gPSBpOwogICAgICAgICAgICB0cmlhbmdsZXNbKGkgKiA2KSArIDFdID0gaSArIHhTaXplICsgMTsKICAgICAgICAgICAgdHJpYW5nbGVzWyhpICogNikgKyAyXSA9IGkgKyAxOwogICAgICAgICAgICB0cmlhbmdsZXNbKGkgKiA2KSArIDNdID0gaSArIDE7CiAgICAgICAgICAgIHRyaWFuZ2xlc1soaSAqIDYpICsgNF0gPSBpICsgeFNpemUgKyAxOwogICAgICAgICAgICB0cmlhbmdsZXNbKGkgKiA2KSArIDVdID0gaSArIHhTaXplICsgMjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CXZvaWQgU3RhcnQgKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
