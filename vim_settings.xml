@@ -12,11 +12,10 @@
         <mark key="^" line="756" column="83" />
         <mark key="." line="756" column="83" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" timestamp="1558084580160">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="26" column="7" />
-        <mark key="." line="26" column="7" />
-        <mark key="^" line="26" column="7" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" timestamp="1558085711905">
+        <mark key="[" line="31" column="55" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557050797129">
         <mark key="'" line="74" column="25" />
@@ -35,6 +34,12 @@
         <mark key="[" line="522" column="0" />
         <mark key="]" line="522" column="55" />
         <mark key="." line="522" column="0" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainTaskItem.cs" timestamp="1558085502081">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="29" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1557220549561">
         <mark key="[" line="144" column="56" />
@@ -84,8 +89,8 @@
         <mark key="^" line="210" column="16" />
         <mark key="." line="210" column="16" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" timestamp="1557999165438">
-        <mark key="'" line="6" column="53" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" timestamp="1558085097052">
+        <mark key="'" line="6" column="58" />
         <mark key="[" line="32" column="73" />
         <mark key="]" line="32" column="76" />
         <mark key="." line="32" column="76" />
@@ -97,6 +102,7 @@
         <mark key="]" line="689" column="0" />
         <mark key="." line="689" column="0" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Activities/BigWheel/UIBigWheelPanel.cs" timestamp="1558085029146" />
       <file name="E:/project/tf2_3.7.0_IOS/Assets/Scripts/Platform/FaceBook/FaceBookCallbackMessage.cs" timestamp="1557972932225">
         <mark key="'" line="104" column="36" />
       </file>
@@ -243,7 +249,6 @@
       <jump line="12" column="41" filename="E:/project/tf2_3.9.0/Assets/Scripts/NET/Message/RoleGCMessage.cs" />
       <jump line="104" column="36" filename="E:/project/tf2_3.7.0_IOS/Assets/Scripts/Platform/FaceBook/FaceBookCallbackMessage.cs" />
       <jump line="100" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" />
-      <jump line="6" column="53" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
       <jump line="19" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" />
       <jump line="677" column="51" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/PlatformManager.cs" />
       <jump line="692" column="50" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/PlatformManager.cs" />
@@ -257,10 +262,11 @@
       <jump line="148" column="45" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
       <jump line="150" column="30" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
       <jump line="215" column="53" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
+      <jump line="6" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UpdateFirstRechargeInfo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>UpdateFirstRechargeInfo</text>
@@ -269,31 +275,31 @@
         <text encoding="base64">CQlEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLk5FV19GSVJTVF9SRUNIQVJHRV9EQVRBLFVwZGF0ZUZpcnN0UmVjaGFyZ2VJbmZvKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLl9PbkNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBvdmVycmlkZSB2b2lkIF9PbkNsb3NlKCkK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CXZvaWQgVXBkYXRlICgpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLl9Pbk9wZW4ob2JqKTsK</text>
+        <text encoding="base64">CS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
