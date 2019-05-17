@@ -61,7 +61,17 @@
       <file name="E:/project/tf2_3.7.0_IOS/Assets/Scripts/Platform/FaceBook/FaceBookCallbackMessage.cs" timestamp="1557972932225">
         <mark key="'" line="104" column="36" />
       </file>
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/FaceBook/FaceBookCallbackMessage.cs" timestamp="1558060297107" />
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/FaceBook/FaceBookCallbackMessage.cs" timestamp="1558074697488">
+        <mark key="'" line="125" column="25" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="13" />
+      </file>
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" timestamp="1558074745470">
+        <mark key="'" line="253" column="25" />
+        <mark key="[" line="214" column="77" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1557891636787" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" timestamp="1557999035400">
         <mark key="'" line="100" column="63" />
@@ -108,11 +118,11 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Utils/AppsFlyerUtil.cs" timestamp="1558060358098">
-        <mark key="[" line="67" column="47" />
-        <mark key="]" line="67" column="47" />
-        <mark key="." line="67" column="47" />
-        <mark key="^" line="67" column="47" />
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Utils/AppsFlyerUtil.cs" timestamp="1558074662956">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="13" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="62" column="5" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1557739952919" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanelBtnFunction.cs" timestamp="1557371228393">
@@ -142,7 +152,9 @@
         <mark key="." line="405" column="69" />
         <mark key="^" line="405" column="69" />
       </file>
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreGameSDK.cs" timestamp="1558061574267" />
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreGameSDK.cs" timestamp="1558074899487">
+        <mark key="'" line="88" column="53" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1557998473840">
         <mark key="'" line="62" column="24" />
         <mark key="[" line="16" column="26" />
@@ -152,10 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
-      <jump line="45" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
-      <jump line="137" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" />
-      <jump line="1471" column="25" filename="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" />
       <jump line="108" column="43" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityGCMessage.cs" />
       <jump line="48" column="12" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UIFirstRechargePanel.cs" />
       <jump line="89" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UIFirstRechargePanel.cs" />
@@ -252,40 +260,44 @@
       <jump line="692" column="50" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/PlatformManager.cs" />
       <jump line="678" column="51" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/PlatformManager.cs" />
       <jump line="155" column="39" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" />
+      <jump line="125" column="25" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/FaceBook/FaceBookCallbackMessage.cs" />
+      <jump line="95" column="23" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
+      <jump line="252" column="25" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
+      <jump line="88" column="53" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreGameSDK.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCUtleVV0aWwuR2V0SW5zdGFuY2UoKS5uZXdSb2xlIChyb2xlSWQpOwo=</text>
+        <text encoding="base64">CQkJCQlBcHBzRmx5ZXJVdGlsLkdldEluc3RhbmNlKCkuVHJhY2tQYXkoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>before</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8JCQkxINeisuEgMrXHwrwgMy7J/by2CgkJCWlmKCB0eXBlID09IDEpCgkJCXsKCQkJCXN0cmluZyByb2xlSWQgPSBSb2xlRGF0YUNlbnRlci5yb2xlSW5mb0RhdGEucm9sZUluZm9CZWFuLnJvbGVLZXkuVG9TdHJpbmcoKTsvL73HyatJRAoJCQkJS2V5VXRpbC5HZXRJbnN0YW5jZSgpLm5ld1JvbGUgKHJvbGVJZCk7CgkJCX0KCQkJaWYoIHR5cGUgPT0gMikKCQkJewoJCQkJS2V5VXRpbC5HZXRJbnN0YW5jZSAoKS5sb2dpblJvbGUgKFJvbGVEYXRhQ2VudGVyLnJvbGVJbmZvRGF0YS5yb2xlSW5mb0JlYW4ucm9sZUtleS5Ub1N0cmluZygpKTsKCQkJCUtleVV0aWwuR2V0SW5zdGFuY2UgKCkub25Qcm9maWxlU2lnbkluICgibG9naW4iLExldmVsTWFuYWdlckxvZ2luLnVzZXJJRC5Ub1N0cmluZygpKTsgCgkJCQlBcHBzRmx5ZXJVdGlsLkdldEluc3RhbmNlICgpLlRyYWNrTGV2ZWwgKFJvbGVEYXRhQ2VudGVyLnJvbGVJbmZvRGF0YS5yb2xlSW5mb0JlYW4ubHYpOwoJCQkJQXBwc0ZseWVyVXRpbC5HZXRJbnN0YW5jZSAoKS5UcmFja1ZpcExldmVsIChSb2xlRGF0YUNlbnRlci5yb2xlSW5mb0RhdGEucm9sZUluZm9CZWFuLnZpcEx2KTsJCQoJCQl9CgkJCWlmICh0eXBlID09IDMpIHsKCQkJCUFwcHNGbHllclV0aWwuR2V0SW5zdGFuY2UgKCkuVHJhY2tMZXZlbCAoUm9sZURhdGFDZW50ZXIucm9sZUluZm9EYXRhLnJvbGVJbmZvQmVhbi5sdik7CgkJCX0K</text>
+        <text encoding="base64">I2lmIExJQU5TSEFORwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCUtleVV0aWwuR2V0SW5zdGFuY2UoKS5uZXdSb2xlIChyb2xlSWQpOwo=</text>
+        <text encoding="base64">CQkJCQlBcHBzRmx5ZXJVdGlsLkdldEluc3RhbmNlKCkuVHJhY2tQYXkoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXN0cmluZyByb2xlSWQgPSBSb2xlRGF0YUNlbnRlci5yb2xlSW5mb0RhdGEucm9sZUluZm9CZWFuLnJvbGVLZXkuVG9TdHJpbmcoKTsvL73HyatJRAo=</text>
+        <text encoding="base64">CQkJCUtleVV0aWwuR2V0SW5zdGFuY2UoKS5uZXdSb2xlIChyb2xlSWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCUtleVV0aWwuR2V0SW5zdGFuY2UgKCkub25Qcm9maWxlU2lnbkluICgibG9naW4iLExldmVsTWFuYWdlckxvZ2luLnVzZXJJRC5Ub1N0cmluZygpKTsgCg==</text>
+        <text encoding="base64">CQkJCXN0cmluZyByb2xlSWQgPSBSb2xlRGF0YUNlbnRlci5yb2xlSW5mb0RhdGEucm9sZUluZm9CZWFuLnJvbGVLZXkuVG9TdHJpbmcoKTsvL73HyatJRAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCUtleVV0aWwuR2V0SW5zdGFuY2UgKCkubG9naW5Sb2xlIChSb2xlRGF0YUNlbnRlci5yb2xlSW5mb0RhdGEucm9sZUluZm9CZWFuLnJvbGVLZXkuVG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">CQkJCUtleVV0aWwuR2V0SW5zdGFuY2UgKCkub25Qcm9maWxlU2lnbkluICgibG9naW4iLExldmVsTWFuYWdlckxvZ2luLnVzZXJJRC5Ub1N0cmluZygpKTsgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkJCUtleVV0aWwuR2V0SW5zdGFuY2UgKCkubG9naW5Sb2xlIChSb2xlRGF0YUNlbnRlci5yb2xlSW5mb0RhdGEucm9sZUluZm9CZWFuLnJvbGVLZXkuVG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJRGVidWcuTG9nKCJBcHBzRmx5ZXJVdGlsIFRyYWNrTGV2ZWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJRGVidWcuTG9nKCJBcHBzRmx5ZXJVdGlsIFRyYWNrVmlwTGV2ZWwiKTsK</text>
+        <text encoding="base64">CQkJRGVidWcuTG9nKCJBcHBzRmx5ZXJVdGlsIFRyYWNrTGV2ZWwiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJRGVidWcuTG9nKCJBcHBzRmx5ZXJVdGlsIFRyYWNrVmlwTGV2ZWwiKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CX0K</text>
