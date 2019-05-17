@@ -66,11 +66,12 @@
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="13" />
       </file>
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" timestamp="1558074745470">
-        <mark key="'" line="253" column="25" />
-        <mark key="[" line="214" column="77" />
-        <mark key="]" line="215" column="0" />
-        <mark key="." line="215" column="0" />
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" timestamp="1558075186017">
+        <mark key="'" line="215" column="53" />
+        <mark key="[" line="215" column="72" />
+        <mark key="]" line="215" column="53" />
+        <mark key="." line="215" column="53" />
+        <mark key="^" line="215" column="53" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1557891636787" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" timestamp="1557999035400">
@@ -164,10 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="43" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ActivityGCMessage.cs" />
-      <jump line="48" column="12" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UIFirstRechargePanel.cs" />
-      <jump line="89" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UIFirstRechargePanel.cs" />
-      <jump line="26" column="61" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UIFirstRechargePanel.cs" />
       <jump line="37" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
       <jump line="39" column="43" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
       <jump line="287" column="44" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/AwardGridCtrl.cs" />
@@ -264,13 +261,17 @@
       <jump line="95" column="23" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
       <jump line="252" column="25" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
       <jump line="88" column="53" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreGameSDK.cs" />
+      <jump line="60" column="21" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
+      <jump line="148" column="45" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
+      <jump line="150" column="30" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
+      <jump line="215" column="53" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlBcHBzRmx5ZXJVdGlsLkdldEluc3RhbmNlKCkuVHJhY2tQYXkoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>ceproductId</text>
       </register>
       <register name="-" type="4">
-        <text>before</text>
+        <text>ceproductId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2lmIExJQU5TSEFORwo=</text>
