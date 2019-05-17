@@ -12,10 +12,11 @@
         <mark key="^" line="756" column="83" />
         <mark key="." line="756" column="83" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" timestamp="1558085711905">
-        <mark key="[" line="31" column="55" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" timestamp="1558087083105">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557050797129">
         <mark key="'" line="74" column="25" />
@@ -265,14 +266,14 @@
       <jump line="6" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>buyBtn</text>
       </register>
       <register name="-" type="4">
-        <text>UpdateFirstRechargeInfo</text>
+        <text>buyBtn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLk5FV19GSVJTVF9SRUNIQVJHRV9EQVRBLFVwZGF0ZUZpcnN0UmVjaGFyZ2VJbmZvKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBVSUJ1dHRvbjMgYnV5QnRuOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
