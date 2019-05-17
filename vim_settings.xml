@@ -12,11 +12,11 @@
         <mark key="^" line="756" column="83" />
         <mark key="." line="756" column="83" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" timestamp="1557998503509">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="23" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" timestamp="1558084580160">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/UI/Panel/UIGameExit.cs" timestamp="1557050797129">
         <mark key="'" line="74" column="25" />
@@ -142,10 +142,10 @@
         <mark key="^" line="45" column="66" />
         <mark key="." line="45" column="66" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1558080613282">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" timestamp="1558083667760">
         <mark key="'" line="62" column="24" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="17" column="47" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="101" />
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
       </file>
@@ -260,40 +260,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ceproductId</text>
+        <text>UpdateFirstRechargeInfo</text>
       </register>
       <register name="-" type="4">
-        <text>ceproductId</text>
+        <text>UpdateFirstRechargeInfo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2lmIExJQU5TSEFORwo=</text>
+        <text encoding="base64">CQlEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLk5FV19GSVJTVF9SRUNIQVJHRV9EQVRBLFVwZGF0ZUZpcnN0UmVjaGFyZ2VJbmZvKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlBcHBzRmx5ZXJVdGlsLkdldEluc3RhbmNlKCkuVHJhY2tQYXkoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCUtleVV0aWwuR2V0SW5zdGFuY2UoKS5uZXdSb2xlIChyb2xlSWQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXN0cmluZyByb2xlSWQgPSBSb2xlRGF0YUNlbnRlci5yb2xlSW5mb0RhdGEucm9sZUluZm9CZWFuLnJvbGVLZXkuVG9TdHJpbmcoKTsvL73HyatJRAo=</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLl9PbkNsb3NlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCUtleVV0aWwuR2V0SW5zdGFuY2UgKCkub25Qcm9maWxlU2lnbkluICgibG9naW4iLExldmVsTWFuYWdlckxvZ2luLnVzZXJJRC5Ub1N0cmluZygpKTsgCg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCUtleVV0aWwuR2V0SW5zdGFuY2UgKCkubG9naW5Sb2xlIChSb2xlRGF0YUNlbnRlci5yb2xlSW5mb0RhdGEucm9sZUluZm9CZWFuLnJvbGVLZXkuVG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBvdmVycmlkZSB2b2lkIF9PbkNsb3NlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJRGVidWcuTG9nKCJBcHBzRmx5ZXJVdGlsIFRyYWNrTGV2ZWwiKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJRGVidWcuTG9nKCJBcHBzRmx5ZXJVdGlsIFRyYWNrVmlwTGV2ZWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLl9Pbk9wZW4ob2JqKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
