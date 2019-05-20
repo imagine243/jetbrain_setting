@@ -32,14 +32,15 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1557739468648">
         <mark key="'" line="8" column="36" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" timestamp="1558339227259">
-        <mark key="'" line="14" column="64" />
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" timestamp="1558342265777">
+        <mark key="'" line="15" column="64" />
+        <mark key="[" line="30" column="76" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" timestamp="1558340775998">
-        <mark key="'" line="18" column="51" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" timestamp="1558341562256">
+        <mark key="'" line="18" column="61" />
         <mark key="[" line="32" column="73" />
         <mark key="]" line="32" column="76" />
         <mark key="." line="32" column="76" />
@@ -84,8 +85,8 @@
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_SeekHelpInfo_Msg.cs" timestamp="1558340782953">
-        <mark key="'" line="21" column="20" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_SeekHelpInfo_Msg.cs" timestamp="1558342261367">
+        <mark key="'" line="21" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -187,8 +188,8 @@
       <jump line="14" column="64" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" />
       <jump line="86" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" />
       <jump line="18" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" />
-      <jump line="18" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
-      <jump line="21" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_SeekHelpInfo_Msg.cs" />
+      <jump line="18" column="61" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
+      <jump line="21" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_SeekHelpInfo_Msg.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
