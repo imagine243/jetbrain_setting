@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" timestamp="1558001257608">
-        <mark key="'" line="19" column="20" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" timestamp="1558322467480">
+        <mark key="'" line="19" column="21" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationActivityDataCenter.cs" timestamp="1557216536251">
         <mark key="[" line="756" column="69" />
@@ -36,11 +36,10 @@
         <mark key="]" line="522" column="55" />
         <mark key="." line="522" column="0" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainTaskItem.cs" timestamp="1558321685973">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="10" column="31" />
-        <mark key="^" line="10" column="31" />
-        <mark key="." line="10" column="31" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainTaskItem.cs" timestamp="1558322737947">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1557220549561">
         <mark key="[" line="144" column="56" />
@@ -90,8 +89,8 @@
         <mark key="^" line="210" column="16" />
         <mark key="." line="210" column="16" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" timestamp="1558085097052">
-        <mark key="'" line="6" column="58" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" timestamp="1558322462522">
+        <mark key="'" line="6" column="57" />
         <mark key="[" line="32" column="73" />
         <mark key="]" line="32" column="76" />
         <mark key="." line="32" column="76" />
@@ -119,6 +118,7 @@
         <mark key="." line="215" column="53" />
         <mark key="^" line="215" column="53" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/BargainTask.cs" timestamp="1558322471526" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1558088376289" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" timestamp="1557999035400">
         <mark key="'" line="100" column="63" />
@@ -251,7 +251,6 @@
       <jump line="12" column="41" filename="E:/project/tf2_3.9.0/Assets/Scripts/NET/Message/RoleGCMessage.cs" />
       <jump line="104" column="36" filename="E:/project/tf2_3.7.0_IOS/Assets/Scripts/Platform/FaceBook/FaceBookCallbackMessage.cs" />
       <jump line="100" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" />
-      <jump line="19" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" />
       <jump line="677" column="51" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/PlatformManager.cs" />
       <jump line="692" column="50" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/PlatformManager.cs" />
       <jump line="678" column="51" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/PlatformManager.cs" />
@@ -264,11 +263,12 @@
       <jump line="148" column="45" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
       <jump line="150" column="30" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
       <jump line="215" column="53" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
-      <jump line="6" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
+      <jump line="6" column="57" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
+      <jump line="19" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>buyBtn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lTGFiZWwuZ2FtZU9iamVjdC5TZXRBY3RpdmUoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>buyBtn</text>
@@ -277,7 +277,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBVSUJ1dHRvbjMgYnV5QnRuOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lTGFiZWwuZ2FtZU9iamVjdC5TZXRBY3RpdmUoKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -289,19 +289,19 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZvaWQgVXBkYXRlICgpIHsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXZvaWQgVXBkYXRlICgpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
