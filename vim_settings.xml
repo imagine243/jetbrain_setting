@@ -39,8 +39,8 @@
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="31" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" timestamp="1558341562256">
-        <mark key="'" line="18" column="61" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" timestamp="1558342724622">
+        <mark key="'" line="6" column="50" />
         <mark key="[" line="32" column="73" />
         <mark key="]" line="32" column="76" />
         <mark key="." line="32" column="76" />
@@ -181,7 +181,6 @@
       <jump line="215" column="53" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreCallBackMessage.cs" />
       <jump line="19" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" />
       <jump line="39" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" />
-      <jump line="6" column="54" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
       <jump line="19" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_SeekHelpInfo_Msg.cs" />
       <jump line="24" column="54" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
       <jump line="17" column="39" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainHelpPlayerItem.cs" />
@@ -190,6 +189,7 @@
       <jump line="18" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" />
       <jump line="18" column="61" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
       <jump line="21" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_SeekHelpInfo_Msg.cs" />
+      <jump line="6" column="50" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
