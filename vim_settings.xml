@@ -16,11 +16,11 @@
         <mark key="." line="35" column="7" />
         <mark key="^" line="35" column="7" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1558340001772">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1558417715882">
         <mark key="'" line="18" column="51" />
-        <mark key="[" line="723" column="34" />
-        <mark key="]" line="723" column="33" />
-        <mark key="." line="723" column="33" />
+        <mark key="[" line="724" column="0" />
+        <mark key="]" line="724" column="73" />
+        <mark key="." line="724" column="0" />
         <mark key="^" line="723" column="33" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" timestamp="1558335118949" />
@@ -57,9 +57,9 @@
         <mark key="." line="16" column="81" />
         <mark key="^" line="16" column="80" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" timestamp="1558405968667">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" timestamp="1558417671229">
         <mark key="'" line="32" column="113" />
-        <mark key="[" line="28" column="0" />
+        <mark key="[" line="48" column="4" />
         <mark key="]" line="30" column="76" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
@@ -194,7 +194,7 @@
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CXB1YmxpYyBjb25zdCBzdHJpbmcgQmFyZ2FpbldhckhlbHBQYW5lbCA9ICJDaXR5L0JhcmdhaW5XYXJIZWxwUGFuZWwiOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -205,8 +205,8 @@
       <register name="/" type="4">
         <text>bargain</text>
       </register>
-      <register name="0" type="4">
-        <text>OnAssistedSelect</text>
+      <register name="0" type="2">
+        <text encoding="base64">CXB1YmxpYyBjb25zdCBzdHJpbmcgQmFyZ2FpbldhckhlbHBQYW5lbCA9ICJDaXR5L0JhcmdhaW5XYXJIZWxwUGFuZWwiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
