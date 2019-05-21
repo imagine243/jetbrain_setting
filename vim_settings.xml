@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/BargainwarCGMessage.cs" timestamp="1558339269636" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainTaskItem.cs" timestamp="1558333001611">
         <mark key="[" line="22" column="37" />
         <mark key="]" line="22" column="53" />
@@ -58,19 +57,19 @@
         <mark key="." line="16" column="81" />
         <mark key="^" line="16" column="80" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" timestamp="1558423210602">
-        <mark key="'" line="14" column="21" />
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="64" column="56" />
-        <mark key="." line="64" column="56" />
-        <mark key="^" line="64" column="56" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" timestamp="1558426033992">
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="55" column="31" />
+        <mark key="." line="55" column="31" />
+        <mark key="^" line="55" column="31" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainHelpPlayerItem.cs" timestamp="1558346341184">
-        <mark key="'" line="17" column="39" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="24" column="7" />
-        <mark key="^" line="24" column="7" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICountDownTimer.cs" timestamp="1558425822382" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainHelpPlayerItem.cs" timestamp="1558426136378">
+        <mark key="'" line="24" column="64" />
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="65" />
+        <mark key="." line="24" column="65" />
+        <mark key="^" line="24" column="65" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/BargainTask.cs" timestamp="1558322471526" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" timestamp="1558346926211">
@@ -84,10 +83,9 @@
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_SeekHelpInfo_Msg.cs" timestamp="1558425715263" />
     </filemarks>
     <jumps>
-      <jump line="26" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
-      <jump line="158" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
       <jump line="18" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" />
       <jump line="24" column="60" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" />
       <jump line="138" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" />
@@ -175,7 +173,6 @@
       <jump line="19" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_SeekHelpInfo_Msg.cs" />
       <jump line="24" column="54" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
       <jump line="17" column="39" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainHelpPlayerItem.cs" />
-      <jump line="14" column="64" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" />
       <jump line="86" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" />
       <jump line="18" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" />
       <jump line="18" column="61" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" />
@@ -186,37 +183,40 @@
       <jump line="32" column="113" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" />
       <jump line="7" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" />
       <jump line="13" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" />
+      <jump line="14" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" />
+      <jump line="43" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" />
+      <jump line="24" column="64" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainHelpPlayerItem.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">R0NfU2hvd19TZWVrSGVscEluZm9fTXNnIA==</text>
+        <text>false</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R0NfU2hvd19TZWVrSGVscEluZm9fTXNnIA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>bargain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBjb25zdCBzdHJpbmcgQmFyZ2FpbldhckhlbHBQYW5lbCA9ICJDaXR5L0JhcmdhaW5XYXJIZWxwUGFuZWwiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNrSGVscEJ0bi5TZXRTdGF0ZShmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVUlDb3VudERvd25UaW1lci5UaW1lclR5cGUuVW5pdHlUaW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc2tIZWxwQ291bnREb3duVGltZXIuU3RhcnRDb3VudERvd24obXNnLmZyZWVTZWVrVGltZSwgZ2FtZU9iamVjdCwgIm9uQ291bnRFbmQiLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -225,13 +225,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBpbnQgYmFyZ2FpbldhckFzc2lzdGVkTnVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXB1YmxpYyBpbnQgYmFyZ2FpbldhckFzc2lzdGVkTnVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
