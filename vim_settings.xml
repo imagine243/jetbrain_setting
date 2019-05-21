@@ -42,12 +42,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_BargainWar_Msg.cs" timestamp="1558335347818">
         <mark key="'" line="19" column="21" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" timestamp="1558339857320">
-        <mark key="'" line="86" column="58" />
-        <mark key="[" line="90" column="5" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="91" column="16" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" timestamp="1558410300765">
+        <mark key="'" line="7" column="18" />
+        <mark key="[" line="48" column="18" />
+        <mark key="]" line="48" column="49" />
+        <mark key="." line="48" column="49" />
+        <mark key="^" line="48" column="49" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/EquipmentDetailedItemCtrl.cs" timestamp="1558338300853" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainAssistedItem.cs" timestamp="1558346932611">
@@ -88,7 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
       <jump line="54" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" />
       <jump line="26" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
       <jump line="158" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
@@ -188,6 +187,7 @@
       <jump line="16" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainAssistedItem.cs" />
       <jump line="1285" column="115" filename="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" />
       <jump line="32" column="113" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" />
+      <jump line="7" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
