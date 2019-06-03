@@ -57,6 +57,12 @@
         <mark key="^" line="23" column="19" />
         <mark key="." line="23" column="19" />
       </file>
+      <file name="E:/project/tf2_3.9.0/Assets/StreamingAssets/Setting.txt" timestamp="1559555507792">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/WorldOut.cs" timestamp="1558434404432">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="11" column="19" />
@@ -119,12 +125,9 @@
         <mark key="^" line="105" column="48" />
         <mark key="." line="105" column="48" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/StreamingAssets/Setting.txt" timestamp="1559555489974" />
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1558061153117">
         <mark key="'" line="155" column="39" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" timestamp="1558346926211">
-        <mark key="[" line="1285" column="115" />
-        <mark key="]" line="1285" column="122" />
       </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557108994921">
         <mark key="[" line="405" column="62" />
@@ -262,13 +265,13 @@
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>bargain</text>
