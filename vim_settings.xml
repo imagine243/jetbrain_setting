@@ -148,6 +148,9 @@
       <file name="E:/test/RerderingTest/Assets/TransformationGrid.cs" timestamp="1559720889479">
         <mark key="'" line="69" column="38" />
       </file>
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectPoolManager.cs" timestamp="1559806244407">
+        <mark key="'" line="83" column="54" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainHelpPlayerItem.cs" timestamp="1558427248860">
         <mark key="'" line="9" column="47" />
         <mark key="[" line="31" column="0" />
@@ -186,10 +189,9 @@
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
       </file>
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/DataCenter/ConfigTemplate/EffectTemplateVO.cs" timestamp="1559799960204" />
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/DataCenter/ConfigTemplate/EffectTemplateVO.cs" timestamp="1559806056279" />
     </filemarks>
     <jumps>
-      <jump line="147" column="16" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" />
       <jump line="148" column="45" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" />
       <jump line="49" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ChargeCGMessage.cs" />
       <jump line="520" column="52" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
@@ -289,6 +291,7 @@
       <jump line="45" column="52" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Attack/AttackFollowAndStayAI.cs" />
       <jump line="97" column="20" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectController.cs" />
       <jump line="312" column="38" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectData.cs" />
+      <jump line="83" column="54" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectPoolManager.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
