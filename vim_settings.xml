@@ -82,6 +82,10 @@
         <mark key="^" line="105" column="48" />
         <mark key="." line="105" column="48" />
       </file>
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectController.cs" timestamp="1559799991823">
+        <mark key="'" line="97" column="20" />
+      </file>
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1559800037138" />
       <file name="E:/project/mobile_tf2_project/Assets/StreamingAssets/Setting.txt" timestamp="1559555489974" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnGroupCtrl.cs" timestamp="1557732637761">
         <mark key="[" line="43" column="40" />
@@ -134,8 +138,8 @@
         <mark key="^" line="39" column="7" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/UI/GlobalUI/UIMoneyCtrl.cs" timestamp="1559619774623" />
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectData.cs" timestamp="1559792602290">
-        <mark key="'" line="318" column="46" />
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectData.cs" timestamp="1559800034383">
+        <mark key="'" line="312" column="38" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/StreamingAssets/Setting.txt" timestamp="1559618877573" />
       <file name="E:/gitdir/UnityDemo/UnityRendering/.gitignore" timestamp="1559634956925">
@@ -160,6 +164,9 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Attack/AttackFollowAndStayAI.cs" timestamp="1559799978813">
+        <mark key="'" line="45" column="52" />
+      </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1558061153117">
         <mark key="'" line="155" column="39" />
       </file>
@@ -179,11 +186,9 @@
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
       </file>
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/DataCenter/ConfigTemplate/EffectTemplateVO.cs" timestamp="1559799960204" />
     </filemarks>
     <jumps>
-      <jump line="330" column="52" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
-      <jump line="99" column="70" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" />
-      <jump line="140" column="0" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" />
       <jump line="147" column="16" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" />
       <jump line="148" column="45" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" />
       <jump line="49" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ChargeCGMessage.cs" />
@@ -281,6 +286,9 @@
       <jump line="61" column="30" filename="E:/gitdir/UnityDemo/UnityRendering/Assets/Scripts/TransformationGrid.cs" />
       <jump line="4" column="43" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Attack/AttackLightningChainAI.cs" />
       <jump line="318" column="46" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectData.cs" />
+      <jump line="45" column="52" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Attack/AttackFollowAndStayAI.cs" />
+      <jump line="97" column="20" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectController.cs" />
+      <jump line="312" column="38" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectData.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
