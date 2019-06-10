@@ -43,8 +43,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/SystemDataCenter.cs" timestamp="1558432439317">
         <mark key="'" line="80" column="54" />
       </file>
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Editor/Build/ProjectBuild.cs" timestamp="1560145430914">
-        <mark key="'" line="712" column="28" />
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Editor/Build/ProjectBuild.cs" timestamp="1560147548779">
+        <mark key="[" line="720" column="5" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainAssistedItem.cs" timestamp="1558432624071">
         <mark key="'" line="4" column="51" />
@@ -61,6 +61,9 @@
         <mark key="'" line="94" column="28" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/StreamingAssets/Setting.txt" timestamp="1559618877573" />
+      <file name="E:/gitdir/UnityDemo/UnityRendering/.gitignore" timestamp="1559634956925">
+        <mark key="[" line="5" column="15" />
+      </file>
       <file name="E:/test/RerderingTest/Assets/TransformationGrid.cs" timestamp="1559720889479">
         <mark key="'" line="69" column="38" />
       </file>
@@ -76,6 +79,7 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Editor/Build/Build.cs" timestamp="1560146642524" />
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Attack/AttackFollowAndStayAI.cs" timestamp="1559799978813">
         <mark key="'" line="45" column="52" />
       </file>
