@@ -13,7 +13,8 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Attack/AttackLightningChainAI.cs" timestamp="1559808562071">
         <mark key="'" line="60" column="38" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" timestamp="1560162862070">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" timestamp="1560219904878">
+        <mark key="'" line="567" column="18" />
         <mark key="[" line="19" column="33" />
         <mark key="]" line="19" column="32" />
         <mark key="." line="19" column="32" />
@@ -99,9 +100,6 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/DataCenter/ConfigTemplate/EffectTemplateVO.cs" timestamp="1559808482591" />
     </filemarks>
     <jumps>
-      <jump line="29" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
-      <jump line="480" column="31" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3BAAB807-C9E6-4A53-A6AC-8B27910CCA8C/22/1ca3af75/Camera.cs" />
-      <jump line="619" column="55" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
       <jump line="523" column="8" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
       <jump line="574" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
       <jump line="286" column="42" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
@@ -199,6 +197,9 @@
       <jump line="154" column="93" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" />
       <jump line="807" column="28" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" />
       <jump line="712" column="28" filename="E:/project/tf2_3.9.0/Assets/Scripts/Editor/Build/ProjectBuild.cs" />
+      <jump line="391" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
+      <jump line="392" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
+      <jump line="567" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
