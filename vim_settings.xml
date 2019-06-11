@@ -13,12 +13,12 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Attack/AttackLightningChainAI.cs" timestamp="1559808562071">
         <mark key="'" line="60" column="38" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" timestamp="1560219904878">
-        <mark key="'" line="567" column="18" />
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="19" column="32" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" timestamp="1560221319530">
+        <mark key="'" line="562" column="57" />
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="38" />
+        <mark key="^" line="26" column="38" />
+        <mark key="." line="26" column="38" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1557739468648">
         <mark key="'" line="8" column="36" />
@@ -100,8 +100,6 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/DataCenter/ConfigTemplate/EffectTemplateVO.cs" timestamp="1559808482591" />
     </filemarks>
     <jumps>
-      <jump line="523" column="8" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
-      <jump line="574" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
       <jump line="286" column="42" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
       <jump line="133" column="93" filename="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/DisplayModelDisplayInfoEditor.cs" />
       <jump line="139" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelDisplayInfo.cs" />
@@ -200,25 +198,27 @@
       <jump line="391" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
       <jump line="392" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
       <jump line="567" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
+      <jump line="204" column="16" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
+      <jump line="561" column="57" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>petGhostGroup</text>
+        <text>t</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>petGhostGroup</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>bargain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBGdW5jdGlvbkJ0bkdyb3VwQ3RybCBwZXRHaG9zdEdyb3VwOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBHYW1lT2JqZWN0IHBldEdob3N0TGF1bmNoQW5pbU9iajsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">Cg==</text>
