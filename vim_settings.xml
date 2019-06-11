@@ -46,6 +46,10 @@
         <mark key="." line="724" column="0" />
         <mark key="^" line="723" column="33" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/UIWanderMerchantPanel.cs" timestamp="1560241455184">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="90" />
+      </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1557739468648">
         <mark key="'" line="8" column="36" />
       </file>
@@ -213,11 +217,12 @@
         <mark key="'" line="83" column="54" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/LoadingManager.cs" timestamp="1560233036859" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1560237524281">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="3" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1560242459409">
+        <mark key="'" line="23" column="10" />
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="26" column="39" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainHelpPlayerItem.cs" timestamp="1558427248860">
         <mark key="'" line="9" column="47" />
@@ -246,6 +251,10 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1560137970913">
         <mark key="'" line="807" column="28" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" timestamp="1558346926211">
+        <mark key="[" line="1285" column="115" />
+        <mark key="]" line="1285" column="122" />
+      </file>
       <file name="E:/project/tf2_3.7.0/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1557108994921">
         <mark key="[" line="405" column="62" />
         <mark key="]" line="405" column="69" />
@@ -265,7 +274,6 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/DataCenter/ConfigTemplate/EffectTemplateVO.cs" timestamp="1559808482591" />
     </filemarks>
     <jumps>
-      <jump line="394" column="42" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
       <jump line="157" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" />
       <jump line="60" column="77" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
       <jump line="97" column="60" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" />
@@ -365,52 +373,53 @@
       <jump line="171" column="54" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/HeronewGCHandler.cs" />
       <jump line="158" column="4" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/HeronewGCHandler.cs" />
       <jump line="0" column="0" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/HeronewGCHandler.cs" />
+      <jump line="22" column="10" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>MonoBehaviour</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBoZXJvCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MonoBehaviour</text>
+        <text>RefreshData</text>
       </register>
       <register name="/" type="4">
         <text>bargain</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlmdW5jdGlvbk9wZW5TdGF0dXMuQWRkKChpbnQpRW1GdW5jdGlvbklELkNoYXJhY3RlckhhbmRib29rKTsK</text>
+      <register name="0" type="4">
+        <text>RefreshInfo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZXJvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZvaWQgU3RhcnQgKCkgewoJCQoJfQoJCgkvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCgl2b2lkIFVwZGF0ZSAoKSB7CgkJCgl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlmdW5jdGlvbk9wZW5TdGF0dXMuQWRkKCk7Cg==</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXZvaWQgU3RhcnQgKCkgewoJCQoJfQoJCgkvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCgl2b2lkIFVwZGF0ZSAoKSB7CgkJCgl9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkW2ldID0gQ3JlYXRlR3JpZFBvaW50KHgsIHksIHopOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">CQlmdW5jdGlvbk9wZW5TdGF0dXMuQWRkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
