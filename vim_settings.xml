@@ -41,10 +41,11 @@
         <mark key="." line="23" column="19" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1560133742779" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1560236137294">
-        <mark key="[" line="205" column="67" />
-        <mark key="]" line="207" column="66" />
-        <mark key="." line="207" column="66" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1560236792379">
+        <mark key="'" line="207" column="57" />
+        <mark key="[" line="207" column="49" />
+        <mark key="]" line="207" column="49" />
+        <mark key="." line="207" column="49" />
         <mark key="^" line="207" column="66" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" timestamp="1558342724622">
@@ -74,11 +75,11 @@
         <mark key="'" line="97" column="20" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1559800037138" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1560234726651">
-        <mark key="[" line="1935" column="26" />
-        <mark key="]" line="1937" column="38" />
-        <mark key="^" line="1937" column="38" />
-        <mark key="." line="1937" column="38" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1560236767785">
+        <mark key="[" line="1937" column="25" />
+        <mark key="]" line="1937" column="25" />
+        <mark key="^" line="1937" column="17" />
+        <mark key="." line="1937" column="25" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/StreamingAssets/Setting.txt" timestamp="1559555489974" />
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" timestamp="1560133733103">
@@ -175,7 +176,6 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/DataCenter/ConfigTemplate/EffectTemplateVO.cs" timestamp="1559808482591" />
     </filemarks>
     <jumps>
-      <jump line="121" column="65" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelDisplayInfo.cs" />
       <jump line="41" column="70" filename="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" />
       <jump line="103" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" />
       <jump line="51" column="70" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
@@ -275,25 +275,26 @@
       <jump line="363" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
       <jump line="187" column="41" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnGroupCtrl.cs" />
       <jump line="359" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
+      <jump line="207" column="57" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CharacterHandbook</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ClosePetGhostBtnGroup</text>
+        <text>CharacterHandbook</text>
       </register>
       <register name="/" type="4">
         <text>bargain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBDbG9zZVBldEdob3N0QnRuR3JvdXAoKQogICAgewogICAgICAgIHBldEdob3N0R3JvdXAuZ2FtZU9iamVjdC5TZXRBY3RpdmUoZmFsc2UpOwogICAgfQo=</text>
+        <text encoding="base64">CQlmdW5jdGlvbk9wZW5TdGF0dXMuQWRkKChpbnQpRW1GdW5jdGlvbklELkNoYXJhY3RlckhhbmRib29rKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
