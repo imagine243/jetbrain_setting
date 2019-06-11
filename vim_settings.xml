@@ -217,12 +217,12 @@
         <mark key="'" line="83" column="54" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/LoadingManager.cs" timestamp="1560233036859" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1560242459409">
-        <mark key="'" line="23" column="10" />
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="39" />
-        <mark key="." line="26" column="39" />
-        <mark key="^" line="26" column="39" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1560244152047">
+        <mark key="'" line="46" column="45" />
+        <mark key="[" line="53" column="9" />
+        <mark key="]" line="55" column="7" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="55" column="7" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainHelpPlayerItem.cs" timestamp="1558427248860">
         <mark key="'" line="9" column="47" />
@@ -272,12 +272,11 @@
         <mark key="^" line="17" column="47" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/DataCenter/ConfigTemplate/EffectTemplateVO.cs" timestamp="1559808482591" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Info_Msg.cs" timestamp="1560244015246">
+        <mark key="'" line="13" column="30" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ChargeDataCenter.cs" />
-      <jump line="60" column="77" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
-      <jump line="97" column="60" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ChargeGCHandler.cs" />
-      <jump line="277" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/RechargeItemCtrl.cs" />
       <jump line="281" column="56" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/RechargeItemCtrl.cs" />
       <jump line="173" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ChargeGCMessage.cs" />
       <jump line="171" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ChargeGCMessage.cs" />
@@ -374,19 +373,23 @@
       <jump line="158" column="4" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/HeronewGCHandler.cs" />
       <jump line="0" column="0" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/HeronewGCHandler.cs" />
       <jump line="22" column="10" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
+      <jump line="29" column="68" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
+      <jump line="40" column="67" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
+      <jump line="46" column="45" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
+      <jump line="13" column="30" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Info_Msg.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoZXJvCg==</text>
+      <register name="&quot;" type="4">
+        <text>UPPER</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>RefreshData</text>
+        <text>UPPER</text>
       </register>
       <register name="/" type="4">
         <text>bargain</text>
@@ -395,31 +398,31 @@
         <text>RefreshInfo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZXJvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEhlcm9UZW1wbGF0ZVZPPiBoZXJvTGlzdCA9IEhlcm9UZW1wbGF0ZVZPRGF0YUNlbnRlci5pbnN0YW5jZS5hcnJheS5Ub0xpc3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxIYW5kQm9va0xpc3QuQ2xlYXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZvaWQgU3RhcnQgKCkgewoJCQoJfQoJCgkvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCgl2b2lkIFVwZGF0ZSAoKSB7CgkJCgl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IEhlcm9UZW1wbGF0ZVZPRGF0YUNlbnRlci5pbnN0YW5jZS5hcnJheS5MZW5ndGg7IGkrKykKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmdW5jdGlvbk9wZW5TdGF0dXMuQWRkKCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
