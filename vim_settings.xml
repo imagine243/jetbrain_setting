@@ -139,6 +139,12 @@
         <mark key="'" line="83" column="54" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/LoadingManager.cs" timestamp="1560233036859" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1560237524281">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainHelpPlayerItem.cs" timestamp="1558427248860">
         <mark key="'" line="9" column="47" />
         <mark key="[" line="31" column="0" />
@@ -282,13 +288,13 @@
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CharacterHandbook</text>
+        <text>MonoBehaviour</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CharacterHandbook</text>
+        <text>MonoBehaviour</text>
       </register>
       <register name="/" type="4">
         <text>bargain</text>
@@ -300,28 +306,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmdW5jdGlvbk9wZW5TdGF0dXMuQWRkKCk7Cg==</text>
+        <text encoding="base64">CXZvaWQgU3RhcnQgKCkgewoJCQoJfQoJCgkvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCgl2b2lkIFVwZGF0ZSAoKSB7CgkJCgl9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkW2ldID0gQ3JlYXRlR3JpZFBvaW50KHgsIHksIHopOwo=</text>
+        <text encoding="base64">CQlmdW5jdGlvbk9wZW5TdGF0dXMuQWRkKCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkW2ldID0gQ3JlYXRlR3JpZFBvaW50KHgsIHksIHopOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERlZmF1bHROYW1lc3BhY2UK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
