@@ -41,11 +41,11 @@
         <mark key="." line="23" column="19" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1560133742779" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1560234948304">
-        <mark key="[" line="346" column="52" />
-        <mark key="]" line="346" column="59" />
-        <mark key="^" line="346" column="59" />
-        <mark key="." line="346" column="59" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1560236137294">
+        <mark key="[" line="205" column="67" />
+        <mark key="]" line="207" column="66" />
+        <mark key="." line="207" column="66" />
+        <mark key="^" line="207" column="66" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/BargainwarGCHandler.cs" timestamp="1558342724622">
         <mark key="'" line="6" column="50" />
@@ -280,8 +280,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ClosePetGhostBtnGroup</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -295,32 +295,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBDbG9zZVBldEdob3N0QnRuR3JvdXAoKQogICAgewogICAgICAgIHBldEdob3N0R3JvdXAuZ2FtZU9iamVjdC5TZXRBY3RpdmUoZmFsc2UpOwogICAgfQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CQlmdW5jdGlvbk9wZW5TdGF0dXMuQWRkKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkW2ldID0gQ3JlYXRlR3JpZFBvaW50KHgsIHksIHopOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkW2ldID0gQ3JlYXRlR3JpZFBvaW50KHgsIHksIHopOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERlZmF1bHROYW1lc3BhY2UK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIERlZmF1bHROYW1lc3BhY2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
