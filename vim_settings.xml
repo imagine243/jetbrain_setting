@@ -92,6 +92,9 @@
         <mark key="^" line="45" column="66" />
         <mark key="." line="45" column="66" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/HeroAI.cs" timestamp="1560238519062">
+        <mark key="'" line="51" column="24" />
+      </file>
       <file name="E:/project/tf2_3.9.0/Assets/ArtRes/Effects/Script/ParticleSize.cs" timestamp="1559808567949">
         <mark key="'" line="28" column="11" />
       </file>
@@ -166,6 +169,9 @@
         <mark key="'" line="45" column="52" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/Utils/OurpalmStatistics.cs" timestamp="1560138480883" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1560238896712">
+        <mark key="'" line="238" column="53" />
+      </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1560137970913">
         <mark key="'" line="807" column="28" />
       </file>
@@ -182,8 +188,6 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/DataCenter/ConfigTemplate/EffectTemplateVO.cs" timestamp="1559808482591" />
     </filemarks>
     <jumps>
-      <jump line="41" column="70" filename="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" />
-      <jump line="103" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" />
       <jump line="51" column="70" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
       <jump line="102" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
       <jump line="27" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
@@ -282,6 +286,8 @@
       <jump line="187" column="41" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnGroupCtrl.cs" />
       <jump line="359" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
       <jump line="207" column="57" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" />
+      <jump line="51" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/HeroAI.cs" />
+      <jump line="238" column="53" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
