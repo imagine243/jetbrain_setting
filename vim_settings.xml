@@ -192,6 +192,9 @@
         <mark key="." line="63" column="67" />
         <mark key="^" line="63" column="67" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveResultPanel.cs" timestamp="1560308431004">
+        <mark key="'" line="126" column="58" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanelBtnFunction.cs" timestamp="1557371228393">
         <mark key="[" line="38" column="101" />
         <mark key="]" line="39" column="7" />
@@ -271,13 +274,13 @@
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Interaction/UIToggle.cs" timestamp="1560308191741" />
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/DataCenter/ConfigTemplate/EffectTemplateVO.cs" timestamp="1559808482591" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Info_Msg.cs" timestamp="1560244015246">
         <mark key="'" line="13" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="56" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/RechargeItemCtrl.cs" />
       <jump line="173" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ChargeGCMessage.cs" />
       <jump line="171" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ChargeGCMessage.cs" />
       <jump line="63" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
@@ -377,6 +380,7 @@
       <jump line="40" column="67" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="46" column="45" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="13" column="30" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Info_Msg.cs" />
+      <jump line="126" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveResultPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
