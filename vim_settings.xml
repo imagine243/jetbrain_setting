@@ -23,11 +23,12 @@
         <mark key="^" line="230" column="40" />
         <mark key="." line="230" column="40" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" timestamp="1560327192504">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" timestamp="1560327950014">
+        <mark key="'" line="12" column="11" />
         <mark key="[" line="10" column="5" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="8" column="3" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="12" column="11" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Attack/AttackLightningChainAI.cs" timestamp="1559808562071">
         <mark key="'" line="60" column="38" />
@@ -166,7 +167,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="53" column="33" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/HeroAI.cs" timestamp="1560238519062">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/HeroAI.cs" timestamp="1560327754862">
         <mark key="'" line="51" column="24" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/ArtRes/Effects/Script/ParticleSize.cs" timestamp="1559808567949">
@@ -216,8 +217,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveResultPanel.cs" timestamp="1560308431004">
         <mark key="'" line="126" column="58" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/PvpActorAI.cs" timestamp="1560326352148">
-        <mark key="'" line="187" column="19" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/PvpActorAI.cs" timestamp="1560327727110">
+        <mark key="'" line="1530" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanelBtnFunction.cs" timestamp="1557371228393">
         <mark key="[" line="38" column="101" />
@@ -275,8 +276,8 @@
         <mark key="'" line="45" column="52" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/Utils/OurpalmStatistics.cs" timestamp="1560138480883" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1560326544002">
-        <mark key="'" line="265" column="20" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1560327880908">
+        <mark key="'" line="279" column="23" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1560137970913">
         <mark key="'" line="807" column="28" />
@@ -308,10 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/RechargeItemCtrl.cs" />
-      <jump line="1053" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" />
-      <jump line="1059" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" />
-      <jump line="61" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RechargeUI/UINewFirstChargePanel.cs" />
       <jump line="32" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/obb/UIObbPanel.cs" />
       <jump line="133" column="44" filename="E:/project/tf2_3.9.0/Assets/Scripts/UI/LoginUI/UILoginServerPanel.cs" />
       <jump line="7" column="58" filename="E:/project/tf2_3.9.0/Assets/Scripts/NET/Message/RoleGCMessage.cs" />
@@ -404,10 +401,14 @@
       <jump line="483" column="40" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/UIHeroInfoPanel.cs" />
       <jump line="874" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
       <jump line="98" column="28" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" />
-      <jump line="187" column="19" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/PvpActorAI.cs" />
-      <jump line="238" column="72" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
       <jump line="265" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
       <jump line="6" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/MyteryLandRoleAI.cs" />
+      <jump line="187" column="42" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/PvpActorAI.cs" />
+      <jump line="1530" column="0" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/PvpActorAI.cs" />
+      <jump line="12" column="11" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
+      <jump line="238" column="76" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
+      <jump line="271" column="101" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
+      <jump line="279" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
