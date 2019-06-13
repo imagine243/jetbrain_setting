@@ -10,12 +10,12 @@
         <mark key="." line="154" column="93" />
         <mark key="^" line="154" column="93" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" timestamp="1560408073996">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="67" column="4" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" timestamp="1560411778339">
+        <mark key="'" line="29" column="31" />
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="45" />
+        <mark key="." line="29" column="45" />
+        <mark key="^" line="29" column="45" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Attack/AttackLightningChainAI.cs" timestamp="1559808562071">
         <mark key="'" line="60" column="38" />
@@ -27,16 +27,17 @@
         <mark key="^" line="395" column="54" />
         <mark key="." line="395" column="54" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" timestamp="1560409941958">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="16" column="53" />
-        <mark key="." line="16" column="53" />
-        <mark key="^" line="16" column="53" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" timestamp="1560411782906">
+        <mark key="'" line="7" column="21" />
+        <mark key="[" line="36" column="46" />
+        <mark key="]" line="40" column="37" />
+        <mark key="." line="40" column="37" />
+        <mark key="^" line="40" column="37" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1557739468648">
         <mark key="'" line="8" column="36" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" timestamp="1560409486541">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" timestamp="1560411901501">
         <mark key="'" line="50" column="46" />
       </file>
       <file name="E:/test/RerderingTest/Assets/Transformation.cs" timestamp="1559717095136">
@@ -70,8 +71,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/UIHeroInfoPanel.cs" timestamp="1560326224217">
         <mark key="'" line="483" column="40" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1560331441462">
-        <mark key="'" line="201" column="36" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1560410813720">
+        <mark key="'" line="201" column="35" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectController.cs" timestamp="1559799991823">
         <mark key="'" line="97" column="20" />
@@ -91,6 +92,7 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/MyteryLandRoleAI.cs" timestamp="1560326648556">
         <mark key="'" line="6" column="24" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/WarHorseDataCenter.cs" timestamp="1560411662237" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/HeroAI.cs" timestamp="1560327754862">
         <mark key="'" line="51" column="24" />
       </file>
@@ -106,8 +108,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainAssistedItem.cs" timestamp="1558432624071">
         <mark key="'" line="4" column="51" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" timestamp="1560332144938">
-        <mark key="'" line="39" column="31" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" timestamp="1560410730925">
+        <mark key="'" line="32" column="36" />
       </file>
       <file name="E:/gitdir/UnityDemo/UnityRendering/Assets/Scripts/TransformationGrid.cs" timestamp="1559721343264">
         <mark key="'" line="71" column="30" />
@@ -141,8 +143,8 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1560406576547">
-        <mark key="'" line="4" column="56" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1560410450737">
+        <mark key="'" line="109" column="12" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadBaseModelController.cs" timestamp="1560409870972">
         <mark key="'" line="56" column="65" />
@@ -181,13 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="44" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainHelpPlayerItem.cs" />
-      <jump line="4" column="52" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainHelpPlayerItem.cs" />
-      <jump line="27" column="47" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainHelpPlayerItem.cs" />
-      <jump line="63" column="32" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainWarHelpPanel.cs" />
-      <jump line="111" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UISuperGrid.cs" />
-      <jump line="28" column="41" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/UIUseHornListItem.cs" />
-      <jump line="223" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/UseHornSlideTab.cs" />
       <jump line="80" column="54" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/SystemDataCenter.cs" />
       <jump line="33" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/BargainWar/UIBargainAssistedPanel.cs" />
       <jump line="2" column="42" filename="E:/test/RerderingTest/Assets/ScaleTransformation.cs" />
@@ -244,7 +239,6 @@
       <jump line="211" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
       <jump line="222" column="14" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
       <jump line="163" column="14" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
-      <jump line="201" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
       <jump line="17" column="16" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" />
       <jump line="20" column="28" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" />
       <jump line="21" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" />
@@ -281,19 +275,27 @@
       <jump line="3" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadActorAIModelController.cs" />
       <jump line="13" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadActorAIModelController.cs" />
       <jump line="15" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadActorAIModelController.cs" />
+      <jump line="55" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" />
+      <jump line="62" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" />
+      <jump line="109" column="12" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" />
+      <jump line="32" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" />
+      <jump line="201" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
+      <jump line="25" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
+      <jump line="29" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
+      <jump line="7" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MonoBehaviour</text>
+        <text>var armorTmpl = WarHorseDataCenter.GetArmorModelVO(heroTmpl.heroID, 2)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MonoBehaviour</text>
+        <text>var armorTmpl = WarHorseDataCenter.GetArmorModelVO(heroTmpl.heroID, 2)</text>
       </register>
       <register name="/" type="4">
         <text>bargain</text>
@@ -302,31 +304,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdHJpbmcgcmVzTmFtZSA9IG51bGw7CiAgICBwdWJsaWMgc3RyaW5nIGJhY2tOYW1lID0gbnVsbDsKICAgIHB1YmxpYyBpbnQgcmVzQ2hhbmdlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgcmVzQ2hhbmdlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdHJpbmcgcmVzTmFtZSA9IG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZvaWQgVXBkYXRlICgpIHsK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBHYW1lT2JqZWN0IHJlc09iamVjdDsJCQkJCQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBpbnQgbGFzdEFzc2V0SWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICBMb2FkQWN0b3JBc3NldChoZXJvVG1wbC5tb2RlbCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBib29sIExvYWRBY3RvckFzc2V0KGludCBhc3NldElEKQogICAgewogICAgICAgIGlmIChsYXN0QXNzZXRJZCAhPSBhc3NldElEKSAvL8jnufvEo9DNaWSyu9K70fmjrLj80MKyosfSz/q72daux7C1xAogICAgICAgIHsKICAgICAgICAgICAgaWYgKHJlc09iamVjdCAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBEZXN0cm95KHJlc09iamVjdCk7CiAgICAgICAgICAgICAgICByZXNPYmplY3QgPSBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGxhc3RBc3NldElkID0gYXNzZXRJRDsKICAgICAgICBpZiAocmVzT2JqZWN0ICE9IG51bGwpCiAgICAgICAgewogICAgICAgICAgICBpZiAoIXJlc09iamVjdC5hY3RpdmVTZWxmKQogICAgICAgICAgICAgICAgcmVzT2JqZWN0LlNldEFjdGl2ZSh0cnVlKTsKLy8gICAgICAgICAgICBJbml0QXR0KCk7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICBpZiAoYXNzZXRJRCA+IDApCiAgICAgICAgewogICAgICAgICAgICByZXNOYW1lID0gSW5zdGFuY2VNYXJrTWFuYWdlci5HZXRBc3NldEJ1bmRsZU5hbWVCeVJlc291cnNlSWQoYXNzZXRJRCk7CiAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShyZXNOYW1lKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgRGVidWcuTG9nRXJyb3IoInJlc05hbWUgaXMgbnVsbCIpOwogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJlc0NoYW5nZSA9IEluc3RhbmNlTWFya01hbmFnZXIuR2V0TW9kZWxDaGFuZ2VCeVJlc291cnNlSWQoYXNzZXRJRCk7CiAgICAgICAgICAgIEFzc2V0QnVuZGxlTG9hZGVyLkdldEluc3RhbmNlKCkuTG9hZEFzc2V0KHJlc05hbWUsIEluc3RhbmNlQWN0b3IpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICAKICAgIHByb3RlY3RlZCB2b2lkIEluc3RhbmNlQWN0b3Ioc3RyaW5nIGFzc2V0TmFtZSkKICAgIHsKICAgICAgICByZXNOYW1lID0gYXNzZXROYW1lOwogICAgICAgIGlmIChhc3NldE5hbWUgPT0gbnVsbCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgaWYgKEluc3RhbmNlT2JqZWN0KGFzc2V0TmFtZSkpCiAgICAgICAgewogICAgICAgICAgICBuYW1lID0gcmVzTmFtZSArICJfIiArIGJhY2tOYW1lOwovLyAgICAgICAgICAgIEluaXRBY3RvclJlbmRlcnMoKTsKICAgICAgICAgICAgYWN0b3JBSU1vZGVsQ29udHJvbGxlci5iYXNlTW9kZWxHbyA9IHJlc09iamVjdDsKICAgICAgICAgICAgYWN0b3JBSU1vZGVsQ29udHJvbGxlci5Mb2FkTW9kZWwoYWN0b3JBSU1vZGVsSW5mb0RhdGEsIG15VHJhbnNmb3JtLmdhbWVPYmplY3QsIEFjdG9yTG9hZENhbGxCYWNrKTsKICAgICAgICAgICAgYWN0b3JBSU1vZGVsQ29udHJvbGxlci5TZXRPYmpQYXJlbnROYW1lKGFzc2V0TmFtZSArICJfUGFyZW50Iik7CiAgICAgICAgICAgIC8vQXNzZXRCdW5kbGVMb2FkZXIuQ2hlY2tJZkluTG9hZGluZ19HQygpOwogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZvaWQgU3RhcnQgKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBMb2FkV2FySG9yc2UoaW5mb0RhdGEud2FySG9yc2VMb2FkSW5mbywgZmFsc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
