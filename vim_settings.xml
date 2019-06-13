@@ -40,7 +40,6 @@
       <file name="E:/test/RerderingTest/Assets/Transformation.cs" timestamp="1559717095136">
         <mark key="'" line="4" column="24" />
       </file>
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/YaYaWan/YaYaWanSDK.cs" timestamp="1560133742779" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadArtifactDisplayModelController.cs" timestamp="1560393152324">
         <mark key="'" line="11" column="63" />
       </file>
@@ -75,14 +74,12 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectController.cs" timestamp="1559799991823">
         <mark key="'" line="97" column="20" />
       </file>
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1559800037138" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1560240944744">
         <mark key="[" line="683" column="18" />
         <mark key="]" line="685" column="18" />
         <mark key="^" line="685" column="18" />
         <mark key="." line="685" column="18" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/StreamingAssets/Setting.txt" timestamp="1559555489974" />
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" timestamp="1560133733103">
         <mark key="'" line="21" column="23" />
       </file>
@@ -123,22 +120,18 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/PvpActorAI.cs" timestamp="1560327727110">
         <mark key="'" line="1530" column="0" />
       </file>
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/UI/GlobalUI/UIMoneyCtrl.cs" timestamp="1559619774623" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1560239873697" />
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectData.cs" timestamp="1559808528955">
         <mark key="'" line="94" column="28" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1560232401638">
         <mark key="'" line="654" column="45" />
       </file>
-      <file name="E:/project/tf2_3.9.0/Assets/StreamingAssets/Setting.txt" timestamp="1559618877573" />
       <file name="E:/test/RerderingTest/Assets/TransformationGrid.cs" timestamp="1559720889479">
         <mark key="'" line="69" column="38" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectPoolManager.cs" timestamp="1559806244407">
         <mark key="'" line="83" column="54" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/LoadingManager.cs" timestamp="1560233036859" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1560326185884">
         <mark key="'" line="7" column="18" />
         <mark key="[" line="145" column="9" />
@@ -149,7 +142,7 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1560333996812">
         <mark key="'" line="15" column="48" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadBaseModelController.cs" timestamp="1560393222482">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadBaseModelController.cs" timestamp="1560405054684">
         <mark key="'" line="12" column="33" />
       </file>
       <file name="E:/test/RerderingTest/Assets/ScaleTransformation.cs" timestamp="1559716785194">
@@ -167,13 +160,11 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Editor/Build/Build.cs" timestamp="1560146642524" />
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Attack/AttackFollowAndStayAI.cs" timestamp="1559799978813">
         <mark key="'" line="45" column="52" />
       </file>
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/Utils/OurpalmStatistics.cs" timestamp="1560138480883" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1560392778905">
-        <mark key="'" line="279" column="30" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1560405069500">
+        <mark key="'" line="238" column="77" />
         <mark key="[" line="91" column="0" />
         <mark key="]" line="93" column="25" />
       </file>
@@ -187,8 +178,6 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreGameSDK.cs" timestamp="1558074899487">
         <mark key="'" line="88" column="53" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Interaction/UIToggle.cs" timestamp="1560308191741" />
-      <file name="E:/project/tf2_3.9.0/Assets/Scripts/DataCenter/ConfigTemplate/EffectTemplateVO.cs" timestamp="1559808482591" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Info_Msg.cs" timestamp="1560244015246">
         <mark key="'" line="13" column="30" />
       </file>
@@ -277,7 +266,6 @@
       <jump line="21" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" />
       <jump line="39" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" />
       <jump line="15" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" />
-      <jump line="238" column="74" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
       <jump line="259" column="9" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
       <jump line="67" column="4" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
       <jump line="12" column="0" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
@@ -294,6 +282,7 @@
       <jump line="3" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadArtifactDisplayModelController.cs" />
       <jump line="11" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadArtifactDisplayModelController.cs" />
       <jump line="12" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadBaseModelController.cs" />
+      <jump line="238" column="77" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
