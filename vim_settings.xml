@@ -70,11 +70,12 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectPoolManager.cs" timestamp="1559806244407">
         <mark key="'" line="83" column="54" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1560493844248">
-        <mark key="'" line="7" column="18" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1560495643070">
+        <mark key="'" line="172" column="26" />
+        <mark key="[" line="172" column="41" />
+        <mark key="]" line="172" column="26" />
+        <mark key="." line="172" column="26" />
+        <mark key="^" line="172" column="26" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1560418346063">
         <mark key="'" line="109" column="12" />
@@ -170,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="43" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Attack/AttackLightningChainAI.cs" />
       <jump line="318" column="46" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectData.cs" />
       <jump line="45" column="52" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Attack/AttackFollowAndStayAI.cs" />
       <jump line="97" column="20" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/Control/EffectController.cs" />
@@ -270,6 +270,7 @@
       <jump line="388" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" />
       <jump line="10" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" />
       <jump line="36" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" />
+      <jump line="172" column="26" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
