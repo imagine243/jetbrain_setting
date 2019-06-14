@@ -101,7 +101,7 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/MyteryLandRoleAI.cs" timestamp="1560326648556">
         <mark key="'" line="6" column="24" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Reward_Info_Msg.cs" timestamp="1560497917396" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Reward_Info_Msg.cs" timestamp="1560502105468" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/HeroAI.cs" timestamp="1560327754862">
         <mark key="'" line="51" column="24" />
       </file>
@@ -182,11 +182,12 @@
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1560137970913">
         <mark key="'" line="807" column="28" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1560499192023">
-        <mark key="[" line="29" column="92" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="26" column="4" />
-        <mark key="^" line="26" column="4" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1560502402606">
+        <mark key="'" line="34" column="23" />
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+        <mark key="^" line="42" column="30" />
       </file>
       <file name="E:/project/tf2_3.9.0/Assets/Scripts/Platform/AppStore/AppStoreGameSDK.cs" timestamp="1558074899487">
         <mark key="'" line="88" column="53" />
@@ -196,8 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="11" filename="E:/project/tf2_3.9.0/Assets/ArtRes/Effects/Script/ParticleSize.cs" />
-      <jump line="248" column="47" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/PlatformManager.cs" />
       <jump line="21" column="23" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" />
       <jump line="154" column="93" filename="E:/project/tf2_3.9.0/Assets/Scripts/Platform/YaYaWan/YaYaWanCallbackMessage.cs" />
       <jump line="807" column="28" filename="E:/project/tf2_3.9.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" />
@@ -296,19 +295,21 @@
       <jump line="9" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="62" column="67" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" />
       <jump line="0" column="0" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" />
+      <jump line="31" column="28" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
+      <jump line="34" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>BargainWarAssistedPanel</text>
+        <text encoding="base64">cmV3YXJkSWQg</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BargainWarAssistedPanel</text>
+        <text encoding="base64">cmV3YXJkSWQg</text>
       </register>
       <register name="/" type="4">
         <text>bargain</text>
@@ -317,31 +318,31 @@
         <text encoding="base64">CXB1YmxpYyBjb25zdCBzdHJpbmcgQmFyZ2FpbldhckFzc2lzdGVkUGFuZWwgPSAiQ2l0eS9CYXJnYWluV2FyQXNzaXN0ZWRQYW5lbCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTVV0aWxzLlNldEFsbENoaWxkTGF5ZXIoYmFzZU1vZGVsR28udHJhbnNmb3JtLCBMYXllck1hc2suTmFtZVRvTGF5ZXIoIlVJTGV2ZWxNYXBCZyIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNVXRpbHMuU2V0QWxsQ2hpbGRMYXllcihiYXNlTW9kZWxHby50cmFuc2Zvcm0sIExheWVyTWFzay5OYW1lVG9MYXllcigiVUlMZXZlbE1hcEJnIikpOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTVV0aWxzLlNldEFsbENoaWxkTGF5ZXIoYmFzZU1vZGVsR28udHJhbnNmb3JtLCBMYXllck1hc2suTmFtZVRvTGF5ZXIoIlVJTGV2ZWxNYXBCZyIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYobykK</text>
+        <text encoding="base64">ICAgICAgICBNVXRpbHMuU2V0QWxsQ2hpbGRMYXllcihiYXNlTW9kZWxHby50cmFuc2Zvcm0sIExheWVyTWFzay5OYW1lVG9MYXllcigiVUlMZXZlbE1hcEJnIikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDcmVhdGVHcmFkZUNob2ljZUN0cmwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYobykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBncmFkZVNlbGVjdExpc3QuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDcmVhdGVHcmFkZUNob2ljZUN0cmwoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
