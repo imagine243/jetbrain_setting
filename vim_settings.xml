@@ -25,8 +25,8 @@
         <mark key="^" line="22" column="151" />
         <mark key="." line="22" column="151" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/HeronewGCMessage.cs" timestamp="1560498841998">
-        <mark key="'" line="207" column="14" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/HeronewGCMessage.cs" timestamp="1560738753301">
+        <mark key="'" line="26" column="52" />
         <mark key="[" line="250" column="5" />
         <mark key="]" line="240" column="43" />
         <mark key="^" line="240" column="43" />
@@ -53,8 +53,12 @@
         <mark key="'" line="388" column="15" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Reward_Info_Msg.cs" timestamp="1560502105468" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/HeronewCGMessage.cs" timestamp="1560498784802">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/HeronewCGMessage.cs" timestamp="1560738826976">
+        <mark key="'" line="218" column="66" />
         <mark key="[" line="221" column="5" />
+        <mark key="]" line="218" column="66" />
+        <mark key="^" line="218" column="66" />
+        <mark key="." line="218" column="66" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1560498283510" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1560501108747">
@@ -89,8 +93,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="712" column="28" filename="E:/project/tf2_3.9.0/Assets/Scripts/Editor/Build/ProjectBuild.cs" />
-      <jump line="392" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
       <jump line="567" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
       <jump line="204" column="16" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
       <jump line="561" column="57" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
@@ -189,6 +191,8 @@
       <jump line="20" column="69" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" />
       <jump line="9" column="14" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" />
       <jump line="22" column="47" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
+      <jump line="26" column="52" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/HeronewGCMessage.cs" />
+      <jump line="218" column="66" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/HeronewCGMessage.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
