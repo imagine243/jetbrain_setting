@@ -3,13 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/HeroCollectRewardBean.cs" timestamp="1560503850061" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/HeronewGCHandler.cs" timestamp="1560499067973">
-        <mark key="'" line="182" column="66" />
-        <mark key="[" line="185" column="5" />
-        <mark key="]" line="190" column="7" />
-        <mark key="^" line="190" column="7" />
-        <mark key="." line="190" column="7" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/HeronewCGMessage.cs" timestamp="1560738826976">
+        <mark key="'" line="218" column="66" />
+        <mark key="[" line="221" column="5" />
+        <mark key="]" line="218" column="66" />
+        <mark key="^" line="218" column="66" />
+        <mark key="." line="218" column="66" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/HeronewGCHandler.cs" timestamp="1560754457347">
+        <mark key="'" line="184" column="59" />
+        <mark key="[" line="188" column="47" />
+        <mark key="]" line="188" column="74" />
+        <mark key="^" line="190" column="70" />
+        <mark key="." line="190" column="70" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" timestamp="1560499808828">
         <mark key="'" line="10" column="27" />
@@ -18,12 +24,12 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="35" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" timestamp="1560741360000">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" timestamp="1560754140789">
         <mark key="'" line="9" column="14" />
-        <mark key="[" line="34" column="105" />
-        <mark key="]" line="30" column="103" />
-        <mark key="^" line="30" column="103" />
-        <mark key="." line="30" column="103" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="84" />
+        <mark key="." line="41" column="84" />
+        <mark key="^" line="41" column="84" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/HeronewGCMessage.cs" timestamp="1560738753301">
         <mark key="'" line="26" column="52" />
@@ -32,35 +38,6 @@
         <mark key="^" line="240" column="43" />
         <mark key="." line="240" column="43" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" timestamp="1560499883575">
-        <mark key="'" line="37" column="27" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="98" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/HeroHandBookBean.cs" timestamp="1560500264425">
-        <mark key="[" line="12" column="15" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1560501097204">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="728" column="24" />
-        <mark key="]" line="728" column="42" />
-        <mark key="." line="728" column="42" />
-        <mark key="^" line="728" column="42" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RecruitUI/UIRecruitPreviewPanel.cs" timestamp="1560496983437" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" timestamp="1560418858701">
-        <mark key="'" line="388" column="15" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Reward_Info_Msg.cs" timestamp="1560739798881" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/HeronewCGMessage.cs" timestamp="1560738826976">
-        <mark key="'" line="218" column="66" />
-        <mark key="[" line="221" column="5" />
-        <mark key="]" line="218" column="66" />
-        <mark key="^" line="218" column="66" />
-        <mark key="." line="218" column="66" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1560498283510" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1560752030019">
         <mark key="'" line="9" column="17" />
         <mark key="[" line="72" column="0" />
@@ -77,23 +54,46 @@
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/AwardCtrl.cs" timestamp="1560507448286" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" timestamp="1560499883575">
+        <mark key="'" line="37" column="27" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="98" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/HeroHandBookBean.cs" timestamp="1560500264425">
+        <mark key="[" line="12" column="15" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIDropDownGradeList.cs" timestamp="1560739612489">
         <mark key="[" line="22" column="52" />
         <mark key="]" line="23" column="49" />
         <mark key="." line="23" column="49" />
         <mark key="^" line="23" column="49" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1560741889633">
-        <mark key="[" line="42" column="39" />
-        <mark key="]" line="42" column="45" />
-        <mark key="^" line="42" column="45" />
-        <mark key="." line="42" column="45" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1560501097204">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="728" column="24" />
+        <mark key="]" line="728" column="42" />
+        <mark key="." line="728" column="42" />
+        <mark key="^" line="728" column="42" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" timestamp="1560418858701">
+        <mark key="'" line="388" column="15" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1560754241308">
+        <mark key="[" line="685" column="19" />
+        <mark key="]" line="686" column="21" />
+        <mark key="^" line="686" column="21" />
+        <mark key="." line="686" column="21" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1560754593651">
+        <mark key="'" line="68" column="11" />
+        <mark key="[" line="77" column="9" />
+        <mark key="]" line="79" column="38" />
+        <mark key="." line="79" column="38" />
+        <mark key="^" line="79" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="561" column="57" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
-      <jump line="654" column="45" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" />
       <jump line="391" column="41" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
       <jump line="363" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" />
       <jump line="187" column="41" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnGroupCtrl.cs" />
@@ -192,52 +192,54 @@
       <jump line="218" column="66" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/HeronewCGMessage.cs" />
       <jump line="37" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
       <jump line="61" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
+      <jump line="184" column="59" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/HeronewGCHandler.cs" />
+      <jump line="68" column="11" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoZXJvTW9kZWwuU2V0QWN0aXZlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>bargain</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCW51bUxhYmVsLnRleHQgPSBzdHJpbmcuRm9ybWF0KCJ7MH0vezF9IiwgaGFuZEJvb2tSZXdhcmRJdGVtRGF0YS5yZXdhcmRUbXBsLmNvbGxlY3RBaW1zLyBoYW5kQm9va1Jld2FyZEl0ZW1EYXRhLnJld2FyZFRtcGwuY29sbGVjdEFpbXMpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">R0NfR2V0X0hlcm9fQm9va19SZXdhcmRfTXNnIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZXJvTW9kZWwuU2V0QWN0aXZlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoZXJvTW9kZWwuU2V0QWN0aXZlKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBtc2cuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgSGVyb0hhbmRCb29rUmV3YXJkVGVtcGxhdGVWT0RhdGFDZW50ZXIuaW5zdGFuY2UuYXJyYXkuTGVuZ3RoOyBpKyspCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgdmFyIGhlcm9IYW5kQm9va1Jld2FyZFRtcGwgPSBIZXJvSGFuZEJvb2tSZXdhcmRUZW1wbGF0ZVZPRGF0YUNlbnRlci5pbnN0YW5jZS5hcnJheVtpXTsKLy8gICAgICAgICAgICBIYW5kQm9va1Jld2FyZEl0ZW1EYXRhIGRhdGEgPSBuZXcgSGFuZEJvb2tSZXdhcmRJdGVtRGF0YSgpOwovLyAgICAgICAgICAgIGRhdGEucmV3YXJkVG1wbCA9IGhlcm9IYW5kQm9va1Jld2FyZFRtcGw7Ci8vICAgICAgICAgICAgZGF0YS5yZXdhcmREYXRhID0gbmV3IFJld2FyZERhdGEoKTsKLy8gICAgICAgICAgICBkYXRhLnJld2FyZERhdGEucmV3YXJkSWQgPSBkYXRhLnJld2FyZFRtcGwucmV3YXJkSUQ7Ci8vICAgICAgICAgICAgZGF0YS5yZXdhcmREYXRhLnJld2FyZEtpbmQgPSBkYXRhLnJld2FyZFRtcGwucmV3YXJkVHlwZTsKLy8gICAgICAgICAgICBkYXRhLnJld2FyZERhdGEucmV3YXJkQ291bnQgPSBkYXRhLnJld2FyZFRtcGwucmV3YXJkTnVtOwovLyAgICAgICAgICAgIHJld2FyZExpc3QuQWRkKGRhdGEpOwovLyAgICAgICAgICAgIAovLyAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgbXNnLmhlcm9Db2xsZWN0UmV3YXJkTGlzdC5Db3VudDsgaisrKQovLyAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgICAgdmFyIGhlcm9Db2xsZWN0UmVhcmRJdGVtID0gbXNnLmhlcm9Db2xsZWN0UmV3YXJkTGlzdFtqXTsKLy8gICAgICAgICAgICAgICAgaWYgKGhlcm9Db2xsZWN0UmVhcmRJdGVtLnJld2FyZElkID09IGhlcm9IYW5kQm9va1Jld2FyZFRtcGwucmV3YXJkSUQpCi8vICAgICAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgICAgICAgIGRhdGEuaGVyb0NvbGxlY3RSZXdhcmRCZWFuID0gaGVyb0NvbGxlY3RSZWFyZEl0ZW07Ci8vICAgICAgICAgICAgICAgICAgICBicmVhazsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBoZXJvTW9kZWwuU2V0QWN0aXZlKHRydWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBoZXJvTW9kZWwuU2V0QWN0aXZlKGZhbHNlKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgSGVyb0hhbmRCb29rUmV3YXJkVGVtcGxhdGVWT0RhdGFDZW50ZXIuaW5zdGFuY2UuYXJyYXkuTGVuZ3RoOyBpKyspCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgdmFyIGhlcm9IYW5kQm9va1Jld2FyZFRtcGwgPSBIZXJvSGFuZEJvb2tSZXdhcmRUZW1wbGF0ZVZPRGF0YUNlbnRlci5pbnN0YW5jZS5hcnJheVtpXTsKLy8gICAgICAgICAgICBIYW5kQm9va1Jld2FyZEl0ZW1EYXRhIGRhdGEgPSBuZXcgSGFuZEJvb2tSZXdhcmRJdGVtRGF0YSgpOwovLyAgICAgICAgICAgIGRhdGEucmV3YXJkVG1wbCA9IGhlcm9IYW5kQm9va1Jld2FyZFRtcGw7Ci8vICAgICAgICAgICAgZGF0YS5yZXdhcmREYXRhID0gbmV3IFJld2FyZERhdGEoKTsKLy8gICAgICAgICAgICBkYXRhLnJld2FyZERhdGEucmV3YXJkSWQgPSBkYXRhLnJld2FyZFRtcGwucmV3YXJkSUQ7Ci8vICAgICAgICAgICAgZGF0YS5yZXdhcmREYXRhLnJld2FyZEtpbmQgPSBkYXRhLnJld2FyZFRtcGwucmV3YXJkVHlwZTsKLy8gICAgICAgICAgICBkYXRhLnJld2FyZERhdGEucmV3YXJkQ291bnQgPSBkYXRhLnJld2FyZFRtcGwucmV3YXJkTnVtOwovLyAgICAgICAgICAgIHJld2FyZExpc3QuQWRkKGRhdGEpOwovLyAgICAgICAgICAgIAovLyAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgbXNnLmhlcm9Db2xsZWN0UmV3YXJkTGlzdC5Db3VudDsgaisrKQovLyAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgICAgdmFyIGhlcm9Db2xsZWN0UmVhcmRJdGVtID0gbXNnLmhlcm9Db2xsZWN0UmV3YXJkTGlzdFtqXTsKLy8gICAgICAgICAgICAgICAgaWYgKGhlcm9Db2xsZWN0UmVhcmRJdGVtLnJld2FyZElkID09IGhlcm9IYW5kQm9va1Jld2FyZFRtcGwucmV3YXJkSUQpCi8vICAgICAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgICAgICAgIGRhdGEuaGVyb0NvbGxlY3RSZXdhcmRCZWFuID0gaGVyb0NvbGxlY3RSZWFyZEl0ZW07Ci8vICAgICAgICAgICAgICAgICAgICBicmVhazsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
