@@ -46,6 +46,12 @@
         <mark key="^" line="240" column="43" />
         <mark key="." line="240" column="43" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelDisplayInfo.cs" timestamp="1560841051658">
+        <mark key="[" line="93" column="50" />
+        <mark key="]" line="94" column="46" />
+        <mark key="^" line="94" column="46" />
+        <mark key="." line="94" column="46" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Loading_Role_Msg.cs" timestamp="1560764318026">
         <mark key="'" line="13" column="48" />
       </file>
@@ -68,6 +74,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" timestamp="1560418858701">
         <mark key="'" line="388" column="15" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/DisplayModelDisplayInfoEditor.cs" timestamp="1560841285625">
+        <mark key="[" line="44" column="51" />
+        <mark key="]" line="44" column="68" />
+        <mark key="." line="44" column="68" />
+        <mark key="^" line="44" column="68" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OtherPlayerDataCenter.cs" timestamp="1560764191761">
         <mark key="'" line="6" column="23" />
       </file>
@@ -86,6 +98,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroUpgradeInstructionCtrl.cs" timestamp="1560827830529" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/RoleInfo.cs" timestamp="1560764290541">
         <mark key="'" line="37" column="56" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1560841091876">
+        <mark key="[" line="683" column="45" />
+        <mark key="]" line="683" column="62" />
+        <mark key="." line="683" column="62" />
+        <mark key="^" line="683" column="62" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1560766350194">
         <mark key="[" line="1755" column="27" />
@@ -270,19 +288,19 @@
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>ArtifactStoneLeftInfo</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>ArtifactStoneLeftInfo</text>
       </register>
       <register name="/" type="4">
         <text>bargain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzQnRuLlNldEFjdGl2ZShmYWxzZSk7CiAgICAgICAgcHJvcGVydGllc1BhbmVsLlNldEFjdGl2ZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">CQlTaG93RGlzcGxheUluZm8gKGRtZGkuQXJ0aWZhY3RTdG9uZUxlZnRJbmZvLCAiQXJ0aWZhY3RTdG9uZUxlZnRJbmZvIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBpbnQgSXRlbUhlaWdodCA9IDMwMDsK</text>
