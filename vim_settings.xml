@@ -52,9 +52,6 @@
         <mark key="^" line="94" column="46" />
         <mark key="." line="94" column="46" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Loading_Role_Msg.cs" timestamp="1560764318026">
-        <mark key="'" line="13" column="48" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1560843052689">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="729" column="24" />
@@ -68,12 +65,6 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UIIconCtrl.cs" timestamp="1560766571174">
-        <mark key="'" line="102" column="73" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" timestamp="1560418858701">
-        <mark key="'" line="388" column="15" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/DisplayModelDisplayInfoEditor.cs" timestamp="1560841285625">
         <mark key="[" line="44" column="51" />
         <mark key="]" line="44" column="68" />
@@ -86,9 +77,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/HeroDataCenter.cs" timestamp="1560842540017">
         <mark key="'" line="828" column="29" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/SystemGCMessage.cs" timestamp="1560756593628">
-        <mark key="'" line="7" column="56" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1560764309181">
         <mark key="'" line="16" column="65" />
       </file>
@@ -99,6 +87,7 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/UIHeroInfoPanel.cs" timestamp="1560842536032">
         <mark key="'" line="554" column="45" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/AwardGridCtrl.cs" timestamp="1560845225939" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/RoleInfo.cs" timestamp="1560764290541">
         <mark key="'" line="37" column="56" />
       </file>
@@ -114,15 +103,12 @@
         <mark key="^" line="1756" column="17" />
         <mark key="." line="1756" column="17" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroAwakeItem.cs" timestamp="1560767832183">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroAwakeItem.cs" timestamp="1560845449372">
         <mark key="'" line="4" column="45" />
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="13" column="69" />
-        <mark key="." line="13" column="69" />
-        <mark key="^" line="13" column="69" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/RoleInfoBean.cs" timestamp="1560764322936">
-        <mark key="'" line="55" column="41" />
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="50" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/HeronewCGMessage.cs" timestamp="1560738826976">
         <mark key="'" line="218" column="66" />
@@ -146,9 +132,6 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="77" column="23" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1560418346063">
-        <mark key="'" line="109" column="12" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" timestamp="1560843923747">
         <mark key="'" line="20" column="83" />
         <mark key="[" line="12" column="5" />
@@ -158,18 +141,12 @@
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroAttributeCtrl.cs" timestamp="1560825333443" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UISuperGridItemCtrl.cs" timestamp="1560767871653" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" timestamp="1560757130502">
-        <mark key="'" line="36" column="53" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" timestamp="1560764182721">
-        <mark key="'" line="161" column="50" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1560843587099">
-        <mark key="'" line="7" column="17" />
-        <mark key="[" line="73" column="57" />
-        <mark key="]" line="74" column="28" />
-        <mark key="." line="74" column="28" />
-        <mark key="^" line="74" column="28" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1560846040968">
+        <mark key="'" line="81" column="63" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="73" column="29" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1560754593651">
         <mark key="'" line="68" column="11" />
@@ -192,7 +169,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Info_Msg.cs" timestamp="1560766965842" />
     </filemarks>
     <jumps>
-      <jump line="259" column="9" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
       <jump line="67" column="4" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
       <jump line="12" column="0" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
       <jump line="268" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
@@ -292,52 +268,53 @@
       <jump line="24" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="18" column="77" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" />
       <jump line="19" column="83" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" />
+      <jump line="78" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>HandBookRewardPanel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBDbGVhbkFsbEhlcm9Bd2FrZUdvKCk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>HandBookRewardPanel</text>
+        <text>heroAw</text>
       </register>
       <register name="/" type="4">
         <text>displaymodel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBjb25zdCBzdHJpbmcgSGFuZEJvb2tSZXdhcmRQYW5lbCA9ICJDaXR5L1VJSGFuZEJvb2tSZXdhcmRQYW5lbCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDbGVhbkFsbEhlcm9Bd2FrZUdvKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpbnQgSXRlbUhlaWdodCA9IDMwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBIZXJvVGVtcGxhdGVWTyBoZXJvVGVtcCA9IGRhdGEubURhdGFCYXNlIGFzIEhlcm9UZW1wbGF0ZVZPOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLlNldEluZm8oZGF0YSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpbnQgSXRlbUhlaWdodCA9IDMwMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZvaWQgVXBkYXRlICgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
