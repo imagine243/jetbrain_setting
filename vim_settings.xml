@@ -98,7 +98,7 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanel.cs" timestamp="1560761086455">
         <mark key="'" line="55" column="71" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/ArenaInfo.cs" timestamp="1560760350687" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/ArenaInfo.cs" timestamp="1560852326014" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/ConfigTemplate/skinTemplateVO.cs" timestamp="1560851367038" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveItem.cs" timestamp="1560766301483">
         <mark key="'" line="30" column="31" />
@@ -121,6 +121,13 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UISuperGridItemCtrl.cs" timestamp="1560767871653" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinItemCtrl.cs" timestamp="1560851429761">
         <mark key="'" line="189" column="18" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" timestamp="1560852447018">
+        <mark key="'" line="41" column="8" />
+        <mark key="[" line="127" column="5" />
+        <mark key="]" line="131" column="7" />
+        <mark key="^" line="131" column="7" />
+        <mark key="." line="131" column="7" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1560846712757">
         <mark key="'" line="81" column="63" />
@@ -153,7 +160,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Info_Msg.cs" timestamp="1560766965842" />
     </filemarks>
     <jumps>
-      <jump line="114" column="13" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadBaseModelController.cs" />
       <jump line="3" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadArtifactDisplayModelController.cs" />
       <jump line="11" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadArtifactDisplayModelController.cs" />
       <jump line="12" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadBaseModelController.cs" />
@@ -253,6 +259,7 @@
       <jump line="70" column="54" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinItemCtrl.cs" />
       <jump line="117" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinChangePanel.cs" />
       <jump line="189" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinItemCtrl.cs" />
+      <jump line="41" column="8" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
