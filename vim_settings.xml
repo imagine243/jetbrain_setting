@@ -147,8 +147,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinItemCtrl.cs" timestamp="1560851429761">
         <mark key="'" line="189" column="18" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" timestamp="1560911784373">
-        <mark key="'" line="135" column="60" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" timestamp="1560912678672">
+        <mark key="'" line="135" column="68" />
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
         <mark key="^" line="134" column="7" />
@@ -277,7 +277,6 @@
       <jump line="162" column="123" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" />
       <jump line="131" column="94" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" />
       <jump line="132" column="59" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" />
-      <jump line="135" column="60" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" />
       <jump line="57" column="72" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanel.cs" />
       <jump line="130" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanel.cs" />
       <jump line="39" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanel.cs" />
@@ -285,6 +284,7 @@
       <jump line="70" column="76" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanel.cs" />
       <jump line="69" column="79" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanel.cs" />
       <jump line="53" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanel.cs" />
+      <jump line="135" column="68" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
