@@ -139,7 +139,7 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroAttributeCtrl.cs" timestamp="1560915518784" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroAttributeCtrl.cs" timestamp="1560924040012" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UISuperGridItemCtrl.cs" timestamp="1560767871653" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" timestamp="1560757130502">
         <mark key="'" line="36" column="53" />
@@ -154,8 +154,12 @@
         <mark key="^" line="134" column="7" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1560915513021">
-        <mark key="'" line="88" column="63" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1560924286983">
+        <mark key="'" line="87" column="63" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="45" column="36" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1560754593651">
         <mark key="'" line="68" column="11" />
@@ -287,7 +291,7 @@
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQl2YXIgdGVhbUVmZmVjdE1vZHVsZSA9IE90aGVyUGxheWVyRGF0YUNlbnRlci5vdGhlcnNJbmZvLm1vZHVsZUluZm9zLkZpbmQoZSA9PiBlLm1vZHVsZVR5cGUgPT0gKGludClNb2R1bGVUeXBlLkhhbmRCb29rVGVhbUVmZmVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -302,31 +306,31 @@
         <text encoding="base64">ICAgICAgICBDbGVhbkFsbEhlcm9Bd2FrZUdvKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YXIgdGVhbUVmZmVjdE1vZHVsZSA9IE90aGVyUGxheWVyRGF0YUNlbnRlci5vdGhlcnNJbmZvLm1vZHVsZUluZm9zLkZpbmQoZSA9PiBlLm1vZHVsZVR5cGUgPT0gKGludClNb2R1bGVUeXBlLkhhbmRCb29rVGVhbUVmZmVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZEJvb2tUZWFtRWZmZWN0LlN0b3AoKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaGVyb1RtcGwgIT0gbnVsbClkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBIZXJvVGVtcGxhdGVWTyBoZXJvVGVtcCA9IGRhdGEubURhdGFCYXNlIGFzIEhlcm9UZW1wbGF0ZVZPOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
