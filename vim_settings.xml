@@ -6,11 +6,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoDeityUpgradePage.cs" timestamp="1560827836578">
         <mark key="'" line="54" column="53" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/ModuleInfo.cs" timestamp="1560910309182">
-        <mark key="]" line="7" column="36" />
-        <mark key="^" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MaterialOriginPanel.cs" timestamp="1560766339059">
         <mark key="'" line="269" column="47" />
       </file>
@@ -100,6 +95,9 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/LadderInfo.cs" timestamp="1560910305058">
         <mark key="'" line="31" column="57" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" timestamp="1561025677390">
+        <mark key="'" line="45" column="81" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1560910359475">
         <mark key="[" line="2240" column="47" />
         <mark key="]" line="2241" column="37" />
@@ -113,12 +111,22 @@
         <mark key="^" line="26" column="28" />
         <mark key="." line="26" column="28" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" timestamp="1561025662441">
+        <mark key="'" line="303" column="21" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanel.cs" timestamp="1560911862648">
         <mark key="'" line="53" column="21" />
         <mark key="[" line="59" column="37" />
         <mark key="]" line="61" column="31" />
         <mark key="^" line="61" column="31" />
         <mark key="." line="61" column="31" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthItem.cs" timestamp="1561025396554" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthChooseItemData.cs" timestamp="1561025580180">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveItem.cs" timestamp="1560766301483">
         <mark key="'" line="30" column="31" />
@@ -159,7 +167,7 @@
         <mark key="^" line="134" column="7" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1561012601495">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1561024363962">
         <mark key="'" line="47" column="18" />
         <mark key="[" line="102" column="56" />
         <mark key="]" line="102" column="56" />
@@ -187,11 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
-      <jump line="25" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
-      <jump line="29" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
-      <jump line="7" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" />
-      <jump line="34" column="44" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
       <jump line="22" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
       <jump line="383" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" />
       <jump line="14" column="32" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
@@ -287,6 +290,11 @@
       <jump line="215" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
       <jump line="103" column="28" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
       <jump line="47" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
+      <jump line="153" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
+      <jump line="475" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
+      <jump line="59" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" />
+      <jump line="303" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
+      <jump line="45" column="81" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
