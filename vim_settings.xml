@@ -31,10 +31,13 @@
         <mark key="^" line="94" column="46" />
         <mark key="." line="94" column="46" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" timestamp="1560998887279">
+        <mark key="'" line="37" column="53" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Loading_Role_Msg.cs" timestamp="1560764318026">
         <mark key="'" line="13" column="48" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" timestamp="1560939926678">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" timestamp="1560998829381">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="29" column="60" />
         <mark key="^" line="29" column="60" />
@@ -157,11 +160,12 @@
         <mark key="^" line="134" column="7" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1560939375075">
-        <mark key="'" line="184" column="22" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1560998802236">
+        <mark key="'" line="185" column="22" />
+        <mark key="[" line="213" column="48" />
+        <mark key="]" line="213" column="44" />
+        <mark key="." line="213" column="44" />
+        <mark key="^" line="213" column="44" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1560754593651">
         <mark key="'" line="68" column="11" />
@@ -184,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" />
       <jump line="62" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" />
       <jump line="109" column="12" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" />
       <jump line="32" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" />
@@ -284,13 +287,14 @@
       <jump line="55" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
       <jump line="198" column="32" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
       <jump line="185" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
+      <jump line="37" column="53" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocGFydGljbGVTeXN0ZW0gIT0gbnVsbCkgcGFydGljbGVTeXN0ZW0uZ2FtZU9iamVjdC5TZXRBY3RpdmUoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTZXREcmVzc0J0blN0YXR1cyhjdXJyZW50U2VsZWN0U2tpbkl0ZW1DdHJsKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -305,31 +309,31 @@
         <text encoding="base64">ICAgICAgICBpZihoZXJvU2tpbGxUZW1wLnNraWxsUFZQMSA+IDApIHNraWxsTGlzdC5BZGQoU2tpbGxUZW1wbGF0ZVZPRGF0YUNlbnRlci5HZXRUZW1wbGF0ZVZPKGhlcm9Ta2lsbFRlbXAuc2tpbGxQVlAxKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocGFydGljbGVTeXN0ZW0gIT0gbnVsbCkgcGFydGljbGVTeXN0ZW0uZ2FtZU9iamVjdC5TZXRBY3RpdmUoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTZXREcmVzc0J0blN0YXR1cyhjdXJyZW50U2VsZWN0U2tpbkl0ZW1DdHJsKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2tpbkxpc3RDdHJsLgo=</text>
+        <text encoding="base64">ICAgIHNraW5MaXN0Q3RybC5TZXRDYWxsQmFja0Z1bmN0aW9uKGdhbWVPYmplY3QsICJPblNraW5UYWJDbGljayIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocGFydGljbGVTeXN0ZW0gIT0gbnVsbCkgcGFydGljbGVTeXN0ZW0uZ2FtZU9iamVjdC5TZXRBY3RpdmUoZmFsc2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBza2luQnRuLlNldEFjdGl2ZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2tpbkxpc3RDdHJsLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBza2luQnRuLlNldEFjdGl2ZSh0cnVlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2tpbkluZm8uc2tpblNlcnZlciA9IGhlcm9EYXRhLmhlcm9TZXJ2ZXJEYXRhLnNraW5MaXN0W2pdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc2tpbkluZm8uc2tpblRlbXAuc2tpbklEID09IGhlcm9EYXRhLmhlcm9TZXJ2ZXJEYXRhLnNraW5MaXN0W2pdLnNraW5JZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2tpbkluZm8uc2tpblNlcnZlciA9IGhlcm9EYXRhLmhlcm9TZXJ2ZXJEYXRhLnNraW5MaXN0W2pdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
