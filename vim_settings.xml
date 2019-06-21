@@ -87,8 +87,11 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICollapsibleListCtrl.cs" timestamp="1560939353614">
         <mark key="'" line="112" column="25" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1560764309181">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" timestamp="1561108408728">
         <mark key="'" line="16" column="65" />
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoPanelUpgradePage.cs" timestamp="1560825651004">
         <mark key="'" line="90" column="60" />
@@ -108,7 +111,7 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/LadderInfo.cs" timestamp="1560910305058">
         <mark key="'" line="31" column="57" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" timestamp="1561107450759">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" timestamp="1561108642495">
         <mark key="'" line="15" column="45" />
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
@@ -335,7 +338,7 @@
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -350,31 +353,31 @@
         <text encoding="base64">CQkJU2V0QmFzZURhdGEoY2hvb3NlRGF0YS5kYXRhLGhhbmRsZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGxOdW0gKz0gYWRkOwo=</text>
+        <text encoding="base64">CQlmdW5jdGlvbk9wZW5TdGF0dXMuQWRkKChpbnQpRW1GdW5jdGlvbklELkNoYXJhY3RlckhhbmRib29rKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQlmdW5jdGlvbk9wZW5TdGF0dXMuQWRkKChpbnQpRW1GdW5jdGlvbklELkhhbmRib29rKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGxOdW0gPSBtYXhTZWxsTnVtOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGxOdW0gKz0gYWRkOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTZXREYXRhKGl0ZW1JbmZvLml0ZW1UeXBlLCBpdGVtSW5mby5pdGVtSWQsaXRlbUluZm8ubWF4Q291bnQsaGFuZGxlT2JqLHN1cmVGdW5jLGNhbmNlbEZ1bmMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvL30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGxOdW0gPSBtYXhTZWxsTnVtOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyAgICBjdXJDaGVja0l0ZW0udG9nZ2xlLnZhbHVlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyAgICBjdXJDaGVja0l0ZW0uaXRlbUluZm8uaXNDaGVjayA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBTZXREYXRhKGl0ZW1JbmZvLml0ZW1UeXBlLCBpdGVtSW5mby5pdGVtSWQsaXRlbUluZm8ubWF4Q291bnQsaGFuZGxlT2JqLHN1cmVGdW5jLGNhbmNlbEZ1bmMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
