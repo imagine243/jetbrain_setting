@@ -12,12 +12,11 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/UIHeroSkillBookPanel.cs" timestamp="1560927762078">
         <mark key="'" line="61" column="43" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" timestamp="1561112967953">
-        <mark key="'" line="449" column="32" />
-        <mark key="[" line="181" column="47" />
-        <mark key="]" line="182" column="56" />
-        <mark key="." line="182" column="56" />
-        <mark key="^" line="182" column="56" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" timestamp="1561342883919">
+        <mark key="[" line="575" column="9" />
+        <mark key="]" line="566" column="67" />
+        <mark key="." line="566" column="67" />
+        <mark key="^" line="566" column="67" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" timestamp="1560756230492">
         <mark key="'" line="9" column="14" />
@@ -164,12 +163,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/LadderInfo.cs" timestamp="1560910305058">
         <mark key="'" line="31" column="57" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" timestamp="1561113444189">
-        <mark key="'" line="153" column="55" />
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="25" />
-        <mark key="^" line="23" column="25" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" timestamp="1561343118674">
+        <mark key="'" line="23" column="11" />
+        <mark key="[" line="65" column="45" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="66" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" timestamp="1560757130502">
         <mark key="'" line="36" column="53" />
@@ -214,7 +213,7 @@
         <mark key="^" line="26" column="28" />
         <mark key="." line="26" column="28" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveBatchUse.cs" timestamp="1561106068954">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveBatchUse.cs" timestamp="1561342691408">
         <mark key="'" line="80" column="91" />
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -231,10 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="52" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/HeronewGCHandler.cs" />
-      <jump line="51" column="45" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" />
-      <jump line="161" column="50" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" />
-      <jump line="6" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OtherPlayerDataCenter.cs" />
       <jump line="37" column="56" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/RoleInfo.cs" />
       <jump line="16" column="65" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" />
       <jump line="13" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Loading_Role_Msg.cs" />
@@ -328,55 +323,59 @@
       <jump line="504" column="50" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="511" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="463" column="81" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
-      <jump line="86" column="41" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="448" column="32" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="140" column="55" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" />
+      <jump line="534" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
+      <jump line="66" column="44" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" />
+      <jump line="86" column="32" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
+      <jump line="544" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
+      <jump line="23" column="11" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlsYmxDaG9vc2VkRXhwLnRleHQgPSBjaG9vc2VkRXhwLlRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>UPPER</text>
       </register>
       <register name="/" type="4">
         <text>displaymodel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlSZWZyZXNoRXhwTGFiZWwoKTsK</text>
+        <text encoding="base64">CQljaG9vc2VkT3JuYW1lbnRJdGVtc0RhdGEuU29ydChTb3J0T3JuYW1lbnRDaG9vc2VMc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlsYmxDaG9vc2VkRXhwLnRleHQgPSBjaG9vc2VkRXhwLlRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY2hvb3NlZEV4cCArPSBkYXRhW2ldLmRhdGEucHJvdmlkZUV4cDsK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlmb3IoaW50IGk9MDsgaTxkYXRhLkNvdW50OyBpKyspCg==</text>
+        <text encoding="base64">CQkJewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljaG9vc2VkRXhwID0gMDsK</text>
+        <text encoding="base64">CQkJOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJRW1FcXVpcFBvc2l0aW9uLkpJTkdZQU5TSElQSU5HCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY2hvb3NlZEV4cCArPSBjaG9vc2VkT3JuYW1lbnRJdGVtc0RhdGFbaV0uZGF0YS5wcm92aWRlRXhwICogY2hvb3NlZE9ybmFtZW50SXRlbXNEYXRhW2ldLnVzZUNvdW50Owo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY2hvb3NlZE9ybmFtZW50SXRlbXNEYXRhLlJlbW92ZShpdGVtLm9ybmFtZW50RGF0YSk7Cg==</text>
+        <text encoding="base64">CQljaG9vc2VkT3JuYW1lbnRJdGVtc0RhdGEuU29ydChTb3J0T3JuYW1lbnRDaG9vc2VMc3QpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpbnQgbWF4TnVtID0gMTIwOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQljaG9vc2VEYXRhTGlzdC5Db3VudDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
