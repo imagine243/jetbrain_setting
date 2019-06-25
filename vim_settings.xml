@@ -28,6 +28,9 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" timestamp="1560999917781">
         <mark key="'" line="37" column="53" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1561433311213">
+        <mark key="'" line="813" column="40" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Loading_Role_Msg.cs" timestamp="1560764318026">
         <mark key="'" line="13" column="48" />
       </file>
@@ -38,7 +41,7 @@
         <mark key="^" line="29" column="62" />
         <mark key="." line="29" column="62" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveEquipChoose.cs" timestamp="1561102577018">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveEquipChoose.cs" timestamp="1561433935316">
         <mark key="'" line="134" column="31" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" timestamp="1560998829381">
@@ -134,11 +137,11 @@
         <mark key="^" line="26" column="28" />
         <mark key="." line="26" column="28" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" timestamp="1561357184262">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" timestamp="1561432996393">
         <mark key="[" line="575" column="9" />
-        <mark key="]" line="566" column="67" />
-        <mark key="." line="566" column="67" />
-        <mark key="^" line="566" column="67" />
+        <mark key="]" line="585" column="0" />
+        <mark key="." line="585" column="0" />
+        <mark key="^" line="585" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanel.cs" timestamp="1560911862648">
         <mark key="'" line="53" column="21" />
@@ -180,6 +183,7 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="31" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Utils/OurpalmStatistics.cs" timestamp="1561434558004" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UISkillTemplateCtrl.cs" timestamp="1560928590217">
         <mark key="[" line="17" column="66" />
         <mark key="]" line="18" column="64" />
@@ -233,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="65" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RoleDataCenter.cs" />
       <jump line="13" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Loading_Role_Msg.cs" />
       <jump line="55" column="41" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/RoleInfoBean.cs" />
       <jump line="7" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
@@ -333,6 +336,7 @@
       <jump line="544" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="23" column="11" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" />
       <jump line="99" column="11" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/NotificationManager.cs" />
+      <jump line="813" column="40" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
