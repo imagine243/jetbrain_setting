@@ -131,10 +131,10 @@
         <mark key="^" line="66" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1561102256079">
-        <mark key="[" line="2240" column="47" />
-        <mark key="]" line="2241" column="37" />
-        <mark key="^" line="2241" column="37" />
-        <mark key="." line="2241" column="37" />
+        <mark key="[" line="2242" column="47" />
+        <mark key="]" line="2243" column="37" />
+        <mark key="^" line="2243" column="37" />
+        <mark key="." line="2243" column="37" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroAwakeItem.cs" timestamp="1561012031942">
         <mark key="'" line="5" column="45" />
@@ -158,6 +158,9 @@
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1561441074002">
         <mark key="'" line="61" column="45" />
+      </file>
+      <file name="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" timestamp="1561442511072">
+        <mark key="'" line="93" column="30" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthItem.cs" timestamp="1561110200462">
         <mark key="'" line="59" column="55" />
@@ -246,8 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="41" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/RoleInfoBean.cs" />
-      <jump line="7" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
       <jump line="117" column="50" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoPanelAttributePage.cs" />
       <jump line="30" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveItem.cs" />
       <jump line="269" column="47" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MaterialOriginPanel.cs" />
@@ -346,6 +347,8 @@
       <jump line="99" column="11" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/NotificationManager.cs" />
       <jump line="813" column="40" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" />
       <jump line="61" column="45" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" />
+      <jump line="63" column="105" filename="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" />
+      <jump line="93" column="30" filename="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
