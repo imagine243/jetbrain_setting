@@ -142,8 +142,8 @@
         <mark key="." line="110" column="92" />
         <mark key="^" line="110" column="92" />
       </file>
-      <file name="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" timestamp="1561450400234">
-        <mark key="'" line="60" column="95" />
+      <file name="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" timestamp="1561453046941">
+        <mark key="'" line="80" column="12" />
         <mark key="[" line="409" column="0" />
         <mark key="]" line="409" column="0" />
         <mark key="^" line="415" column="25" />
@@ -315,9 +315,9 @@
       <jump line="233" column="57" filename="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/Main.cs" />
       <jump line="74" column="46" filename="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" />
       <jump line="110" column="55" filename="D:/project/zombie_trunk/Assets/Scripts/DataCenter/DynamicData/HangUpDataCenter.cs" />
-      <jump line="80" column="12" filename="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" />
       <jump line="416" column="25" filename="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" />
       <jump line="60" column="95" filename="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" />
+      <jump line="80" column="12" filename="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
