@@ -149,12 +149,12 @@
         <mark key="." line="110" column="92" />
         <mark key="^" line="110" column="92" />
       </file>
-      <file name="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" timestamp="1561453046941">
-        <mark key="'" line="80" column="12" />
-        <mark key="[" line="409" column="0" />
-        <mark key="]" line="409" column="0" />
-        <mark key="^" line="415" column="25" />
-        <mark key="." line="409" column="0" />
+      <file name="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" timestamp="1561520810556">
+        <mark key="'" line="84" column="12" />
+        <mark key="[" line="91" column="26" />
+        <mark key="]" line="78" column="25" />
+        <mark key="." line="78" column="25" />
+        <mark key="^" line="78" column="25" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthItem.cs" timestamp="1561110200462">
         <mark key="'" line="59" column="55" />
@@ -328,8 +328,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -344,31 +344,31 @@
         <text encoding="base64">ICAgICAgICAgICAgT3VycGFsbVN0YXRpc3RpY3MuU2V0R2FtZVJvbGVJbmZvKDIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICBpZihHZXRTaWduSW5EYXlzKCkpCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlEZWJ1Zy5Mb2coKTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAucjc2MzYwCg==</text>
+        <text encoding="base64">CSAgICBpZihHZXRTaWduSW5EYXlzKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">CQlEZWJ1Zy5Mb2coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAucjc2MzYwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fHx8fHx8fCAucjc2MzQ0Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDMwICogMTAwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
+        <text encoding="base64">fHx8fHx8fCAucjc2MzQ0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDMwICogMTAwMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
