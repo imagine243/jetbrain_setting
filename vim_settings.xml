@@ -37,8 +37,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UIIconCtrl.cs" timestamp="1560766571174">
         <mark key="'" line="102" column="73" />
       </file>
-      <file name="D:/project/zombie_trunk/Assets/Scripts/UI/Logic/SignInLogic.cs" timestamp="1561603195651">
-        <mark key="'" line="101" column="73" />
+      <file name="D:/project/zombie_trunk/Assets/Scripts/UI/Logic/SignInLogic.cs" timestamp="1561604221104">
+        <mark key="'" line="101" column="70" />
         <mark key="[" line="99" column="61" />
         <mark key="]" line="89" column="16" />
         <mark key="." line="89" column="16" />
@@ -114,7 +114,7 @@
         <mark key="." line="110" column="92" />
         <mark key="^" line="110" column="92" />
       </file>
-      <file name="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" timestamp="1561531676191">
+      <file name="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" timestamp="1561604419886">
         <mark key="'" line="114" column="10" />
         <mark key="[" line="92" column="26" />
         <mark key="]" line="114" column="10" />
@@ -259,7 +259,7 @@
       <jump line="228" column="28" filename="D:/project/zombie_trunk/Assets/Scripts/UI/Logic/SignInLogic.cs" />
       <jump line="67" column="49" filename="D:/project/zombie_trunk/Assets/Scripts/DataCenter/DynamicData/MineralDataCenter.cs" />
       <jump line="114" column="10" filename="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" />
-      <jump line="101" column="73" filename="D:/project/zombie_trunk/Assets/Scripts/UI/Logic/SignInLogic.cs" />
+      <jump line="101" column="70" filename="D:/project/zombie_trunk/Assets/Scripts/UI/Logic/SignInLogic.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
