@@ -330,12 +330,12 @@
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Data/GC_Show_SignIn_Msg.cs" timestamp="1561518836156">
         <mark key="'" line="13" column="18" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1561713494950">
-        <mark key="'" line="47" column="47" />
-        <mark key="[" line="77" column="9" />
-        <mark key="]" line="79" column="38" />
-        <mark key="." line="79" column="38" />
-        <mark key="^" line="79" column="38" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1561714514518">
+        <mark key="'" line="50" column="27" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="78" column="38" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoPanelAttributePage.cs" timestamp="1560765251697">
         <mark key="'" line="117" column="50" />
@@ -364,7 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="84" column="14" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="58" column="55" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthItem.cs" />
       <jump line="16" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseItem.cs" />
@@ -464,13 +463,14 @@
       <jump line="13" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Reward_Data_Msg.cs" />
       <jump line="47" column="47" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
       <jump line="15" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Reward_Info_Msg.cs" />
+      <jump line="50" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZWNydWl0UGFydHlEYXRhQ2VudGVyLm15U2VydmVyUmV3YXJkTGlzdCA9IG1zZy5yZWNydWl0UmFua1Jld2FyZExpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -485,31 +485,31 @@
         <text encoding="base64">ICAgICAgICAgICAgX3Jld2FyZERhdGFzLkNsZWFyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZWNydWl0UGFydHlEYXRhQ2VudGVyLm15U2VydmVyUmV3YXJkTGlzdCA9IG1zZy5yZWNydWl0UmFua1Jld2FyZExpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlPcGVyYXRpb25SZWNydWl0UGFydHlEYXRhQ2VudGVyLmFsbFNlcnZlclJld2FyZExpc3QgPSBtc2cucmVjcnVpdFJhbmtSZXdhcmRMaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZWNydWl0UGFydHlEYXRhQ2VudGVyLm15U2VydmVyUmV3YXJkTGlzdCA9IG1zZy5yZWNydWl0UmFua1Jld2FyZExpc3Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlPcGVyYXRpb25SZWNydWl0UGFydHlEYXRhQ2VudGVyLmhvcm5vdXJSZXdhcmRMaXN0ID0gbXNnLnJlY3J1aXRSYW5rUmV3YXJkTGlzdDsK</text>
+        <text encoding="base64">CQlPcGVyYXRpb25SZWNydWl0UGFydHlEYXRhQ2VudGVyLmFsbFNlcnZlclJld2FyZExpc3QgPSBtc2cucmVjcnVpdFJhbmtSZXdhcmRMaXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQlPcGVyYXRpb25SZWNydWl0UGFydHlEYXRhQ2VudGVyLmhvcm5vdXJSZXdhcmRMaXN0ID0gbXNnLnJlY3J1aXRSYW5rUmV3YXJkTGlzdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkTW9kZWxDb250cm9sbGVyLlNldEdyYXkodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8gICAgICAgIC8v1N3No7vyvMzQ+MGj19PQp7n7Ci8vICAgICAgICBQYXJ0aWNsZVN5c3RlbVtdIHBhcnRpY2xlcyA9IGJhc2VNb2RlbEdvLkdldENvbXBvbmVudHNJbkNoaWxkcmVuPFBhcnRpY2xlU3lzdGVtPigpOwovLyAgICAgICAgZm9yZWFjaCAoUGFydGljbGVTeXN0ZW0gcCBpbiBwYXJ0aWNsZXMpCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgcC5nYW1lT2JqZWN0LlNldEFjdGl2ZSghaXNHcmF5KTsKLy8gICAgICAgIH0KCi8vICAgICAgICAvL9TdzaO78rzM0Pi2r7utCi8vICAgICAgICBpZiAoYmFzZU1vZGVsQW5pICE9IG51bGwpCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgaWYgKGlzR3JheSkKLy8gICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgIGFuaW1hdGlvbkluZGV4ID0gMTsKLy8gICAgICAgICAgICAgICAgYmFzZU1vZGVsQW5pLlBsYXkoQW5pVHlwZS5EYWlKaTAxLlRvU3RyaW5nKCkpOwovLyAgICAgICAgICAgICAgICBzdG9wQW5pbWEgPSAzOy8vyP3Wobrz1N3NowovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICBlbHNlCi8vICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICBpZiAoIWJhc2VNb2RlbEFuaS5pc1BsYXlpbmcpCi8vICAgICAgICAgICAgICAgICAgICBiYXNlTW9kZWxBbmkuUGxheSgpOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBsb2FkTW9kZWxDb250cm9sbGVyLlNldEdyYXkodHJ1ZSk7Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gICAgICAgIC8v1N3No7vyvMzQ+MGj19PQp7n7Ci8vICAgICAgICBQYXJ0aWNsZVN5c3RlbVtdIHBhcnRpY2xlcyA9IGJhc2VNb2RlbEdvLkdldENvbXBvbmVudHNJbkNoaWxkcmVuPFBhcnRpY2xlU3lzdGVtPigpOwovLyAgICAgICAgZm9yZWFjaCAoUGFydGljbGVTeXN0ZW0gcCBpbiBwYXJ0aWNsZXMpCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgcC5nYW1lT2JqZWN0LlNldEFjdGl2ZSghaXNHcmF5KTsKLy8gICAgICAgIH0KCi8vICAgICAgICAvL9TdzaO78rzM0Pi2r7utCi8vICAgICAgICBpZiAoYmFzZU1vZGVsQW5pICE9IG51bGwpCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgaWYgKGlzR3JheSkKLy8gICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgIGFuaW1hdGlvbkluZGV4ID0gMTsKLy8gICAgICAgICAgICAgICAgYmFzZU1vZGVsQW5pLlBsYXkoQW5pVHlwZS5EYWlKaTAxLlRvU3RyaW5nKCkpOwovLyAgICAgICAgICAgICAgICBzdG9wQW5pbWEgPSAzOy8vyP3Wobrz1N3NowovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICBlbHNlCi8vICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICBpZiAoIWJhc2VNb2RlbEFuaS5pc1BsYXlpbmcpCi8vICAgICAgICAgICAgICAgICAgICBiYXNlTW9kZWxBbmkuUGxheSgpOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkTW9kZWxDb250cm9sbGVyLlNldE1vZGVsR3JheSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2FkTW9kZWxDb250cm9sbGVyLlNldEdyYXkodHJ1ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
