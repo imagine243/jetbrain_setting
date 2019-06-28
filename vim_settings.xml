@@ -110,6 +110,9 @@
         <mark key="." line="44" column="68" />
         <mark key="^" line="44" column="68" />
       </file>
+      <file name="/Dummy.cs" timestamp="1561700316944">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OtherPlayerDataCenter.cs" timestamp="1560911274948">
         <mark key="'" line="6" column="23" />
       </file>
@@ -232,12 +235,12 @@
         <mark key="." line="1180" column="53" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/RecruitRankData.cs" timestamp="1561693188393" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationRecruitPartyDataCenter.cs" timestamp="1561693329058">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationRecruitPartyDataCenter.cs" timestamp="1561699933499">
         <mark key="'" line="261" column="28" />
         <mark key="[" line="237" column="4" />
-        <mark key="]" line="241" column="49" />
-        <mark key="." line="241" column="49" />
-        <mark key="^" line="241" column="49" />
+        <mark key="]" line="346" column="41" />
+        <mark key="." line="346" column="41" />
+        <mark key="^" line="346" column="41" />
       </file>
       <file name="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" timestamp="1561604419886">
         <mark key="'" line="114" column="10" />
