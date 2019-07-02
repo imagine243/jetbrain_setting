@@ -339,8 +339,8 @@
         <mark key="." line="102" column="56" />
         <mark key="^" line="102" column="56" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1562036867692">
-        <mark key="'" line="47" column="17" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1562037622844">
+        <mark key="'" line="47" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -443,7 +443,7 @@
       <jump line="73" column="11" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
       <jump line="92" column="28" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
       <jump line="172" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
-      <jump line="47" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
+      <jump line="47" column="14" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
