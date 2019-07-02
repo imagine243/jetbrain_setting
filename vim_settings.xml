@@ -339,10 +339,11 @@
         <mark key="." line="102" column="56" />
         <mark key="^" line="102" column="56" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1562036867692">
+        <mark key="'" line="47" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="91" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveBatchUse.cs" />
-      <jump line="96" column="82" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" />
       <jump line="134" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveEquipChoose.cs" />
       <jump line="305" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="169" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" />
@@ -441,6 +442,8 @@
       <jump line="8" column="26" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
       <jump line="73" column="11" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
       <jump line="92" column="28" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
+      <jump line="172" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
+      <jump line="47" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
