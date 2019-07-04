@@ -207,14 +207,15 @@
       </file>
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/NetMessageType.cs" timestamp="1561447776162" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/TeamOperation/CountryWarSpyPanel.cs" timestamp="1562048769532" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/StaticData/CountryWarCenConstantTemplaDataCenter.cs" timestamp="1562233147235" />
       <file name="D:/project/zombie_trunk/Assets/Scripts/UI/MainCityUI/MainCityUIPanelSigninBtn.cs" timestamp="1561519013384" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Reward_Info_Msg.cs" timestamp="1561717052990" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" timestamp="1562229106072">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" timestamp="1562233158844">
         <mark key="'" line="18" column="31" />
-        <mark key="[" line="28" column="97" />
-        <mark key="]" line="28" column="27" />
-        <mark key="." line="28" column="27" />
-        <mark key="^" line="28" column="27" />
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+        <mark key="^" line="27" column="36" />
       </file>
       <file name="D:/project/zombie_trunk/Assets/Scripts/DataCenter/DynamicData/HangUpDataCenter.cs" timestamp="1561529094666">
         <mark key="'" line="110" column="55" />
@@ -245,12 +246,12 @@
         <mark key="." line="18" column="64" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1562228251873">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1562232924293">
         <mark key="'" line="47" column="12" />
         <mark key="[" line="1420" column="5" />
-        <mark key="]" line="1419" column="19" />
-        <mark key="^" line="1419" column="19" />
-        <mark key="." line="1419" column="19" />
+        <mark key="]" line="1408" column="64" />
+        <mark key="^" line="1408" column="64" />
+        <mark key="." line="1408" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -360,7 +361,7 @@
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZExldmVsTGFiZWwudGV4dAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -375,31 +376,31 @@
         <text encoding="base64">ICAgICAgICAgICAgX3Jld2FyZERhdGFzLkNsZWFyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZExldmVsTGFiZWwudGV4dAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgaW50IENHX1VwX0NpdHlfQnVsaWRpbmc9OTAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgaW50IENHX1VwX0NpdHlfQnVsaWRpbmc9OTAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
