@@ -209,12 +209,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/TeamOperation/CountryWarSpyPanel.cs" timestamp="1562048769532" />
       <file name="D:/project/zombie_trunk/Assets/Scripts/UI/MainCityUI/MainCityUIPanelSigninBtn.cs" timestamp="1561519013384" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Reward_Info_Msg.cs" timestamp="1561717052990" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" timestamp="1562227405660">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" timestamp="1562229106072">
         <mark key="'" line="18" column="31" />
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="28" column="87" />
-        <mark key="." line="28" column="87" />
-        <mark key="^" line="28" column="87" />
+        <mark key="[" line="28" column="97" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="28" column="27" />
       </file>
       <file name="D:/project/zombie_trunk/Assets/Scripts/DataCenter/DynamicData/HangUpDataCenter.cs" timestamp="1561529094666">
         <mark key="'" line="110" column="55" />
@@ -245,9 +245,9 @@
         <mark key="." line="18" column="64" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1562227095359">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1562228251873">
         <mark key="'" line="47" column="12" />
-        <mark key="[" line="1417" column="9" />
+        <mark key="[" line="1420" column="5" />
         <mark key="]" line="1419" column="19" />
         <mark key="^" line="1419" column="19" />
         <mark key="." line="1419" column="19" />
