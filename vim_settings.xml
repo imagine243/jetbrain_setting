@@ -62,6 +62,12 @@
         <mark key="." line="2248" column="37" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/RoleInfoBean.cs" timestamp="1561513950217" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" timestamp="1561432996393">
+        <mark key="[" line="575" column="9" />
+        <mark key="]" line="585" column="0" />
+        <mark key="." line="585" column="0" />
+        <mark key="^" line="585" column="0" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanel.cs" timestamp="1561716488823">
         <mark key="'" line="53" column="21" />
         <mark key="[" line="59" column="37" />
@@ -193,6 +199,12 @@
         <mark key="'" line="12" column="25" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/ConfigTemplate/CountryWarCenConstantTemplateVO.cs" timestamp="1562237609819" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1561441262572">
+        <mark key="[" line="692" column="0" />
+        <mark key="]" line="692" column="49" />
+        <mark key="." line="692" column="0" />
+        <mark key="^" line="689" column="24" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Rank_Reward_Msg.cs" timestamp="1561618417510">
         <mark key="'" line="13" column="22" />
       </file>
@@ -237,6 +249,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarMainUIPanel.cs" timestamp="1562296731532">
+        <mark key="[" line="239" column="25" />
+        <mark key="]" line="239" column="62" />
+        <mark key="^" line="239" column="62" />
+        <mark key="." line="239" column="62" />
+      </file>
       <file name="/Dummy.txt" timestamp="1562227899047">
         <mark key="[" line="0" column="0" />
       </file>
@@ -247,12 +265,12 @@
         <mark key="." line="18" column="64" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1562232924293">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1562296708867">
         <mark key="'" line="47" column="12" />
-        <mark key="[" line="1420" column="5" />
-        <mark key="]" line="1408" column="64" />
-        <mark key="^" line="1408" column="64" />
-        <mark key="." line="1408" column="64" />
+        <mark key="[" line="1386" column="139" />
+        <mark key="]" line="1393" column="21" />
+        <mark key="." line="1393" column="21" />
+        <mark key="^" line="1393" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -361,14 +379,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZExldmVsTGFiZWwudGV4dAo=</text>
+      <register name="&quot;" type="4">
+        <text>cityDataList</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>cityDataList</text>
       </register>
       <register name="/" type="4">
         <text>displaymodel</text>
@@ -377,31 +395,31 @@
         <text encoding="base64">ICAgICAgICAgICAgX3Jld2FyZERhdGFzLkNsZWFyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZExldmVsTGFiZWwudGV4dAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgaW50IENHX1VwX0NpdHlfQnVsaWRpbmc9OTAwOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Z2V0Y2l0eWJ1CiAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBidWlsZExldmVsTGFiZWwudGV4dAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgaW50IENHX1VwX0NpdHlfQnVsaWRpbmc9OTAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
