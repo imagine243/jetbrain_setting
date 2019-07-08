@@ -222,12 +222,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Rank_Reward_Msg.cs" timestamp="1561618417510">
         <mark key="'" line="13" column="22" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" timestamp="1562312262268">
-        <mark key="'" line="40" column="40" />
-        <mark key="[" line="63" column="83" />
-        <mark key="]" line="64" column="77" />
-        <mark key="." line="64" column="77" />
-        <mark key="^" line="64" column="77" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" timestamp="1562571299709">
+        <mark key="'" line="59" column="38" />
+        <mark key="[" line="75" column="35" />
+        <mark key="]" line="75" column="34" />
+        <mark key="." line="75" column="34" />
+        <mark key="^" line="75" column="34" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/data/CityData.cs" timestamp="1562561487248">
         <mark key="'" line="26" column="22" />
@@ -238,8 +238,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/StaticData/CountryWarCenConstantTemplaDataCenter.cs" timestamp="1562233147235" />
       <file name="D:/project/zombie_trunk/Assets/Scripts/UI/MainCityUI/MainCityUIPanelSigninBtn.cs" timestamp="1561519013384" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Reward_Info_Msg.cs" timestamp="1561717052990" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" timestamp="1562310718397">
-        <mark key="'" line="21" column="31" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" timestamp="1562571542039">
+        <mark key="'" line="27" column="53" />
         <mark key="[" line="56" column="12" />
         <mark key="]" line="52" column="35" />
         <mark key="." line="52" column="35" />
@@ -292,8 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="45" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" />
-      <jump line="63" column="105" filename="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" />
       <jump line="93" column="30" filename="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" />
       <jump line="30" column="68" filename="D:/project/zombie_trunk/Assets/Scripts/NET/Message/WarGCMessage.cs" />
       <jump line="299" column="33" filename="D:/project/zombie_trunk/Assets/Scripts/NET/Message/WarGCMessage.cs" />
@@ -392,25 +390,27 @@
       <jump line="7" column="64" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/message/CountrywarGCTcpMessage.cs" />
       <jump line="250" column="79" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityOperationPanel.cs" />
       <jump line="256" column="90" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityOperationPanel.cs" />
+      <jump line="59" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
+      <jump line="27" column="53" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">KTsKICAgICAgICA=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cityInfo</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>displaymodel</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Q291bnRyeVdhclVyYmFuQ29uc3RydWN0aW9uUGFuZWwg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1ckJhcnJhY2tzQnVpbGRpbmdJdGVtLlNldEluZm8oYnVpbGRpbmcsIGNpdHlJbmZvLmNpdHlTZXJ2ZXJEYXRhKTsKICAgICAgICAgICAgICAgIGJhcnJhY2tzQnVpbGRpbmdJdGVtLlNldEluZm8oYnVpbGRpbmcsIGNpdHlJbmZvLmNpdHlTZXJ2ZXJEYXRhKTsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">KTsKICAgICAgICA=</text>
