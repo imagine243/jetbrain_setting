@@ -56,10 +56,10 @@
         <mark key="^" line="66" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1561102256079">
-        <mark key="[" line="2247" column="47" />
-        <mark key="]" line="2248" column="37" />
-        <mark key="^" line="2248" column="37" />
-        <mark key="." line="2248" column="37" />
+        <mark key="[" line="2248" column="47" />
+        <mark key="]" line="2249" column="37" />
+        <mark key="^" line="2249" column="37" />
+        <mark key="." line="2249" column="37" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/RoleInfoBean.cs" timestamp="1561513950217" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" timestamp="1561432996393">
@@ -215,8 +215,8 @@
         <mark key="." line="64" column="77" />
         <mark key="^" line="64" column="77" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/data/CityData.cs" timestamp="1562209413078">
-        <mark key="'" line="26" column="20" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/data/CityData.cs" timestamp="1562561487248">
+        <mark key="'" line="26" column="22" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/data/HumanHeroData.cs" timestamp="1562306382433" />
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/NetMessageType.cs" timestamp="1561447776162" />
@@ -230,6 +230,9 @@
         <mark key="]" line="52" column="35" />
         <mark key="." line="52" column="35" />
         <mark key="^" line="52" column="35" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/message/CountrywarGCTcpMessage.cs" timestamp="1562561748977">
+        <mark key="'" line="7" column="64" />
       </file>
       <file name="D:/project/zombie_trunk/Assets/Scripts/DataCenter/DynamicData/HangUpDataCenter.cs" timestamp="1561529094666">
         <mark key="'" line="110" column="55" />
@@ -256,7 +259,7 @@
         <mark key="^" line="239" column="21" />
         <mark key="." line="239" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562227899047">
+      <file name="/Dummy.txt" timestamp="1562561756551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Utils/OurpalmStatistics.cs" timestamp="1561434558004" />
@@ -266,8 +269,8 @@
         <mark key="." line="18" column="64" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1562317187471">
-        <mark key="'" line="47" column="16" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1562561504721">
+        <mark key="'" line="47" column="15" />
         <mark key="[" line="1448" column="9" />
         <mark key="]" line="1450" column="20" />
         <mark key="." line="1450" column="20" />
@@ -275,8 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="544" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
-      <jump line="23" column="11" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" />
       <jump line="99" column="11" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/NotificationManager.cs" />
       <jump line="813" column="40" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" />
       <jump line="61" column="45" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" />
@@ -360,7 +361,6 @@
       <jump line="174" column="28" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
       <jump line="173" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
       <jump line="37" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
-      <jump line="26" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/data/CityData.cs" />
       <jump line="35" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
       <jump line="18" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" />
       <jump line="169" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
@@ -374,7 +374,10 @@
       <jump line="172" column="40" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
       <jump line="49" column="16" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
       <jump line="50" column="30" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
-      <jump line="47" column="16" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
+      <jump line="26" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/data/CityData.cs" />
+      <jump line="47" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
+      <jump line="10" column="57" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/message/CountrywarGCTcpMessage.cs" />
+      <jump line="7" column="64" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/message/CountrywarGCTcpMessage.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
