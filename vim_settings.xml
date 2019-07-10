@@ -41,9 +41,6 @@
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Data/GC_SignIn_Msg.cs" timestamp="1561519693511">
         <mark key="'" line="13" column="17" />
       </file>
-      <file name="/Dummy.cs" timestamp="1562569138550">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/Platform/Mob/MobCallbackMessage.cs" timestamp="1562574920031" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BagUI/UIBagBatchUse.cs" timestamp="1561620555177">
         <mark key="'" line="159" column="45" />
@@ -61,12 +58,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/LadderInfo.cs" timestamp="1560910305058">
         <mark key="'" line="31" column="57" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" timestamp="1561343118674">
-        <mark key="'" line="23" column="11" />
-        <mark key="[" line="65" column="45" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="66" column="0" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" timestamp="1562744199215">
+        <mark key="'" line="163" column="15" />
+        <mark key="[" line="153" column="37" />
+        <mark key="]" line="154" column="18" />
+        <mark key="^" line="154" column="18" />
+        <mark key="." line="154" column="18" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1562658315781">
         <mark key="[" line="597" column="28" />
@@ -84,12 +81,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityDetailsPanel.cs" timestamp="1562574505687">
         <mark key="'" line="84" column="52" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" timestamp="1562741744866">
-        <mark key="'" line="370" column="59" />
-        <mark key="[" line="593" column="31" />
-        <mark key="]" line="593" column="44" />
-        <mark key="." line="593" column="44" />
-        <mark key="^" line="593" column="44" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" timestamp="1562743693475">
+        <mark key="'" line="522" column="30" />
+        <mark key="[" line="522" column="69" />
+        <mark key="]" line="522" column="30" />
+        <mark key="." line="522" column="30" />
+        <mark key="^" line="522" column="30" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanel.cs" timestamp="1561716488823">
         <mark key="'" line="53" column="21" />
@@ -119,7 +116,7 @@
         <mark key="." line="114" column="10" />
         <mark key="^" line="114" column="10" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthItem.cs" timestamp="1561110200462">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthItem.cs" timestamp="1562743046018">
         <mark key="'" line="59" column="55" />
         <mark key="[" line="70" column="28" />
         <mark key="]" line="70" column="40" />
@@ -332,9 +329,6 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562561756551">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveItem.cs" timestamp="1560766301483">
         <mark key="'" line="30" column="31" />
       </file>
@@ -347,9 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="141" filename="D:/project/zombie_trunk/Assets/Scripts/UI/Common/UIRefreshTimeCountDownCtrl.cs" />
-      <jump line="105" column="51" filename="D:/project/zombie_trunk/Assets/Scripts/UI/Logic/SignInLogic.cs" />
-      <jump line="13" column="17" filename="D:/project/zombie_trunk/Assets/Scripts/NET/Data/GC_SignIn_Msg.cs" />
       <jump line="228" column="28" filename="D:/project/zombie_trunk/Assets/Scripts/UI/Logic/SignInLogic.cs" />
       <jump line="67" column="49" filename="D:/project/zombie_trunk/Assets/Scripts/DataCenter/DynamicData/MineralDataCenter.cs" />
       <jump line="114" column="10" filename="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/NotificationManager.cs" />
@@ -447,13 +438,16 @@
       <jump line="268" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityOperationPanel.cs" />
       <jump line="371" column="28" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="370" column="59" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
+      <jump line="124" column="61" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
+      <jump line="146" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" />
+      <jump line="522" column="30" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -468,31 +462,31 @@
         <text encoding="base64">ICAgICAgICBjdXJCdWlsZGluZ0xldmVsTGFiZWwuZ2FtZU9iamVjdC5TZXRBY3RpdmUodG1wbCAhPSBudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCWF1dG9MaXN0LkFkZChjaG9vc2VEYXRhTGlzdFtpXSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Zm9yZWFjaCAoT3JuYW1lbnRzVXBUZW1wbGF0ZVZPIG9ybmFtZW50dXAgaW4gT3JuYW1lbnRzVXBUZW1wbGF0ZVZPRGF0YUNlbnRlci5pbnN0YW5jZS5hcnJheSkKCQl7CgkJCWlmIChvcm5hbWVudHVwLmdyYWRlID09IGRlZmF1bHRPcGVuT3JuYW1lbnQub3JuYW1lbnRzVGVtcFZPLmdyYWRlICYmCgkJCSAgICBvcm5hbWVudHVwLmx2ID09IGRlZmF1bHRPcGVuT3JuYW1lbnQuT3JuYW1lbnRCYWdJbmZvLmx2KQoJCQl7CgkJCQljdXJMdlRlbXBsID0gb3JuYW1lbnR1cDsKCQkJfQoJCX0=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlPcm5hbWVudHNVcFRlbXBsYXRlVk8gY3VyTHZUZW1wbDsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CQljaG9vc2VkRXhwID0gMDsKCQlmb3IgKGludCBpID0gMDsgaSA8IGNob29zZWRPcm5hbWVudEl0ZW1zRGF0YS5Db3VudDsgaSsrKQoJCXsKCQkJaWYgKGNob29zZWRPcm5hbWVudEl0ZW1zRGF0YVtpXS5oYXZlKQoJCQl7CgkJCQljaG9vc2VkRXhwICs9IGNob29zZWRPcm5hbWVudEl0ZW1zRGF0YVtpXS5kYXRhLnByb3ZpZGVFeHAgKiBjaG9vc2VkT3JuYW1lbnRJdGVtc0RhdGFbaV0udXNlQ291bnQ7CgkJCX0KCQl9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCWN1ckx2VGVtcGwgPSBvcm5hbWVudHVwOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQlhdXRvTGlzdC5BZGQoY2hvb3NlRGF0YUxpc3RbaV0pOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCWF1dG9MaXN0LkFkZChjaG9vc2VEYXRhTGlzdFtpXSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Zm9yZWFjaCAoT3JuYW1lbnRzVXBUZW1wbGF0ZVZPIG9ybmFtZW50dXAgaW4gT3JuYW1lbnRzVXBUZW1wbGF0ZVZPRGF0YUNlbnRlci5pbnN0YW5jZS5hcnJheSkKCQl7CgkJCWlmIChvcm5hbWVudHVwLmdyYWRlID09IGRlZmF1bHRPcGVuT3JuYW1lbnQub3JuYW1lbnRzVGVtcFZPLmdyYWRlICYmCgkJCSAgICBvcm5hbWVudHVwLmx2ID09IGRlZmF1bHRPcGVuT3JuYW1lbnQuT3JuYW1lbnRCYWdJbmZvLmx2KQoJCQl7CgkJCQljdXJMdlRlbXBsID0gb3JuYW1lbnR1cDsKCQkJfQoJCX0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
