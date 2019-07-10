@@ -281,12 +281,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/StaticData/CountryWarCenConstantTemplaDataCenter.cs" timestamp="1562233147235" />
       <file name="D:/project/zombie_trunk/Assets/Scripts/UI/MainCityUI/MainCityUIPanelSigninBtn.cs" timestamp="1561519013384" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Reward_Info_Msg.cs" timestamp="1561717052990" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" timestamp="1562663998302">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" timestamp="1562737230611">
         <mark key="'" line="78" column="47" />
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="43" />
-        <mark key="." line="46" column="43" />
-        <mark key="^" line="46" column="43" />
+        <mark key="[" line="60" column="166" />
+        <mark key="]" line="60" column="12" />
+        <mark key="." line="60" column="12" />
+        <mark key="^" line="60" column="12" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/message/CountrywarGCTcpMessage.cs" timestamp="1562658218720">
         <mark key="'" line="7" column="64" />
