@@ -6,8 +6,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoDeityUpgradePage.cs" timestamp="1560827836578">
         <mark key="'" line="54" column="53" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroDeityAwakenMaterialCtrl.cs" timestamp="1562816761435">
-        <mark key="'" line="347" column="20" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroDeityAwakenMaterialCtrl.cs" timestamp="1562825206360">
+        <mark key="'" line="353" column="11" />
+        <mark key="[" line="341" column="12" />
+        <mark key="]" line="341" column="93" />
+        <mark key="^" line="341" column="93" />
+        <mark key="." line="341" column="93" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/UIHeroSkillBookPanel.cs" timestamp="1560927762078">
         <mark key="'" line="61" column="43" />
@@ -307,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="49" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RecruitrankGCHandler.cs" />
       <jump line="241" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationRecruitPartyDataCenter.cs" />
       <jump line="17" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_Recruit_Rank_Msg.cs" />
       <jump line="56" column="65" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RecruitrankGCHandler.cs" />
@@ -407,6 +410,7 @@
       <jump line="347" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroDeityAwakenMaterialCtrl.cs" />
       <jump line="199" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoDeityAwakenPage.cs" />
       <jump line="257" column="59" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoDeityAwakenPage.cs" />
+      <jump line="353" column="11" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroDeityAwakenMaterialCtrl.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
