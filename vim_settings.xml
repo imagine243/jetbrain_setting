@@ -64,12 +64,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/LadderInfo.cs" timestamp="1560910305058">
         <mark key="'" line="31" column="57" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" timestamp="1562747762643">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" timestamp="1562833234933">
         <mark key="'" line="151" column="23" />
-        <mark key="[" line="161" column="45" />
-        <mark key="]" line="160" column="56" />
-        <mark key="^" line="160" column="56" />
-        <mark key="." line="160" column="56" />
+        <mark key="[" line="153" column="130" />
+        <mark key="]" line="152" column="113" />
+        <mark key="^" line="152" column="113" />
+        <mark key="." line="152" column="113" />
       </file>
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Handler/SignInGCHandler.cs" timestamp="1561518831185">
         <mark key="'" line="6" column="53" />
@@ -77,8 +77,8 @@
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Handler/WarGCHandler.cs" timestamp="1561447938179">
         <mark key="'" line="305" column="29" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" timestamp="1562743693475">
-        <mark key="'" line="522" column="30" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" timestamp="1562832216163">
+        <mark key="'" line="522" column="31" />
         <mark key="[" line="522" column="69" />
         <mark key="]" line="522" column="30" />
         <mark key="." line="522" column="30" />
@@ -287,7 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationRecruitPartyDataCenter.cs" />
       <jump line="17" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_Recruit_Rank_Msg.cs" />
       <jump line="56" column="65" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RecruitrankGCHandler.cs" />
       <jump line="13" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Rank_Reward_Msg.cs" />
@@ -381,12 +380,13 @@
       <jump line="370" column="59" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="124" column="61" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="146" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" />
-      <jump line="522" column="30" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="153" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/UIOrnamentStrengthChooseListPanel.cs" />
       <jump line="347" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroDeityAwakenMaterialCtrl.cs" />
       <jump line="199" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoDeityAwakenPage.cs" />
       <jump line="257" column="59" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoDeityAwakenPage.cs" />
       <jump line="353" column="11" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroDeityAwakenMaterialCtrl.cs" />
+      <jump line="564" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
+      <jump line="522" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
