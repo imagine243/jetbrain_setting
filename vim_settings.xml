@@ -124,6 +124,7 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/data/CityData.cs" timestamp="1562561487248">
         <mark key="'" line="26" column="22" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UITextureCtrl.cs" timestamp="1562924857598" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/UIHeroInfoPanel.cs" timestamp="1560842536032">
         <mark key="'" line="554" column="45" />
       </file>
@@ -144,6 +145,9 @@
         <mark key="'" line="6" column="53" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/NGUITools.cs" timestamp="1562912991471" />
+      <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UITexture.cs" timestamp="1562925137853">
+        <mark key="'" line="108" column="26" />
+      </file>
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Handler/WarGCHandler.cs" timestamp="1561447938179">
         <mark key="'" line="305" column="29" />
       </file>
@@ -261,12 +265,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1560418346063">
         <mark key="'" line="109" column="12" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" timestamp="1562918235320">
-        <mark key="'" line="13" column="24" />
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="90" />
-        <mark key="^" line="18" column="90" />
-        <mark key="." line="18" column="90" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" timestamp="1562925178956">
+        <mark key="'" line="23" column="31" />
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="49" />
+        <mark key="^" line="23" column="49" />
+        <mark key="." line="23" column="49" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UIPanel.cs" timestamp="1562903675853" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Reward_Data_Msg.cs" timestamp="1561693182650">
@@ -324,9 +328,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="34" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
-      <jump line="446" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" />
-      <jump line="452" column="19" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" />
       <jump line="25" column="14" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
       <jump line="103" column="28" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/RecruitrankGCMessage.cs" />
       <jump line="8" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RecruitrankGCHandler.cs" />
@@ -424,6 +425,9 @@
       <jump line="13" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" />
       <jump line="9" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="17" column="64" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" />
+      <jump line="20" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" />
+      <jump line="23" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" />
+      <jump line="108" column="26" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UITexture.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
