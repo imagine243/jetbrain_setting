@@ -178,7 +178,15 @@
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Message/WarGCMessage.cs" timestamp="1561447865138">
         <mark key="'" line="288" column="31" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/UIWidget.cs" timestamp="1562903611188" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" timestamp="1562910636410">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="38" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/UIWidget.cs" timestamp="1562910870066">
+        <mark key="'" line="1560" column="0" />
+      </file>
       <file name="D:/project/zombie_trunk/Assets/Scripts/GameCtrl/Main.cs" timestamp="1561449097041">
         <mark key="'" line="233" column="57" />
         <mark key="[" line="504" column="150" />
@@ -296,9 +304,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="13" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Rank_Reward_Msg.cs" />
-      <jump line="19" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_Recruit_Rank_Msg.cs" />
-      <jump line="44" column="54" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RecruitrankGCHandler.cs" />
       <jump line="122" column="61" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationRecruitPartyDataCenter.cs" />
       <jump line="15" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Show_Glory_Spree_Msg.cs" />
       <jump line="261" column="28" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OperationRecruitPartyDataCenter.cs" />
@@ -396,19 +401,22 @@
       <jump line="522" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="15" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UIButton3.cs" />
       <jump line="1942" column="30" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UICamera.cs" />
+      <jump line="14" column="28" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/UIWidget.cs" />
+      <jump line="279" column="20" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/UIWidget.cs" />
+      <jump line="1560" column="0" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/UIWidget.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VUlXaWRnZXQg</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T3JuYW1lbnRzVXBUZW1wbGF0ZVZPIA==</text>
+        <text encoding="base64">VUlXaWRnZXQg</text>
       </register>
       <register name="/" type="4">
         <text>displaymodel</text>
