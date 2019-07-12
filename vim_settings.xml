@@ -19,12 +19,11 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MaterialOriginPanel.cs" timestamp="1562815066011">
         <mark key="'" line="269" column="47" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" timestamp="1562918617310">
-        <mark key="'" line="17" column="64" />
-        <mark key="[" line="37" column="49" />
-        <mark key="]" line="37" column="52" />
-        <mark key="." line="37" column="52" />
-        <mark key="^" line="37" column="52" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" timestamp="1562921909571">
+        <mark key="'" line="18" column="64" />
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="34" column="40" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" timestamp="1561692722694">
         <mark key="'" line="25" column="14" />
@@ -430,8 +429,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCXNoYWtlQW5pbWF0b3Iuc3BlZWQgPSAwOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -443,34 +442,34 @@
         <text>displaymodel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWdldGVkU3ByaXRlLmdhbWVPYmplY3QuU2V0QWN0aXZlKGZhbHNlKTsK</text>
+        <text encoding="base64">CQlzaGFrZUFuaW1hdG9yLnNwZWVkID0gMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJnU3ByaXRlLnNwcml0ZU5hbWUgPSAiQkdfa3VhbmdfIiArIGRhdGEuaGVyb1RtcGwuZ3JhZGU7Cg==</text>
+        <text encoding="base64">CQkJCXNoYWtlQW5pbWF0b3Iuc3BlZWQgPSAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoaSA+PSBzdG9uZXMuTGVuZ3RoKSBicmVhazsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGJnU3ByaXRlLnNwcml0ZU5hbWUgPSAiQkdfa3VhbmdfIiArIGRhdGEuaGVyb1RtcGwuZ3JhZGU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaSA+PSBzdG9uZXMuTGVuZ3RoKSBicmVhazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBudW1MYWJlbC50ZXh0ID0gc3RyaW5nLkZvcm1hdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBudW1MYWJlbC50ZXh0ID0gc3RyaW5nLkZvcm1hdCgpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb3duQXJyb3cuU2V0QWN0aXZlKGZhbHNlKTsKICAgICAgICB1cEFycm93LlNldEFjdGl2ZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb3duQXJyb3cuU2V0QWN0aXZlKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBkb3duQXJyb3cuU2V0QWN0aXZlKGZhbHNlKTsKICAgICAgICB1cEFycm93LlNldEFjdGl2ZSh0cnVlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkb3duQXJyb3cuU2V0QWN0aXZlKGZhbHNlKTsKICAgICAgICB1cEFycm93LlNldEFjdGl2ZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBkb3duQXJyb3cuU2V0QWN0aXZlKGZhbHNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
