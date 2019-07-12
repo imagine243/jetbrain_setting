@@ -249,12 +249,14 @@
         <mark key="^" line="67" column="51" />
         <mark key="." line="67" column="51" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroDebrisListItemCtrl.cs" timestamp="1562928389233" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UIButton3.cs" timestamp="1562912373301">
         <mark key="'" line="15" column="33" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UICamera.cs" timestamp="1562912973199">
         <mark key="'" line="1563" column="67" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/ConfigTemplate/HeroTemplateVO.cs" timestamp="1562928486809" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveItem.cs" timestamp="1560766301483">
         <mark key="'" line="30" column="31" />
       </file>
@@ -304,6 +306,13 @@
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Data/GC_Show_SignIn_Msg.cs" timestamp="1561518836156">
         <mark key="'" line="13" column="18" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1562928503854">
+        <mark key="'" line="51" column="34" />
+        <mark key="[" line="268" column="82" />
+        <mark key="]" line="268" column="96" />
+        <mark key="^" line="268" column="96" />
+        <mark key="." line="268" column="96" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1562048613958">
         <mark key="'" line="92" column="28" />
         <mark key="[" line="63" column="90" />
@@ -330,7 +339,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="8" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RecruitrankGCHandler.cs" />
       <jump line="59" column="72" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RecruitrankGCHandler.cs" />
       <jump line="13" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Reward_Data_Msg.cs" />
       <jump line="47" column="47" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
@@ -430,6 +438,7 @@
       <jump line="108" column="26" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UITexture.cs" />
       <jump line="65" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookHeroAI.cs" />
       <jump line="32" column="16" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" />
+      <jump line="51" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
