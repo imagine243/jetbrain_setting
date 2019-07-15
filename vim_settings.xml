@@ -147,6 +147,12 @@
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Handler/SignInGCHandler.cs" timestamp="1561518831185">
         <mark key="'" line="6" column="53" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroAwakeItem.cs" timestamp="1563161628181">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="32" />
+        <mark key="^" line="17" column="32" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/NGUITools.cs" timestamp="1562912991471" />
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UITexture.cs" timestamp="1562925137853">
         <mark key="'" line="108" column="26" />
@@ -271,7 +277,7 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1560418346063">
         <mark key="'" line="109" column="12" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" timestamp="1562927381346">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" timestamp="1563160166961">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="61" />
         <mark key="." line="29" column="0" />
@@ -307,12 +313,12 @@
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Data/GC_Show_SignIn_Msg.cs" timestamp="1561518836156">
         <mark key="'" line="13" column="18" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1562928503854">
-        <mark key="'" line="51" column="34" />
-        <mark key="[" line="268" column="82" />
-        <mark key="]" line="268" column="96" />
-        <mark key="^" line="268" column="96" />
-        <mark key="." line="268" column="96" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1563162757049">
+        <mark key="'" line="105" column="47" />
+        <mark key="[" line="125" column="9" />
+        <mark key="]" line="126" column="31" />
+        <mark key="^" line="126" column="31" />
+        <mark key="." line="126" column="31" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1562048613958">
         <mark key="'" line="92" column="28" />
@@ -340,11 +346,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="47" column="47" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
-      <jump line="15" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Hero_HandBook_Reward_Info_Msg.cs" />
-      <jump line="135" column="57" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" />
-      <jump line="137" column="70" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" />
-      <jump line="144" column="57" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" />
       <jump line="139" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationOthersPanel.cs" />
       <jump line="12" column="25" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OtherPlayerDataCenter.cs" />
       <jump line="41" column="30" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
@@ -440,19 +441,24 @@
       <jump line="51" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
       <jump line="44" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="115" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
+      <jump line="98" column="50" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
+      <jump line="112" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
+      <jump line="115" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
+      <jump line="104" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
+      <jump line="105" column="47" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGhlcm9UZXh0dXJlLlNldFRleHR1cmUoZGF0YS5oZXJvVG1wbC5jb2xsZWN0SW1hZ2UpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgSXRlbUFycndvSGVpZ2h0ID0gMTUwOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>grayShader</text>
+        <text encoding="base64">PigpOw==</text>
       </register>
       <register name="/" type="4">
         <text>displaymodel</text>
@@ -461,31 +467,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaGVyb1RleHR1cmUudWlUZXh0dXJlLnNoYWRlciA9IGdyYXlTaGFkZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGhlcm9UZXh0dXJlLlNldFRleHR1cmUoZGF0YS5oZXJvVG1wbC5jb2xsZWN0SW1hZ2UpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgSXRlbUFycndvSGVpZ2h0ID0gMTUwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXJyb3cgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoZXJvVGV4dHVyZS51aVRleHR1cmUuc2hhZGVyID0gZ3JheVNoYWRlcjsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGhlcm9UZXh0dXJlLlNldFRleHR1cmUoZGF0YS5oZXJvVG1wbC5jb2xsZWN0SW1hZ2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXNoYWtlQW5pbWF0b3Iuc3BlZWQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJnU3ByaXRlLnNwcml0ZU5hbWUgPSAiQkdfa3VhbmdfIiArIGRhdGEuaGVyb1RtcGwuZ3JhZGU7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoaSA+PSBzdG9uZXMuTGVuZ3RoKSBicmVhazsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBoZXJvVGV4dHVyZS51aVRleHR1cmUuc2hhZGVyID0gZ3JheVNoYWRlcjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCXNoYWtlQW5pbWF0b3Iuc3BlZWQgPSAwOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBudW1MYWJlbC50ZXh0ID0gc3RyaW5nLkZvcm1hdCgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGJnU3ByaXRlLnNwcml0ZU5hbWUgPSAiQkdfa3VhbmdfIiArIGRhdGEuaGVyb1RtcGwuZ3JhZGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
