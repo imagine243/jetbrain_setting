@@ -221,11 +221,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="66" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UISkillTemplateCtrl.cs" timestamp="1563182168543">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="30" column="35" />
-        <mark key="^" line="30" column="35" />
-        <mark key="." line="30" column="35" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UISkillTemplateCtrl.cs" timestamp="1563261841969">
+        <mark key="'" line="41" column="36" />
+        <mark key="[" line="32" column="77" />
+        <mark key="]" line="27" column="82" />
+        <mark key="^" line="27" column="82" />
+        <mark key="." line="27" column="82" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinItemCtrl.cs" timestamp="1560931124878">
         <mark key="'" line="39" column="39" />
@@ -245,7 +246,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="7" column="64" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/message/CountrywarGCTcpMessage.cs" />
       <jump line="250" column="79" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityOperationPanel.cs" />
       <jump line="256" column="90" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityOperationPanel.cs" />
       <jump line="59" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
@@ -345,52 +345,53 @@
       <jump line="136" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="172" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="14" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
+      <jump line="37" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UISkillTemplateCtrl.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvdW50cnlXZWkudmFsdWUgJiYgYWxsSGFuZEJvb2tMaXN0W2ldLmhlcm9UbXBsLm5hdGlvbiA9PSAxKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzZWxlY3RlZEhhbmRCb29rTGlzdC5BZGQoYWxsSGFuZEJvb2tMaXN0W2ldKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGNvdW50cnlTaHUudmFsdWUgJiYgYWxsSGFuZEJvb2tMaXN0W2ldLmhlcm9UbXBsLm5hdGlvbiA9PSAyKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzZWxlY3RlZEhhbmRCb29rTGlzdC5BZGQoYWxsSGFuZEJvb2tMaXN0W2ldKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGNvdW50cnlXdS52YWx1ZSAmJiBhbGxIYW5kQm9va0xpc3RbaV0uaGVyb1RtcGwubmF0aW9uID09IDMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNlbGVjdGVkSGFuZEJvb2tMaXN0LkFkZChhbGxIYW5kQm9va0xpc3RbaV0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICBpZiAoY291bnRyeVF1bi52YWx1ZSAmJiBhbGxIYW5kQm9va0xpc3RbaV0uaGVyb1RtcGwubmF0aW9uID09IDQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNlbGVjdGVkSGFuZEJvb2tMaXN0LkFkZChhbGxIYW5kQm9va0xpc3RbaV0pOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dataList</text>
+        <text>descLabel</text>
       </register>
       <register name="/" type="4">
         <text>displaymodel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoZXJvVGVtcGxhdGVWbyA9IGhlcm9UbXBsOwo=</text>
+        <text encoding="base64">ICAgICAgICBWZWN0b3IzIGxvY2FsUG9zID0gZGVzY0xhYmVsLnRyYW5zZm9ybS5sb2NhbFBvc2l0aW9uOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvdW50cnlXZWkudmFsdWUgJiYgYWxsSGFuZEJvb2tMaXN0W2ldLmhlcm9UbXBsLm5hdGlvbiA9PSAxKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzZWxlY3RlZEhhbmRCb29rTGlzdC5BZGQoYWxsSGFuZEJvb2tMaXN0W2ldKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGNvdW50cnlTaHUudmFsdWUgJiYgYWxsSGFuZEJvb2tMaXN0W2ldLmhlcm9UbXBsLm5hdGlvbiA9PSAyKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzZWxlY3RlZEhhbmRCb29rTGlzdC5BZGQoYWxsSGFuZEJvb2tMaXN0W2ldKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGNvdW50cnlXdS52YWx1ZSAmJiBhbGxIYW5kQm9va0xpc3RbaV0uaGVyb1RtcGwubmF0aW9uID09IDMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNlbGVjdGVkSGFuZEJvb2tMaXN0LkFkZChhbGxIYW5kQm9va0xpc3RbaV0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICBpZiAoY291bnRyeVF1bi52YWx1ZSAmJiBhbGxIYW5kQm9va0xpc3RbaV0uaGVyb1RtcGwubmF0aW9uID09IDQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNlbGVjdGVkSGFuZEJvb2tMaXN0LkFkZChhbGxIYW5kQm9va0xpc3RbaV0pOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvdW50cnlXZWkudmFsdWUgJiYgYWxsSGFuZEJvb2tMaXN0W2ldLmhlcm9UbXBsLm5hdGlvbiA9PSAxKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzZWxlY3RlZEhhbmRCb29rTGlzdC5BZGQoYWxsSGFuZEJvb2tMaXN0W2ldKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGNvdW50cnlTaHUudmFsdWUgJiYgYWxsSGFuZEJvb2tMaXN0W2ldLmhlcm9UbXBsLm5hdGlvbiA9PSAyKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzZWxlY3RlZEhhbmRCb29rTGlzdC5BZGQoYWxsSGFuZEJvb2tMaXN0W2ldKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGNvdW50cnlXdS52YWx1ZSAmJiBhbGxIYW5kQm9va0xpc3RbaV0uaGVyb1RtcGwubmF0aW9uID09IDMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNlbGVjdGVkSGFuZEJvb2tMaXN0LkFkZChhbGxIYW5kQm9va0xpc3RbaV0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICBpZiAoY291bnRyeVF1bi52YWx1ZSAmJiBhbGxIYW5kQm9va0xpc3RbaV0uaGVyb1RtcGwubmF0aW9uID09IDQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNlbGVjdGVkSGFuZEJvb2tMaXN0LkFkZChhbGxIYW5kQm9va0xpc3RbaV0pOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPCBudW0pCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPCBudW0pCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
