@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/data/TeamData.cs" timestamp="1563268180889" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoDeityUpgradePage.cs" timestamp="1560827836578">
         <mark key="'" line="54" column="53" />
       </file>
@@ -86,6 +87,7 @@
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Handler/WarGCHandler.cs" timestamp="1561447938179">
         <mark key="'" line="305" column="29" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityDetailsPanel.cs" timestamp="1563268409736" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" timestamp="1563184531538">
         <mark key="'" line="506" column="69" />
         <mark key="[" line="522" column="69" />
@@ -242,8 +244,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICollapsibleListCtrl.cs" timestamp="1560939353614">
         <mark key="'" line="112" column="25" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" timestamp="1563265147138">
-        <mark key="'" line="74" column="41" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" timestamp="1563268077361">
+        <mark key="'" line="60" column="38" />
         <mark key="[" line="49" column="96" />
         <mark key="]" line="49" column="103" />
         <mark key="." line="49" column="103" />
@@ -309,6 +311,9 @@
         <mark key="." line="346" column="41" />
         <mark key="^" line="346" column="41" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarSelfClubCityDetailPanel.cs" timestamp="1563268382295">
+        <mark key="'" line="4" column="61" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/handle/CountrywarTcpHandler.cs" timestamp="1562658480982">
         <mark key="'" line="156" column="59" />
         <mark key="[" line="156" column="74" />
@@ -351,8 +356,8 @@
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroPortraitCtrl.cs" timestamp="1563182482275" />
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Interaction/UIToggle.cs" timestamp="1563259621034" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1563265183519">
-        <mark key="'" line="1557" column="0" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1563268146546">
+        <mark key="'" line="35" column="13" />
         <mark key="[" line="1510" column="49" />
         <mark key="]" line="1510" column="48" />
         <mark key="^" line="1510" column="48" />
@@ -361,18 +366,11 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="59" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
-      <jump line="27" column="53" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" />
-      <jump line="66" column="26" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityOperationPanel.cs" />
-      <jump line="66" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" />
-      <jump line="68" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityOperationPanel.cs" />
-      <jump line="112" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityOperationPanel.cs" />
       <jump line="15" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/CountryWar/CountryWarCityCtrl.cs" />
       <jump line="49" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
       <jump line="168" column="25" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
       <jump line="261" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityOperationPanel.cs" />
       <jump line="50" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
-      <jump line="47" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
       <jump line="84" column="52" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityDetailsPanel.cs" />
       <jump line="262" column="59" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityOperationPanel.cs" />
       <jump line="84" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
@@ -461,6 +459,13 @@
       <jump line="37" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UISkillTemplateCtrl.cs" />
       <jump line="74" column="41" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
       <jump line="11" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" />
+      <jump line="60" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
+      <jump line="47" column="12" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
+      <jump line="1505" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
+      <jump line="184" column="44" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
+      <jump line="34" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
+      <jump line="35" column="13" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
+      <jump line="4" column="61" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarSelfClubCityDetailPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
