@@ -4,12 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/data/TeamData.cs" timestamp="1563272775485" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" timestamp="1563342332613">
-        <mark key="'" line="21" column="24" />
-        <mark key="[" line="38" column="68" />
-        <mark key="]" line="38" column="75" />
-        <mark key="." line="38" column="75" />
-        <mark key="^" line="38" column="75" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" timestamp="1563345720816">
+        <mark key="[" line="40" column="52" />
+        <mark key="]" line="40" column="52" />
+        <mark key="." line="40" column="52" />
+        <mark key="^" line="22" column="59" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" timestamp="1563244888224" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookDataCenter.cs" timestamp="1563246180182" />
@@ -127,8 +126,8 @@
         <mark key="'" line="87" column="16" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroDebrisListItemCtrl.cs" timestamp="1562928389233" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UIButton3.cs" timestamp="1562912373301">
-        <mark key="'" line="15" column="33" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UIButton3.cs" timestamp="1563344780384">
+        <mark key="'" line="218" column="33" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/ConfigTemplate/HeroTemplateVO.cs" timestamp="1563274749030" />
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UIPanel.cs" timestamp="1562903675853" />
@@ -155,7 +154,7 @@
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroPortraitCtrl.cs" timestamp="1563182482275" />
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Interaction/UIToggle.cs" timestamp="1563259621034" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1563343117350">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1563345379137">
         <mark key="'" line="47" column="17" />
         <mark key="[" line="1512" column="0" />
         <mark key="]" line="1512" column="0" />
@@ -164,9 +163,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="156" column="59" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/handle/CountrywarTcpHandler.cs" />
-      <jump line="444" column="79" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
-      <jump line="33" column="71" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
       <jump line="0" column="0" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/CountrywarGCHandler.cs" />
       <jump line="688" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
       <jump line="1529" column="0" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
@@ -264,52 +260,55 @@
       <jump line="21" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
       <jump line="33" column="26" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" />
       <jump line="77" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
+      <jump line="22" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" />
+      <jump line="212" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UIButton3.cs" />
+      <jump line="218" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UIButton3.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlhd2FyZEN0cmwuU2V0T25DbGlja0Z1bmMoKENvbW1vbkRlZmluZS52b2lkZnVuYyludWxsKTsK</text>
+      <register name="&quot;" type="4">
+        <text>isEnabled</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isEnabled</text>
       </register>
       <register name="/" type="4">
         <text>displaymodel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlhd2FyZEN0cmwuU2V0T25DbGlja0Z1bmMoKENvbW1vbkRlZmluZS52b2lkZnVuYyludWxsKTsK</text>
+        <text encoding="base64">CQlhd2FyZEN0cmwuR2V0Q29tcG9uZW50PFVJQnV0dG9uMz4oKS5pc0VuYWJsZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQlhd2FyZEN0cmwuR2V0Q29tcG9uZW50PFVJQnV0dG9uMz4oKS5vbkNsaWNrLkNsZWFyKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgcHVibGljIHN0YXRpYyBsb25nIEdldENsdWJQb3dlcigpCiAgICB7CiAgICAgICAgbG9uZyBwb3dlciA9IDA7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzZWxmVGVhbUxpc3QuQ291bnQ7IGkrKykKICAgICAgICB7CiAgICAgICAgICAgIHZhciB0ZWFtSXRlbSA9IHNlbGZUZWFtTGlzdFtpXTsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCB0ZWFtSXRlbS5odW1hbkhlcm9MaXN0LkNvdW50OyBqKyspCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHBvd2VyICs9IHRlYW1JdGVtLmh1bWFuSGVyb0xpc3Rbal0uZmlnaHRQb3dlcjsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHBvd2VyOwogICAgfQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvdW50cnlXZWkudmFsdWUgJiYgYWxsSGFuZEJvb2tMaXN0W2ldLmhlcm9UbXBsLm5hdGlvbiA9PSAxKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzZWxlY3RlZEhhbmRCb29rTGlzdC5BZGQoYWxsSGFuZEJvb2tMaXN0W2ldKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGNvdW50cnlTaHUudmFsdWUgJiYgYWxsSGFuZEJvb2tMaXN0W2ldLmhlcm9UbXBsLm5hdGlvbiA9PSAyKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzZWxlY3RlZEhhbmRCb29rTGlzdC5BZGQoYWxsSGFuZEJvb2tMaXN0W2ldKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGNvdW50cnlXdS52YWx1ZSAmJiBhbGxIYW5kQm9va0xpc3RbaV0uaGVyb1RtcGwubmF0aW9uID09IDMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNlbGVjdGVkSGFuZEJvb2tMaXN0LkFkZChhbGxIYW5kQm9va0xpc3RbaV0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICBpZiAoY291bnRyeVF1bi52YWx1ZSAmJiBhbGxIYW5kQm9va0xpc3RbaV0uaGVyb1RtcGwubmF0aW9uID09IDQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNlbGVjdGVkSGFuZEJvb2tMaXN0LkFkZChhbGxIYW5kQm9va0xpc3RbaV0pOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgcHVibGljIHN0YXRpYyBsb25nIEdldENsdWJQb3dlcigpCiAgICB7CiAgICAgICAgbG9uZyBwb3dlciA9IDA7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzZWxmVGVhbUxpc3QuQ291bnQ7IGkrKykKICAgICAgICB7CiAgICAgICAgICAgIHZhciB0ZWFtSXRlbSA9IHNlbGZUZWFtTGlzdFtpXTsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCB0ZWFtSXRlbS5odW1hbkhlcm9MaXN0LkNvdW50OyBqKyspCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHBvd2VyICs9IHRlYW1JdGVtLmh1bWFuSGVyb0xpc3Rbal0uZmlnaHRQb3dlcjsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHBvd2VyOwogICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvdW50cnlXZWkudmFsdWUgJiYgYWxsSGFuZEJvb2tMaXN0W2ldLmhlcm9UbXBsLm5hdGlvbiA9PSAxKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzZWxlY3RlZEhhbmRCb29rTGlzdC5BZGQoYWxsSGFuZEJvb2tMaXN0W2ldKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGNvdW50cnlTaHUudmFsdWUgJiYgYWxsSGFuZEJvb2tMaXN0W2ldLmhlcm9UbXBsLm5hdGlvbiA9PSAyKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzZWxlY3RlZEhhbmRCb29rTGlzdC5BZGQoYWxsSGFuZEJvb2tMaXN0W2ldKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGNvdW50cnlXdS52YWx1ZSAmJiBhbGxIYW5kQm9va0xpc3RbaV0uaGVyb1RtcGwubmF0aW9uID09IDMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNlbGVjdGVkSGFuZEJvb2tMaXN0LkFkZChhbGxIYW5kQm9va0xpc3RbaV0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICBpZiAoY291bnRyeVF1bi52YWx1ZSAmJiBhbGxIYW5kQm9va0xpc3RbaV0uaGVyb1RtcGwubmF0aW9uID09IDQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNlbGVjdGVkSGFuZEJvb2tMaXN0LkFkZChhbGxIYW5kQm9va0xpc3RbaV0pOwogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
