@@ -56,8 +56,8 @@
         <mark key="'" line="172" column="29" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UISuperGridItemCtrl.cs" timestamp="1563180281832" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1563341041491">
-        <mark key="'" line="92" column="28" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" timestamp="1563346473773">
+        <mark key="'" line="23" column="47" />
         <mark key="[" line="56" column="53" />
         <mark key="]" line="56" column="86" />
         <mark key="." line="56" column="86" />
@@ -85,6 +85,7 @@
         <mark key="." line="74" column="45" />
         <mark key="^" line="74" column="45" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelCtrlBase.cs" timestamp="1563346498785" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroAwakeItem.cs" timestamp="1563258484503">
         <mark key="[" line="30" column="57" />
         <mark key="]" line="30" column="85" />
@@ -163,7 +164,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/CountrywarGCHandler.cs" />
       <jump line="688" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
       <jump line="1529" column="0" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" />
       <jump line="268" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CityOperation/CountryWarCityOperationPanel.cs" />
@@ -263,6 +263,7 @@
       <jump line="22" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" />
       <jump line="212" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UIButton3.cs" />
       <jump line="218" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UIButton3.cs" />
+      <jump line="23" column="47" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
