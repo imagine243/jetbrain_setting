@@ -24,6 +24,7 @@
         <mark key="." line="26" column="28" />
         <mark key="^" line="26" column="28" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/ArtRes/Effects/Script/ParticleLayerControl.cs" timestamp="1563353296455" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" timestamp="1563244888224" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookDataCenter.cs" timestamp="1563246180182" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RecruitrankGCHandler.cs" timestamp="1561693345383">
@@ -171,7 +172,7 @@
         <mark key="^" line="74" column="45" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelCtrlBase.cs" timestamp="1563347546042" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroAwakeItem.cs" timestamp="1563258484503">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroAwakeItem.cs" timestamp="1563353649960">
         <mark key="[" line="30" column="57" />
         <mark key="]" line="30" column="85" />
         <mark key="." line="30" column="85" />
@@ -252,12 +253,12 @@
         <mark key="^" line="27" column="82" />
         <mark key="." line="27" column="82" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1563351108447">
-        <mark key="'" line="102" column="180" />
-        <mark key="[" line="155" column="57" />
-        <mark key="]" line="155" column="75" />
-        <mark key="." line="155" column="75" />
-        <mark key="^" line="155" column="75" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1563353757136">
+        <mark key="'" line="104" column="180" />
+        <mark key="[" line="109" column="59" />
+        <mark key="]" line="110" column="33" />
+        <mark key="." line="110" column="33" />
+        <mark key="^" line="110" column="33" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroPortraitCtrl.cs" timestamp="1563182482275" />
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Interaction/UIToggle.cs" timestamp="1563259621034" />
