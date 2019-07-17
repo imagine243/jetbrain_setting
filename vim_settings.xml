@@ -36,7 +36,9 @@
       <file name="D:/project/zombie_trunk/Assets/Scripts/UI/Common/UIRefreshTimeCountDownCtrl.cs" timestamp="1561519920177">
         <mark key="'" line="17" column="141" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/ArtRes/Effects/Script/ParticleLayerControl.cs" timestamp="1563355012265" />
+      <file name="E:/project/mobile_tf2_project/Assets/ArtRes/Effects/Script/ParticleLayerControl.cs" timestamp="1563356074166">
+        <mark key="'" line="88" column="74" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/NotificationManager.cs" timestamp="1561357173054">
         <mark key="'" line="99" column="11" />
       </file>
@@ -163,7 +165,7 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/AwardCtrl.cs" timestamp="1563342271214">
         <mark key="'" line="172" column="29" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadBaseModelController.cs" timestamp="1563355159924">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadBaseModelController.cs" timestamp="1563356343649">
         <mark key="'" line="93" column="34" />
         <mark key="[" line="96" column="12" />
         <mark key="]" line="96" column="41" />
@@ -235,7 +237,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveEquipChoose.cs" timestamp="1561433935316">
         <mark key="'" line="134" column="31" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/StreamingAssets/Language/SimplifiedChinese.txt" timestamp="1563184745653" />
+      <file name="E:/project/mobile_tf2_project/Assets/StreamingAssets/Language/SimplifiedChinese.txt" timestamp="1563358017676">
+        <mark key="[" line="21332" column="32" />
+        <mark key="]" line="21335" column="31" />
+        <mark key="^" line="21335" column="31" />
+        <mark key="." line="21335" column="31" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" timestamp="1562927135767">
         <mark key="'" line="32" column="16" />
       </file>
@@ -308,12 +315,12 @@
         <mark key="^" line="30" column="85" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/NGUITools.cs" timestamp="1562912991471" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" timestamp="1563342915990">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" timestamp="1563357202643">
         <mark key="'" line="33" column="26" />
-        <mark key="[" line="60" column="166" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="12" />
-        <mark key="^" line="60" column="12" />
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UITabCellCtrl.cs" timestamp="1563158527927" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/message/CountrywarGCTcpMessage.cs" timestamp="1563271560555">
@@ -409,7 +416,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="564" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="522" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="15" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UIButton3.cs" />
       <jump line="1942" column="30" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UICamera.cs" />
@@ -509,13 +515,14 @@
       <jump line="87" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadBaseModelController.cs" />
       <jump line="84" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadBaseModelController.cs" />
       <jump line="91" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadBaseModelController.cs" />
+      <jump line="88" column="74" filename="E:/project/mobile_tf2_project/Assets/ArtRes/Effects/Script/ParticleLayerControl.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8JCQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1ckJ1aWxkaW5nUHJvZHVjdExhYmVsICE9IG51bGwpY3VyQnVpbGRpbmdQcm9kdWN0TGFiZWwudGV4dCA9IHN0cmluZy5Gb3JtYXQoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KCJidWlsZGluZ19wcm9kdWN0X3NwZWVkXyIgKyBidWlsZGluZ0lkKSwgcGVyY2VudCk7IAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -530,31 +537,31 @@
         <text encoding="base64">CQlhd2FyZEN0cmwuR2V0Q29tcG9uZW50PFVJQnV0dG9uMz4oKS5pc0VuYWJsZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JCQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1ckJ1aWxkaW5nUHJvZHVjdExhYmVsICE9IG51bGwpY3VyQnVpbGRpbmdQcm9kdWN0TGFiZWwudGV4dCA9IHN0cmluZy5Gb3JtYXQoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KCJidWlsZGluZ19wcm9kdWN0X3NwZWVkXyIgKyBidWlsZGluZ0lkKSwgcGVyY2VudCk7IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JCQkJCWNvbnRpbnVlOwo=</text>
+        <text encoding="base64">Ly8JCQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCQkJCXJlbmRlclF1ZXVlID0gbWF0LnJlbmRlclF1ZXVlOwo=</text>
+        <text encoding="base64">Ly8JCQkJCWNvbnRpbnVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCQkJewo=</text>
+        <text encoding="base64">Ly8JCQkJCXJlbmRlclF1ZXVlID0gbWF0LnJlbmRlclF1ZXVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCQkJaWYgKG1hdC5zaGFkZXIuaXNTdXBwb3J0ZWQpCg==</text>
+        <text encoding="base64">Ly8JCQkJewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXQucmVuZGVyUXVldWUgPSByZW5kZXJRdWV1ZTsK</text>
+        <text encoding="base64">Ly8JCQkJaWYgKG1hdC5zaGFkZXIuaXNTdXBwb3J0ZWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXBsYWNlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXQucmVuZGVyUXVldWUgPSByZW5kZXJRdWV1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXQuc2hhZGVyID0gU2hhZGVyLkZpbmQobWF0LnNoYWRlci5uYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXBsYWNlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZW5kZXJRdWV1ZSA9IG1hdC5yZW5kZXJRdWV1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXQuc2hhZGVyID0gU2hhZGVyLkZpbmQobWF0LnNoYWRlci5uYW1lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
