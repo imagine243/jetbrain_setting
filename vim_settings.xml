@@ -237,11 +237,11 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveEquipChoose.cs" timestamp="1561433935316">
         <mark key="'" line="134" column="31" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/StreamingAssets/Language/SimplifiedChinese.txt" timestamp="1563358017676">
+      <file name="E:/project/mobile_tf2_project/Assets/StreamingAssets/Language/SimplifiedChinese.txt" timestamp="1563358818067">
         <mark key="[" line="21332" column="32" />
-        <mark key="]" line="21335" column="31" />
-        <mark key="^" line="21335" column="31" />
-        <mark key="." line="21335" column="31" />
+        <mark key="]" line="21322" column="40" />
+        <mark key="^" line="21322" column="40" />
+        <mark key="." line="21322" column="40" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/LoadHandBookHeroModelController.cs" timestamp="1562927135767">
         <mark key="'" line="32" column="16" />
@@ -407,11 +407,12 @@
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroPortraitCtrl.cs" timestamp="1563182482275" />
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Interaction/UIToggle.cs" timestamp="1563259621034" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1563345379137">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1563358814662">
         <mark key="'" line="47" column="17" />
-        <mark key="[" line="1512" column="0" />
-        <mark key="]" line="1512" column="0" />
-        <mark key="." line="1512" column="0" />
+        <mark key="[" line="1443" column="40" />
+        <mark key="]" line="1443" column="46" />
+        <mark key="." line="1443" column="46" />
+        <mark key="^" line="1443" column="46" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
@@ -521,14 +522,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1ckJ1aWxkaW5nUHJvZHVjdExhYmVsICE9IG51bGwpY3VyQnVpbGRpbmdQcm9kdWN0TGFiZWwudGV4dCA9IHN0cmluZy5Gb3JtYXQoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KCJidWlsZGluZ19wcm9kdWN0X3NwZWVkXyIgKyBidWlsZGluZ0lkKSwgcGVyY2VudCk7IAo=</text>
+      <register name="&quot;" type="4">
+        <text>CountryWarCenConstantTemplateVODataCenter.GetTemplateVO(1).hpResetRate / 100f) * (1 + )</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>isEnabled</text>
+        <text>CountryWarCenConstantTemplateVODataCenter.GetTemplateVO(1).hpResetRate / 100f) * (1 + )</text>
       </register>
       <register name="/" type="4">
         <text>displaymodel</text>
