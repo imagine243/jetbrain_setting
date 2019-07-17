@@ -291,12 +291,11 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICollapsibleListCtrl.cs" timestamp="1560939353614">
         <mark key="'" line="112" column="25" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" timestamp="1563343063661">
-        <mark key="'" line="77" column="38" />
-        <mark key="[" line="74" column="47" />
-        <mark key="]" line="74" column="45" />
-        <mark key="." line="74" column="45" />
-        <mark key="^" line="74" column="45" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" timestamp="1563360601645">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="75" column="148" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/data/CityData.cs" timestamp="1562561487248">
         <mark key="'" line="7" column="22" />
@@ -409,10 +408,10 @@
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Interaction/UIToggle.cs" timestamp="1563259621034" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/CountryWarDataCenter.cs" timestamp="1563358814662">
         <mark key="'" line="47" column="17" />
-        <mark key="[" line="1443" column="40" />
-        <mark key="]" line="1443" column="46" />
-        <mark key="." line="1443" column="46" />
-        <mark key="^" line="1443" column="46" />
+        <mark key="[" line="1457" column="40" />
+        <mark key="]" line="1457" column="46" />
+        <mark key="." line="1457" column="46" />
+        <mark key="^" line="1457" column="46" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
@@ -522,47 +521,47 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>CountryWarCenConstantTemplateVODataCenter.GetTemplateVO(1).hpResetRate / 100f) * (1 + )</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1ckJhcnJhY2tzQnVpbGRpbmdJdGVtLlNldEluZm8oYnVpbGRpbmcsIF9DaXR5SW5mby5jaXR5U2VydmVyRGF0YSk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CountryWarCenConstantTemplateVODataCenter.GetTemplateVO(1).hpResetRate / 100f) * (1 + )</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>displaymodel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlhd2FyZEN0cmwuR2V0Q29tcG9uZW50PFVJQnV0dG9uMz4oKS5pc0VuYWJsZWQgPSBmYWxzZTsK</text>
+      <register name="0" type="4">
+        <text>.text = string.Format(StormLocalization.Get(&quot;city_upgrade_club_grass_num&quot;), CountryWarDataCenter.GetBloodAddition());</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1ckJ1aWxkaW5nUHJvZHVjdExhYmVsICE9IG51bGwpY3VyQnVpbGRpbmdQcm9kdWN0TGFiZWwudGV4dCA9IHN0cmluZy5Gb3JtYXQoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KCJidWlsZGluZ19wcm9kdWN0X3NwZWVkXyIgKyBidWlsZGluZ0lkKSwgcGVyY2VudCk7IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1ckJhcnJhY2tzQnVpbGRpbmdJdGVtLlNldEluZm8oYnVpbGRpbmcsIF9DaXR5SW5mby5jaXR5U2VydmVyRGF0YSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JCQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1ckNpdHlCdWlsZGluZ0l0ZW0uU2V0SW5mbyhidWlsZGluZywgX0NpdHlJbmZvLmNpdHlTZXJ2ZXJEYXRhKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCQkJCWNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1ckJhcnJhY2tzQnVpbGRpbmdJdGVtLlNldEluZm8oYnVpbGRpbmcsIF9DaXR5SW5mby5jaXR5U2VydmVyRGF0YSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCQkJCXJlbmRlclF1ZXVlID0gbWF0LnJlbmRlclF1ZXVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1ckNpdHlCdWlsZGluZ0l0ZW0uU2V0SW5mbyhidWlsZGluZywgX0NpdHlJbmZvLmNpdHlTZXJ2ZXJEYXRhKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCQkJewo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJCYXJyYWNrc0J1aWxkaW5nSXRlbS5nYW1lT2JqZWN0LlNldEFjdGl2ZShmYWxzZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8JCQkJaWYgKG1hdC5zaGFkZXIuaXNTdXBwb3J0ZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJDaXR5QnVpbGRpbmdJdGVtLmdhbWVPYmplY3QuU2V0QWN0aXZlKGZhbHNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXQucmVuZGVyUXVldWUgPSByZW5kZXJRdWV1ZTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDb3VudHJ5V2FyVW5iYW5VcGdyYWRlSXRlbSBjdXJCYXJyYWNrc0J1aWxkaW5nSXRlbTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXBsYWNlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDb3VudHJ5V2FyVW5iYW5VcGdyYWRlSXRlbSBjdXJDaXR5QnVpbGRpbmdJdGVtOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXQuc2hhZGVyID0gU2hhZGVyLkZpbmQobWF0LnNoYWRlci5uYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ291bnRyeVdhckRhdGFDZW50ZXIuR2V0Qmxvb2RBZGRpdGlvbigpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
