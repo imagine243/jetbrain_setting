@@ -149,12 +149,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UICamera.cs" timestamp="1562912973199">
         <mark key="'" line="1563" column="67" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1563350415801">
-        <mark key="'" line="14" column="15" />
-        <mark key="[" line="74" column="24" />
-        <mark key="]" line="76" column="33" />
-        <mark key="." line="76" column="33" />
-        <mark key="^" line="76" column="33" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1563433900658">
+        <mark key="'" line="130" column="38" />
+        <mark key="[" line="135" column="35" />
+        <mark key="]" line="135" column="33" />
+        <mark key="." line="135" column="33" />
+        <mark key="^" line="135" column="33" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1560418346063">
         <mark key="'" line="109" column="12" />
@@ -289,7 +289,7 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICollapsibleListCtrl.cs" timestamp="1560939353614">
         <mark key="'" line="112" column="25" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" timestamp="1563432208732">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" timestamp="1563433725315">
         <mark key="[" line="74" column="136" />
         <mark key="]" line="107" column="0" />
         <mark key="^" line="75" column="148" />
@@ -382,11 +382,12 @@
         <mark key="'" line="30" column="31" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UIPanel.cs" timestamp="1562903675853" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIDropDownGradeList.cs" timestamp="1563430932369">
-        <mark key="'" line="31" column="18" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIDropDownGradeList.cs" timestamp="1563433843946">
+        <mark key="'" line="35" column="25" />
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="45" column="14" />
+        <mark key="^" line="45" column="14" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UISkillTemplateCtrl.cs" timestamp="1563261841969">
         <mark key="'" line="41" column="36" />
@@ -416,8 +417,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="1942" column="30" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UICamera.cs" />
-      <jump line="14" column="28" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/UIWidget.cs" />
       <jump line="279" column="20" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/UIWidget.cs" />
       <jump line="1560" column="0" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/UIWidget.cs" />
       <jump line="106" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
@@ -516,52 +515,54 @@
       <jump line="88" column="74" filename="E:/project/mobile_tf2_project/Assets/ArtRes/Effects/Script/ParticleLayerControl.cs" />
       <jump line="324" column="127" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarMainUIPanel.cs" />
       <jump line="288" column="55" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarMainUIPanel.cs" />
+      <jump line="35" column="25" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIDropDownGradeList.cs" />
+      <jump line="130" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRhYkN0cmwuZ2FtZU9iamVjdC4K</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcmNlbnQgKz0gTWF0aC5NYXgoYnVpbGRpbmdUZW1wbGF0ZVZvLmZvb2RBZGRpdGlvbiwgYnVpbGRpbmdUZW1wbGF0ZVZvLmxpZmVBZGRpdGlvbikgLyAxMDBmOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JhZGVTZWxlY3RMaXN0LlNob3dEcm9wRG93bkxpc3QoKTsKCiAgICAgICAgICAgIGRvd25BcnJvdy5TZXRBY3RpdmUodHJ1ZSk7CiAgICAgICAgICAgIHVwQXJyb3cuU2V0QWN0aXZlKGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRhYkN0cmwuZ2FtZU9iamVjdC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRyYW5zZm9ybS5oaWVyYXJjaHlDb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICBncmFkZVNlbGVjdExpc3QuU2hvd0Ryb3BEb3duTGlzdCgpOwoKICAgICAgICBkb3duQXJyb3cuU2V0QWN0aXZlKHRydWUpOwogICAgICAgIHVwQXJyb3cuU2V0QWN0aXZlKGZhbHNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHRhYkN0cmwuZ2FtZU9iamVjdC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgQ291bnRyeVdhckRhdGFDZW50ZXIuY2l0eURhdGFMaXN0LkNvdW50OyBpKyspCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgaWYgKGNpdHlEYXRhTGlzdFtpXS5jaXR5U2VydmVyRGF0YSA9PSBudWxsIHx8IGNpdHlEYXRhTGlzdFtpXS5jaXR5U2VydmVyRGF0YS5jbHViVW5pcXVlSWQgIT0gQ291bnRyeVdhckRhdGFDZW50ZXIucGxheWVyRGF0YS5jbHViVW5pcXVlSWQpIGNvbnRpbnVlOwovLwovLyAgICAgICAgICAgIHZhciBjaXR5QnVpbGRpbmcgPSAgZ2V0Q2l0eUJ1aWxkaW5nKDEsIGNpdHlEYXRhTGlzdFtpXS5jaXR5U2VydmVyRGF0YS5jaXR5QnVpbGRpbmdzKTsKLy8gICAgICAgICAgICBpZihjaXR5QnVpbGRpbmcgPT0gbnVsbCkgY29udGludWU7Ci8vICAgICAgICAgICAgQ2l0eUJ1aWxkaW5nVGVtcGxhdGVWTyBidWlsZGluZ1RlbXBsYXRlVm8gPQovLyAgICAgICAgICAgICAgICBHZXRDaXR5QnVpbGRpbmdCeUlkQW5kTGV2ZWwoY2l0eUJ1aWxkaW5nLmJ1aWxkaW5nSWQsIGNpdHlCdWlsZGluZy5idWlsZGluZ0x2KTsKLy8gICAgICAgICAgICBwZXJjZW50ICs9IE1hdGguTWF4KGJ1aWxkaW5nVGVtcGxhdGVWby5mb29kQWRkaXRpb24sIGJ1aWxkaW5nVGVtcGxhdGVWby5saWZlQWRkaXRpb24pIC8gMTAwMDBmOwovLyAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHRyYW5zZm9ybS5oaWVyYXJjaHlDb3VudAo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgQ291bnRyeVdhckRhdGFDZW50ZXIuY2l0eURhdGFMaXN0LkNvdW50OyBpKyspCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgaWYgKENvdW50cnlXYXJEYXRhQ2VudGVyLmNpdHlEYXRhTGlzdFtpXS5jaXR5U2VydmVyRGF0YSA9PSBudWxsIHx8IAovLyAgICAgICAgICAgICAgICBDb3VudHJ5V2FyRGF0YUNlbnRlci5jaXR5RGF0YUxpc3RbaV0uY2l0eVNlcnZlckRhdGEuY2x1YlVuaXF1ZUlkICE9IENvdW50cnlXYXJEYXRhQ2VudGVyLnBsYXllckRhdGEuY2x1YlVuaXF1ZUlkKSBjb250aW51ZTsKLy8gICAgICAgICAgICB2YXIgY2l0eUJ1aWxkaW5nID0gIGdldENpdHlCdWlsZGluZygyLCBjaXR5RGF0YUxpc3RbaV0uY2l0eVNlcnZlckRhdGEuY2l0eUJ1aWxkaW5ncyk7Ci8vICAgICAgICAgICAgaWYoY2l0eUJ1aWxkaW5nID09IG51bGwpIGNvbnRpbnVlOwovLyAgICAgICAgICAgIENpdHlCdWlsZGluZ1RlbXBsYXRlVk8gYnVpbGRpbmdUZW1wbGF0ZVZvID0KLy8gICAgICAgICAgICAgICAgR2V0Q2l0eUJ1aWxkaW5nQnlJZEFuZExldmVsKGNpdHlCdWlsZGluZy5idWlsZGluZ0lkLCBjaXR5QnVpbGRpbmcuYnVpbGRpbmdMdik7Ci8vICAgICAgICAgICAgcGVyY2VudCArPSBNYXRoLk1heChidWlsZGluZ1RlbXBsYXRlVm8uZm9vZEFkZGl0aW9uLCBidWlsZGluZ1RlbXBsYXRlVm8ubGlmZUFkZGl0aW9uKSAvIDEwMDAwZjsKLy8gICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2dFcnJvcigiaHBSZXNldFJhdGUgIiArIENvdW50cnlXYXJDZW5Db25zdGFudFRlbXBsYXRlVk9EYXRhQ2VudGVyLkdldFRlbXBsYXRlVk8oMSkuaHBSZXNldFJhdGUuVG9TdHJpbmcoKSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgQ291bnRyeVdhckRhdGFDZW50ZXIuY2l0eURhdGFMaXN0LkNvdW50OyBpKyspCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgaWYgKGNpdHlEYXRhTGlzdFtpXS5jaXR5U2VydmVyRGF0YSA9PSBudWxsIHx8IGNpdHlEYXRhTGlzdFtpXS5jaXR5U2VydmVyRGF0YS5jbHViVW5pcXVlSWQgIT0gQ291bnRyeVdhckRhdGFDZW50ZXIucGxheWVyRGF0YS5jbHViVW5pcXVlSWQpIGNvbnRpbnVlOwovLwovLyAgICAgICAgICAgIHZhciBjaXR5QnVpbGRpbmcgPSAgZ2V0Q2l0eUJ1aWxkaW5nKDEsIGNpdHlEYXRhTGlzdFtpXS5jaXR5U2VydmVyRGF0YS5jaXR5QnVpbGRpbmdzKTsKLy8gICAgICAgICAgICBpZihjaXR5QnVpbGRpbmcgPT0gbnVsbCkgY29udGludWU7Ci8vICAgICAgICAgICAgQ2l0eUJ1aWxkaW5nVGVtcGxhdGVWTyBidWlsZGluZ1RlbXBsYXRlVm8gPQovLyAgICAgICAgICAgICAgICBHZXRDaXR5QnVpbGRpbmdCeUlkQW5kTGV2ZWwoY2l0eUJ1aWxkaW5nLmJ1aWxkaW5nSWQsIGNpdHlCdWlsZGluZy5idWlsZGluZ0x2KTsKLy8gICAgICAgICAgICBwZXJjZW50ICs9IE1hdGguTWF4KGJ1aWxkaW5nVGVtcGxhdGVWby5mb29kQWRkaXRpb24sIGJ1aWxkaW5nVGVtcGxhdGVWby5saWZlQWRkaXRpb24pIC8gMTAwMDBmOwovLyAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
