@@ -87,12 +87,15 @@
         <mark key="^" line="171" column="0" />
         <mark key="." line="171" column="0" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1563354148170">
-        <mark key="'" line="48" column="30" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1563434761645">
+        <mark key="'" line="875" column="39" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1563273865317" />
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Handler/SignInGCHandler.cs" timestamp="1561518831185">
         <mark key="'" line="6" column="53" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadActorAIModelController.cs" timestamp="1563434699960">
+        <mark key="'" line="9" column="57" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UITexture.cs" timestamp="1562925137853">
         <mark key="'" line="108" column="26" />
@@ -149,15 +152,15 @@
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UICamera.cs" timestamp="1562912973199">
         <mark key="'" line="1563" column="67" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1563433900658">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1563434602314">
         <mark key="'" line="130" column="38" />
         <mark key="[" line="135" column="35" />
         <mark key="]" line="135" column="33" />
         <mark key="." line="135" column="33" />
         <mark key="^" line="135" column="33" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1560418346063">
-        <mark key="'" line="109" column="12" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1563434674698">
+        <mark key="'" line="6" column="21" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" timestamp="1563258001564">
         <mark key="[" line="34" column="57" />
@@ -289,11 +292,11 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICollapsibleListCtrl.cs" timestamp="1560939353614">
         <mark key="'" line="112" column="25" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" timestamp="1563433725315">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" timestamp="1563434689651">
         <mark key="[" line="74" column="136" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="75" column="148" />
-        <mark key="." line="107" column="0" />
+        <mark key="]" line="79" column="58" />
+        <mark key="^" line="79" column="58" />
+        <mark key="." line="79" column="58" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/data/CityData.cs" timestamp="1562561487248">
         <mark key="'" line="7" column="22" />
@@ -399,12 +402,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinItemCtrl.cs" timestamp="1560931124878">
         <mark key="'" line="39" column="39" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1563432199415">
-        <mark key="'" line="104" column="180" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="29" />
-        <mark key="." line="178" column="0" />
-        <mark key="^" line="97" column="38" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" timestamp="1563434946396">
+        <mark key="'" line="94" column="34" />
+        <mark key="[" line="94" column="41" />
+        <mark key="]" line="94" column="62" />
+        <mark key="." line="94" column="62" />
+        <mark key="^" line="94" column="62" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroPortraitCtrl.cs" timestamp="1563182482275" />
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Interaction/UIToggle.cs" timestamp="1563259621034" />
@@ -417,11 +420,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="279" column="20" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/UIWidget.cs" />
-      <jump line="1560" column="0" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/Internal/UIWidget.cs" />
-      <jump line="106" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
-      <jump line="61" column="74" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
-      <jump line="71" column="13" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="176" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="2642" column="41" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UICamera.cs" />
       <jump line="2197" column="14" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UICamera.cs" />
@@ -517,6 +515,11 @@
       <jump line="288" column="55" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarMainUIPanel.cs" />
       <jump line="35" column="25" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIDropDownGradeList.cs" />
       <jump line="130" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
+      <jump line="73" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
+      <jump line="6" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" />
+      <jump line="9" column="57" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadActorAIModelController.cs" />
+      <jump line="875" column="39" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
+      <jump line="94" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
