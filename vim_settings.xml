@@ -124,12 +124,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UICamera.cs" timestamp="1562912973199">
         <mark key="'" line="1563" column="67" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1563504964261">
-        <mark key="'" line="132" column="38" />
-        <mark key="[" line="177" column="73" />
-        <mark key="]" line="24" column="31" />
-        <mark key="." line="24" column="31" />
-        <mark key="^" line="24" column="31" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1563532129553">
+        <mark key="'" line="129" column="33" />
+        <mark key="[" line="122" column="47" />
+        <mark key="]" line="122" column="42" />
+        <mark key="^" line="122" column="42" />
+        <mark key="." line="122" column="42" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1563434674698">
         <mark key="'" line="6" column="21" />
@@ -195,11 +195,6 @@
         <mark key="]" line="572" column="0" />
         <mark key="." line="572" column="0" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Utils/FindSelfShader.cs" timestamp="1563354951072">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1561433311213">
         <mark key="'" line="813" column="40" />
       </file>
@@ -233,8 +228,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OtherPlayerDataCenter.cs" timestamp="1561716280320">
         <mark key="'" line="12" column="25" />
       </file>
-      <file name="E:/project/FengbaoEditor/Fengbao_Editor/code/StaticData/ExportExcelData.cs" timestamp="1563525937902">
-        <mark key="'" line="25" column="51" />
+      <file name="E:/project/FengbaoEditor/Fengbao_Editor/code/StaticData/ExportExcelData.cs" timestamp="1563531421936">
+        <mark key="'" line="25" column="50" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Rank_Reward_Msg.cs" timestamp="1561618417510">
         <mark key="'" line="13" column="22" />
@@ -338,10 +333,11 @@
         <mark key="." line="29" column="82" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/CountryWar/CountryWarAttackPath.cs" timestamp="1563445121746" />
-      <file name="E:/chao/unityproj/UITool/Assets/Editor/CodeGenerater.cs" timestamp="1563528476546">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="E:/chao/unityproj/UITool/Assets/Editor/CodeGenerater.cs" timestamp="1563531464154">
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="42" />
+        <mark key="^" line="39" column="42" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinItemCtrl.cs" timestamp="1560931124878">
         <mark key="'" line="39" column="39" />
@@ -366,9 +362,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="51" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
-      <jump line="44" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
-      <jump line="115" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="98" column="50" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
       <jump line="112" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
       <jump line="115" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
@@ -464,54 +457,57 @@
       <jump line="75" column="56" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" />
       <jump line="46" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" />
       <jump line="6" column="0" filename="E:/chao/unityproj/UITool/Assets/Editor/CodeGenerater.cs" />
-      <jump line="25" column="51" filename="E:/project/FengbaoEditor/Fengbao_Editor/code/StaticData/ExportExcelData.cs" />
       <jump line="2643" column="44" filename="E:/chao/unityproj/UITool/Assets/NGUI/Scripts/UI/UICamera.cs" />
+      <jump line="47" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
+      <jump line="25" column="50" filename="E:/project/FengbaoEditor/Fengbao_Editor/code/StaticData/ExportExcelData.cs" />
+      <jump line="122" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
+      <jump line="129" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnby50cmFuc2Zvcm0uR2V0Q2hpbGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>GetComponentInChildren</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBncmFkZVNlbGVjdExpc3QuSGlkZURyb3BEb3duTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFMaXN0LkFkZCgiSGFuZEJvb2tfcXVhbGl0eV9maWx0ZXIiICsgaSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnby50cmFuc2Zvcm0uR2V0Q2hpbGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkYXRhTGlzdC5BZGQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3QgW10gb2JqZWN0cyA9IFNlbGVjdGlvbi5HZXRGaWx0ZXJlZCh0eXBlb2Yob2JqZWN0KSwgU2VsZWN0aW9uTW9kZS5Bc3NldHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YUxpc3QuQWRkKCJIYW5kQm9va19xdWFsaXR5X2ZpbHRlciIgKyBpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBvYmplY3RbXSBHZXRTZWxlY3RQZXJmYWIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NldERhdGFiYXNlLkdldEFzc2V0UGF0aCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
