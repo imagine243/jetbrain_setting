@@ -126,11 +126,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1563434674698">
         <mark key="'" line="6" column="21" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" timestamp="1563258001564">
-        <mark key="[" line="34" column="57" />
-        <mark key="]" line="20" column="68" />
-        <mark key="." line="20" column="68" />
-        <mark key="^" line="20" column="68" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" timestamp="1563503947868">
+        <mark key="'" line="17" column="29" />
+        <mark key="[" line="20" column="84" />
+        <mark key="]" line="20" column="84" />
+        <mark key="." line="20" column="84" />
+        <mark key="^" line="20" column="84" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/AwardCtrl.cs" timestamp="1563443056438">
         <mark key="'" line="108" column="13" />
@@ -343,7 +344,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/UIButton3Editor.cs" timestamp="1562903429324" />
     </filemarks>
     <jumps>
-      <jump line="17" column="64" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" />
       <jump line="20" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" />
       <jump line="23" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" />
       <jump line="108" column="26" filename="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UITexture.cs" />
@@ -443,6 +443,7 @@
       <jump line="105" column="66" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/HeroDataCenter.cs" />
       <jump line="51" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/CountryWar/CountryWarAttackPathManager.cs" />
       <jump line="67" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/CountryWar/CountryWarAttackPathManager.cs" />
+      <jump line="17" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
