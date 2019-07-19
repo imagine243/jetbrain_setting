@@ -110,6 +110,13 @@
         <mark key="^" line="522" column="30" />
       </file>
       <file name="E:/project/FengbaoEditor/Fengbao_Editor/code/StaticData/GenerateTemplateScripts.cs" timestamp="1563526454571" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Formation/FormationPanel.cs" timestamp="1563532971756">
+        <mark key="'" line="58" column="21" />
+        <mark key="[" line="110" column="35" />
+        <mark key="]" line="110" column="39" />
+        <mark key="^" line="110" column="39" />
+        <mark key="." line="110" column="39" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1561441074002">
         <mark key="'" line="61" column="45" />
       </file>
@@ -188,12 +195,6 @@
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinChangePanel.cs" timestamp="1560850010440">
         <mark key="'" line="117" column="15" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MaterialOriginPanel.cs" timestamp="1563441537434">
-        <mark key="'" line="562" column="31" />
-        <mark key="[" line="572" column="0" />
-        <mark key="]" line="572" column="0" />
-        <mark key="." line="572" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1561433311213">
         <mark key="'" line="813" column="40" />
@@ -467,14 +468,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>GetComponentInChildren</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
