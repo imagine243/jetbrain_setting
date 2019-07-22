@@ -248,12 +248,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/RecruitrankGCMessage.cs" timestamp="1563784405879">
         <mark key="'" line="103" column="47" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" timestamp="1563777541080">
-        <mark key="'" line="35" column="26" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="29" column="112" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" timestamp="1563789917370">
+        <mark key="'" line="48" column="24" />
+        <mark key="[" line="36" column="131" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+        <mark key="^" line="37" column="30" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/message/CountrywarGCTcpMessage.cs" timestamp="1563271560555">
         <mark key="'" line="7" column="64" />
@@ -299,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
       <jump line="198" column="10" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroUpgradeInstructionCtrl.cs" />
       <jump line="203" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroUpgradeInstructionCtrl.cs" />
       <jump line="60" column="42" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroUpgradeInstructionCtrl.cs" />
@@ -399,52 +398,53 @@
       <jump line="60" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
       <jump line="96" column="40" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
       <jump line="88" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
+      <jump line="40" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CS8vIENHX1NlbmRfUmVjcnVpdF9SZXdhcmRfRGF0YSA9ICAxNTAxOQoJLy8gx+vH87eiy83V0MS8xcXQ0L2xwPjK/b7dCglwdWJsaWMgc3RhdGljIHZvaWQgQ0dfU2VuZF9SZWNydWl0X1Jld2FyZF9EYXRhKGJvb2wgbmVlZFdhaXQgPSB0cnVlKQoJewoJCW1zZ1dyaXRlciA9IE9idGFpbldyaXRlcihOZXRNZXNzYWdlVHlwZS5DR19TZW5kX1JlY3J1aXRfUmV3YXJkX0RhdGEpOwoJCW1zZ1dyaXRlci53cml0ZVNob3J0KDApOwoJCW1zZ1dyaXRlci5TZW5kUGFja2FnZShuZWVkV2FpdCk7Cgl9</text>
+        <text>false</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNpbmcgWEx1YTsKCltIb3RmaXhdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dExldmVsR28uU2V0QWN0aXZlKGZhbHNlKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CS8vIENHX1NlbmRfUmVjcnVpdF9SZXdhcmRfRGF0YSA9ICAxNTAxOQoJLy8gx+vH87eiy83V0MS8xcXQ0L2xwPjK/b7dCglwdWJsaWMgc3RhdGljIHZvaWQgQ0dfU2VuZF9SZWNydWl0X1Jld2FyZF9EYXRhKGJvb2wgbmVlZFdhaXQgPSB0cnVlKQoJewoJCW1zZ1dyaXRlciA9IE9idGFpbldyaXRlcihOZXRNZXNzYWdlVHlwZS5DR19TZW5kX1JlY3J1aXRfUmV3YXJkX0RhdGEpOwoJCW1zZ1dyaXRlci53cml0ZVNob3J0KDApOwoJCW1zZ1dyaXRlci5TZW5kUGFja2FnZShuZWVkV2FpdCk7Cgl9</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CS8vIENHX1NlbmRfUmVjcnVpdF9SZXdhcmRfRGF0YSA9ICAxNTAxOQoJLy8gx+vH87eiy83V0MS8xcXQ0L2xwPjK/b7dCglwdWJsaWMgc3RhdGljIHZvaWQgQ0dfU2VuZF9SZWNydWl0X1Jld2FyZF9EYXRhKGJvb2wgbmVlZFdhaXQgPSB0cnVlKQoJewoJCW1zZ1dyaXRlciA9IE9idGFpbldyaXRlcihOZXRNZXNzYWdlVHlwZS5DR19TZW5kX1JlY3J1aXRfUmV3YXJkX0RhdGEpOwoJCW1zZ1dyaXRlci53cml0ZVNob3J0KDApOwoJCW1zZ1dyaXRlci5TZW5kUGFja2FnZShuZWVkV2FpdCk7Cgl9</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyBjb25zdCBzaG9ydCBDR19TZW5kX1JlY3J1aXRfUmV3YXJkX0RhdGEgPSAxNTAxOTsJCQkvLyDH68fzt6LLzdXQxLzFxdDQvbHA+Mr9vt0K</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2dFcnJvcihTdG9ybUxvY2FsaXphdGlvbi5HZXQoZGF0YS5oZXJvVG1wbC5uYW1lVHlwZSkgKyAiIGhhbmRib29rZGF0YSAiICsgKGRhdGEuaGFuZEJvb2tCZWFuID09IG51bGwpLlRvU3RyaW5nKCkpOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZih0bXBsID09IG51bGwpIHJldHVybjsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnYW1lT2JqZWN0LlNldEFjdGl2ZSh0cnVlKTsK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CS8vIENHX1NlbmRfUmVjcnVpdF9SZXdhcmRfRGF0YSA9ICAxNTAxOQoJLy8gx+vH87eiy83V0MS8xcXQ0L2xwPjK/b7dCglwdWJsaWMgc3RhdGljIHZvaWQgQ0dfU2VuZF9SZWNydWl0X1Jld2FyZF9EYXRhKGJvb2wgbmVlZFdhaXQgPSB0cnVlKQoJewoJCW1zZ1dyaXRlciA9IE9idGFpbldyaXRlcihOZXRNZXNzYWdlVHlwZS5DR19TZW5kX1JlY3J1aXRfUmV3YXJkX0RhdGEpOwoJCW1zZ1dyaXRlci53cml0ZVNob3J0KDApOwoJCW1zZ1dyaXRlci5TZW5kUGFja2FnZShuZWVkV2FpdCk7Cgl9</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CS8vIENHX1NlbmRfUmVjcnVpdF9SZXdhcmRfRGF0YSA9ICAxNTAxOQoJLy8gx+vH87eiy83V0MS8xcXQ0L2xwPjK/b7dCglwdWJsaWMgc3RhdGljIHZvaWQgQ0dfU2VuZF9SZWNydWl0X1Jld2FyZF9EYXRhKGJvb2wgbmVlZFdhaXQgPSB0cnVlKQoJewoJCW1zZ1dyaXRlciA9IE9idGFpbldyaXRlcihOZXRNZXNzYWdlVHlwZS5DR19TZW5kX1JlY3J1aXRfUmV3YXJkX0RhdGEpOwoJCW1zZ1dyaXRlci53cml0ZVNob3J0KDApOwoJCW1zZ1dyaXRlci5TZW5kUGFja2FnZShuZWVkV2FpdCk7Cgl9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlQ2xhc3MuCg==</text>
+        <text encoding="base64">CXB1YmxpYyBjb25zdCBzaG9ydCBDR19TZW5kX1JlY3J1aXRfUmV3YXJkX0RhdGEgPSAxNTAxOTsJCQkvLyDH68fzt6LLzdXQxLzFxdDQvbHA+Mr9vt0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1bml0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1bml0Lk5hbWVzcGFjZXMuQWRkKGNvZGVOYW1lc3BhY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2dFcnJvcihTdG9ybUxvY2FsaXphdGlvbi5HZXQoZGF0YS5oZXJvVG1wbC5uYW1lVHlwZSkgKyAiIGhhbmRib29rZGF0YSAiICsgKGRhdGEuaGFuZEJvb2tCZWFuID09IG51bGwpLlRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb2RlTmFtZXNwYWNlIGNvZGVOYW1lc3BhY2UgPSBuZXcgQ29kZU5hbWVzcGFjZSgiY29kZWdlbmVhcmF0b3IiKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb2RlQ2xhc3MuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
