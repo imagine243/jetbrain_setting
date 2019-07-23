@@ -32,6 +32,13 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/NotificationManager.cs" timestamp="1561357173054">
         <mark key="'" line="99" column="11" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" timestamp="1563876249863">
+        <mark key="'" line="537" column="66" />
+        <mark key="[" line="537" column="84" />
+        <mark key="]" line="538" column="48" />
+        <mark key="^" line="538" column="48" />
+        <mark key="." line="538" column="48" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookDataCenter.cs" timestamp="1563526505828">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -82,7 +89,7 @@
         <mark key="." line="684" column="67" />
         <mark key="^" line="684" column="67" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1563441449680">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1563875518583">
         <mark key="[" line="1683" column="4" />
         <mark key="]" line="1683" column="0" />
         <mark key="^" line="1683" column="0" />
@@ -222,6 +229,7 @@
       <file name="D:/project/zombie_trunk/Assets/Scripts/UI/Activities/SignInUI/SignIn7DaysItemCtrl.cs" timestamp="1561518650591">
         <mark key="'" line="86" column="53" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/UIPanelManager/UIPanelDefine.cs" timestamp="1563875674888" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" timestamp="1563354370159">
         <mark key="'" line="61" column="63" />
       </file>
@@ -342,8 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="45" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
-      <jump line="506" column="69" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/Ornament/OrnamentStrengthPanel.cs" />
       <jump line="179" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/HeronewGCHandler.cs" />
       <jump line="104" column="57" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
       <jump line="199" column="16" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
@@ -442,6 +448,8 @@
       <jump line="92" column="42" filename="E:/chao/unityproj/UITool/Assets/Editor/CodeGenerater.cs" />
       <jump line="159" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D8C5D73D-BD0C-4BBF-8F8C-8BA172435E4E/fa/30e485e0/CodeTypeDeclaration.cs" />
       <jump line="68" column="33" filename="E:/chao/unityproj/UITool/Assets/Editor/CodeGenerater.cs" />
+      <jump line="533" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
+      <jump line="537" column="66" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MainCityUIPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
