@@ -111,8 +111,8 @@
         <mark key="." line="1197" column="36" />
         <mark key="^" line="1197" column="36" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1563532129553">
-        <mark key="'" line="129" column="33" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" timestamp="1563847652009">
+        <mark key="'" line="88" column="23" />
         <mark key="[" line="122" column="47" />
         <mark key="]" line="122" column="42" />
         <mark key="^" line="122" column="42" />
@@ -299,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="10" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroUpgradeInstructionCtrl.cs" />
       <jump line="203" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroUpgradeInstructionCtrl.cs" />
       <jump line="60" column="42" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroUpgradeInstructionCtrl.cs" />
       <jump line="19" column="49" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/HeroUpgradeInstructionCtrl.cs" />
@@ -399,6 +398,7 @@
       <jump line="96" column="40" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
       <jump line="88" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
       <jump line="40" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" />
+      <jump line="88" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
