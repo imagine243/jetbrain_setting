@@ -221,12 +221,12 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="E:/chao/unityproj/UITool/Assets/Editor/CodeGenerater.cs" timestamp="1563958740246">
-        <mark key="'" line="184" column="18" />
-        <mark key="[" line="210" column="27" />
-        <mark key="]" line="199" column="34" />
-        <mark key="." line="199" column="34" />
-        <mark key="^" line="199" column="34" />
+      <file name="E:/chao/unityproj/UITool/Assets/Editor/CodeGenerater.cs" timestamp="1563961649599">
+        <mark key="'" line="186" column="18" />
+        <mark key="[" line="109" column="37" />
+        <mark key="]" line="109" column="36" />
+        <mark key="." line="109" column="36" />
+        <mark key="^" line="109" column="36" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" timestamp="1563777372477">
         <mark key="'" line="20" column="56" />
@@ -370,7 +370,7 @@
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1Db2RlLkN1c3RvbUF0dHJpYnV0ZXMuQWRkKG5ldyBDb2RlQXR0cmlidXRlRGVjbGFyYXRpb24odHlwZW9mKHBhcmFtcykpKTsK</text>
+        <text encoding="base64">ICAgICAgICBDb2RlU25pcHBldFN0YXRlbWVudCBjb21tZW50c0NvZGUgPSBuZXcgQ29kZVNuaXBwZXRTdGF0ZW1lbnQoY29kZSk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -385,38 +385,31 @@
         <text encoding="base64">ICAgICAgICBDb2RlTWVtYmVyTWV0aG9kIGF3YWtlTWV0aG9kID0gbmV3IENvZGVNZW1iZXJNZXRob2QoKTsKICAgICAgICBhd2FrZU1ldGhvZC5OYW1lID0gQVdBS0VfRlVOQ19OQU1FOwogICAgICAgIGF3YWtlTWV0aG9kLlJldHVyblR5cGUgPSBuZXcgQ29kZVR5cGVSZWZlcmVuY2UodHlwZW9mKHZvaWQpKTsKICAgICAgICBhd2FrZU1ldGhvZC5BdHRyaWJ1dGVzID0gTWVtYmVyQXR0cmlidXRlcy5GaW5hbDsKICAgICAgICBjb2RlQ2xhc3MuTWVtYmVycy5BZGQoYXdha2VNZXRob2QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1Db2RlLkN1c3RvbUF0dHJpYnV0ZXMuQWRkKG5ldyBDb2RlQXR0cmlidXRlRGVjbGFyYXRpb24odHlwZW9mKHBhcmFtcykpKTsK</text>
+        <text encoding="base64">ICAgICAgICBDb2RlU25pcHBldFN0YXRlbWVudCBjb21tZW50c0NvZGUgPSBuZXcgQ29kZVNuaXBwZXRTdGF0ZW1lbnQoY29kZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1Db2RlLkN1c3RvbUF0dHJpYnV0ZXMuQWRkKG5ldyBDb2RlQXR0cmlidXRlRGVjbGFyYXRpb24oInBhcmFtcyIpKTsK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlRGVjbGFyYXRpb24uYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0eXBlRGVjbGFyYXRpb24uQ29tbWVudHMuQWRkKG5ldyBDb2RlQ29tbWVudFN0YXRlbWVudCgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1Db2RlLkN1c3RvbUF0dHJpYnV0ZXMuQWRkKG5ldyBDb2RlQXR0cmlidXRlRGVjbGFyYXRpb24odHlwZW9mKHBhcmFtcykpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1Db2RlLkN1c3RvbUF0dHJpYnV0ZXMuQWRkKG5ldyBDb2RlQXR0cmlidXRlRGVjbGFyYXRpb24oInBhcmFtcyIpKTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Ly8gICAgICAgIENvZGVUeXBlTWVtYmVyCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGF3YWtlTWVtYmVyID0gZ2V0Q2xhc3NNZXRob2QodHlwZURlY2xhcmF0aW9uLCBBV0FLRV9GVU5DX05BTUUpOwovLyAgICAgICAgaWYoYXdha2VNZW1iZXIgPT0gbnVsbCkgcmV0dXJuOwovLyAgICAgICAgCi8vICAgICAgICBDb2RlTWVtYmVyTWV0aG9kIGF3YWtlTWV0aG9kID0gYXdha2VNZW1iZXIgYXMgQ29kZU1lbWJlck1ldGhvZDsKLy8gICAgICAgIGlmKGF3YWtlTWV0aG9kID09IG51bGwpIHJldHVybjsKLy8gICAgICAgIAovLyAgICAgICAgQ29kZVNuaXBwZXRTdGF0ZW1lbnQgYXdha2VDb2RlID1uZXcgQ29kZVNuaXBwZXRTdGF0ZW1lbnQoIiAgICAgICAgICAgICIgKyBnb05hbWUgKyAiID0gdHJhbnNmb3JtLkZpbmQoXCIiICsgR2V0R2FtZU9iamVjdFBhdGgod2lkZ2V0KSArIlwiKS5nYW1lT2JqZWN0OyAiKTsKLy8gICAgICAgIGF3YWtlTWV0aG9kLlN0YXRlbWVudHMuQWRkKGF3YWtlQ29kZSk7</text>
-      </register>
-      <register name="8" type="4">
-        <text>new CodeMemberMethod();
-        btnMethod.Name = btnClickFuncName;
-        btnMethod.ReturnType = new CodeTypeReference(typeof(void));
-        btnMethod.Attributes = MemberAttributes.VTableMask | MemberAttributes.Family;</text>
-      </register>
-      <register name="9" type="4">
-        <text>&quot;Click&quot;;
-        CodeMemberMethod btnMethod = new CodeMemberMethod();
-        btnMethod.Name = btnClickFuncName;
-        btnMethod.ReturnType = new CodeTypeReference(typeof(void));
-        btnMethod.Attributes = MemberAttributes.VTableMask | MemberAttributes.Family;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
