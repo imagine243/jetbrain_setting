@@ -213,11 +213,12 @@
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Message/WarGCMessage.cs" timestamp="1561447865138">
         <mark key="'" line="288" column="31" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" timestamp="1564389759618">
-        <mark key="[" line="479" column="10" />
-        <mark key="]" line="479" column="17" />
-        <mark key="^" line="479" column="17" />
-        <mark key="." line="479" column="17" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" timestamp="1564390601431">
+        <mark key="'" line="71" column="17" />
+        <mark key="[" line="82" column="36" />
+        <mark key="]" line="73" column="47" />
+        <mark key="^" line="73" column="47" />
+        <mark key="." line="73" column="47" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/FunctionBtnCtrl.cs" timestamp="1562910636410">
         <mark key="[" line="13" column="31" />
@@ -320,8 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="30" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CustomControl/UIIconCtrl.cs" />
-      <jump line="21" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
       <jump line="33" column="26" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUnbanUpgradeItem.cs" />
       <jump line="77" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" />
       <jump line="22" column="36" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" />
@@ -420,6 +419,8 @@
       <jump line="353" column="135" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossUIPanel.cs" />
       <jump line="26" column="72" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossRewardUIPanel.cs" />
       <jump line="28" column="76" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossRewardUIPanel.cs" />
+      <jump line="222" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
+      <jump line="70" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
