@@ -18,6 +18,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/ActorAIBase.cs" timestamp="1564471988227" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/UIHeroSkillBookPanel.cs" timestamp="1560927762078">
         <mark key="'" line="61" column="43" />
       </file>
@@ -106,11 +107,15 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICollapsibleListCtrl.cs" timestamp="1560939353614">
         <mark key="'" line="112" column="25" />
       </file>
+      <file name="/CitizenAI.cs" timestamp="1564472054971" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UITestPanelGenerated.cs" timestamp="1564023075329">
         <mark key="'" line="29" column="49" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/CountrywarGCHandler.cs" timestamp="1562658437843">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/project/fblx_1.4.70_korea/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1564472046042">
+        <mark key="'" line="972" column="12" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/CountryWar/CountryWarUrbanConstructionPanel.cs" timestamp="1563788643199">
         <mark key="'" line="88" column="35" />
@@ -239,6 +244,9 @@
       <file name="E:/chao/unityproj/UITool/Assets/NGUI/Scripts/Internal/UIWidget.cs" timestamp="1563938348840">
         <mark key="'" line="14" column="28" />
       </file>
+      <file name="/Dummy.txt" timestamp="1564472134494">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveItem.cs" timestamp="1560766301483">
         <mark key="'" line="30" column="31" />
       </file>
@@ -318,7 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="180" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
       <jump line="48" column="30" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
       <jump line="81" column="79" filename="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/DisplayModelDisplayInfoEditor.cs" />
       <jump line="61" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" />
@@ -418,6 +425,7 @@
       <jump line="73" column="19" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
       <jump line="61" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
       <jump line="26" column="68" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossRewardUIPanel.cs" />
+      <jump line="972" column="12" filename="D:/project/fblx_1.4.70_korea/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
