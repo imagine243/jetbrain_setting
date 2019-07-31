@@ -97,7 +97,7 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1561441074002">
         <mark key="'" line="61" column="45" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" timestamp="1564562794119">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" timestamp="1564569174280">
         <mark key="'" line="102" column="44" />
         <mark key="[" line="91" column="46" />
         <mark key="]" line="91" column="48" />
@@ -249,8 +249,12 @@
       <file name="/Dummy.txt" timestamp="1564559938791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UIRankArmyBossItemDetail.cs" timestamp="1564568331900">
-        <mark key="'" line="27" column="56" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UIRankArmyBossItemDetail.cs" timestamp="1564569854391">
+        <mark key="'" line="28" column="56" />
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="33" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveItem.cs" timestamp="1560766301483">
         <mark key="'" line="30" column="31" />
