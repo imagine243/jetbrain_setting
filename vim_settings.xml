@@ -104,8 +104,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1561441074002">
         <mark key="'" line="61" column="45" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" timestamp="1564569174280">
-        <mark key="'" line="102" column="44" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" timestamp="1564651698281">
+        <mark key="'" line="120" column="69" />
         <mark key="[" line="91" column="46" />
         <mark key="]" line="91" column="48" />
         <mark key="^" line="91" column="48" />
@@ -298,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/CountryWar/CountryWarAttackPathManager.cs" />
       <jump line="67" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/CountryWar/CountryWarAttackPathManager.cs" />
       <jump line="17" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" />
       <jump line="75" column="56" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" />
@@ -398,6 +397,7 @@
       <jump line="33" column="59" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ClubbossCGMessage.cs" />
       <jump line="27" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ClubbossCGMessage.cs" />
       <jump line="54" column="26" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/helpTools/MsgWriter.cs" />
+      <jump line="120" column="69" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
