@@ -86,6 +86,9 @@
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Handler/SignInGCHandler.cs" timestamp="1561518831185">
         <mark key="'" line="6" column="53" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/helpTools/MsgWriter.cs" timestamp="1564644720656">
+        <mark key="'" line="54" column="26" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadActorAIModelController.cs" timestamp="1563434699960">
         <mark key="'" line="9" column="57" />
       </file>
@@ -145,8 +148,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinChangePanel.cs" timestamp="1560850010440">
         <mark key="'" line="117" column="15" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossUIPanel.cs" timestamp="1564567978455">
-        <mark key="'" line="64" column="22" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossUIPanel.cs" timestamp="1564644276194">
+        <mark key="'" line="161" column="48" />
         <mark key="[" line="378" column="50" />
         <mark key="]" line="378" column="48" />
         <mark key="." line="378" column="48" />
@@ -239,6 +242,9 @@
         <mark key="." line="105" column="34" />
         <mark key="^" line="105" column="34" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ClubbossCGMessage.cs" timestamp="1564644714829">
+        <mark key="'" line="27" column="21" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubWorldBossKillItemUI.cs" timestamp="1564563464607">
         <mark key="[" line="22" column="101" />
         <mark key="]" line="23" column="55" />
@@ -292,11 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="30" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" />
-      <jump line="108" column="13" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/AwardCtrl.cs" />
-      <jump line="21" column="25" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookRewardItem.cs" />
-      <jump line="561" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/MainCityUI/MaterialOriginPanel.cs" />
-      <jump line="105" column="66" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/HeroDataCenter.cs" />
       <jump line="51" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/CountryWar/CountryWarAttackPathManager.cs" />
       <jump line="67" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/CountryWar/CountryWarAttackPathManager.cs" />
       <jump line="17" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" />
@@ -392,6 +393,11 @@
       <jump line="113" column="31" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
       <jump line="152" column="23" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
       <jump line="395" column="32" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetService.cs" />
+      <jump line="613" column="43" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossUIPanel.cs" />
+      <jump line="161" column="48" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossUIPanel.cs" />
+      <jump line="33" column="59" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ClubbossCGMessage.cs" />
+      <jump line="27" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ClubbossCGMessage.cs" />
+      <jump line="54" column="26" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/helpTools/MsgWriter.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
