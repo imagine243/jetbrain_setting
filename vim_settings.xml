@@ -198,8 +198,8 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/SystemGCMessage.cs" timestamp="1560756593628">
         <mark key="'" line="7" column="56" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICollapsibleListCtrl.cs" timestamp="1560939353614">
-        <mark key="'" line="112" column="25" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICollapsibleListCtrl.cs" timestamp="1564627446435">
+        <mark key="'" line="192" column="29" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UITestPanelGenerated.cs" timestamp="1564023075329">
         <mark key="'" line="29" column="49" />
@@ -228,6 +228,9 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/RecruitrankGCMessage.cs" timestamp="1563784405879">
         <mark key="'" line="103" column="47" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" timestamp="1564627549379">
+        <mark key="'" line="72" column="58" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubWorldBossKillItemUI.cs" timestamp="1564563464607">
         <mark key="[" line="22" column="101" />
         <mark key="]" line="23" column="55" />
@@ -243,18 +246,19 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="38" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RankingDataCenter.cs" timestamp="1564626072741" />
       <file name="E:/chao/unityproj/UITool/Assets/NGUI/Scripts/Internal/UIWidget.cs" timestamp="1563938348840">
         <mark key="'" line="14" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1564559938791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UIRankArmyBossItemDetail.cs" timestamp="1564569854391">
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UIRankArmyBossItemDetail.cs" timestamp="1564625536967">
         <mark key="'" line="28" column="56" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="17" column="33" />
-        <mark key="^" line="17" column="33" />
-        <mark key="." line="17" column="33" />
+        <mark key="[" line="48" column="69" />
+        <mark key="]" line="48" column="69" />
+        <mark key="^" line="48" column="69" />
+        <mark key="." line="48" column="69" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveItem.cs" timestamp="1560766301483">
         <mark key="'" line="30" column="31" />
@@ -280,13 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="25" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIDropDownGradeList.cs" />
-      <jump line="130" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
-      <jump line="73" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
-      <jump line="6" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" />
-      <jump line="9" column="57" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadActorAIModelController.cs" />
-      <jump line="94" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
-      <jump line="63" column="32" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoPanelAwakenPage.cs" />
       <jump line="875" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
       <jump line="95" column="32" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" />
       <jump line="95" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
@@ -380,6 +377,13 @@
       <jump line="297" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossUIPanel.cs" />
       <jump line="64" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossUIPanel.cs" />
       <jump line="27" column="56" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UIRankArmyBossItemDetail.cs" />
+      <jump line="28" column="56" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UIRankArmyBossItemDetail.cs" />
+      <jump line="41" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
+      <jump line="89" column="19" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
+      <jump line="189" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICollapsibleListCtrl.cs" />
+      <jump line="192" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICollapsibleListCtrl.cs" />
+      <jump line="90" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
+      <jump line="72" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
