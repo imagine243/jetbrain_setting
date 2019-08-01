@@ -70,6 +70,7 @@
         <mark key="^" line="732" column="133" />
         <mark key="." line="732" column="133" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankItemDetail.cs" timestamp="1564628914591" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1564127464060">
         <mark key="[" line="1683" column="4" />
         <mark key="]" line="1683" column="0" />
@@ -228,8 +229,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/RecruitrankGCMessage.cs" timestamp="1563784405879">
         <mark key="'" line="103" column="47" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" timestamp="1564627549379">
-        <mark key="'" line="72" column="58" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" timestamp="1564630092686">
+        <mark key="'" line="89" column="18" />
+        <mark key="[" line="99" column="88" />
+        <mark key="]" line="102" column="36" />
+        <mark key="." line="102" column="36" />
+        <mark key="^" line="102" column="36" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubWorldBossKillItemUI.cs" timestamp="1564563464607">
         <mark key="[" line="22" column="101" />
@@ -284,10 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="875" column="38" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
-      <jump line="95" column="32" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" />
-      <jump line="95" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
-      <jump line="682" column="52" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
       <jump line="94" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelDisplayInfo.cs" />
       <jump line="44" column="42" filename="E:/project/mobile_tf2_project/Assets/Editor/ScriptsHelperInspector/DisplayModelDisplayInfoEditor.cs" />
       <jump line="681" column="51" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
@@ -379,18 +380,22 @@
       <jump line="27" column="56" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UIRankArmyBossItemDetail.cs" />
       <jump line="28" column="56" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UIRankArmyBossItemDetail.cs" />
       <jump line="41" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
-      <jump line="89" column="19" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
       <jump line="189" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICollapsibleListCtrl.cs" />
       <jump line="192" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/PanelControl/UICollapsibleListCtrl.cs" />
       <jump line="90" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
-      <jump line="72" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
+      <jump line="92" column="17" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
+      <jump line="27" column="27" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
+      <jump line="91" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
+      <jump line="72" column="22" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
+      <jump line="132" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
+      <jump line="89" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>stageScale</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -405,31 +410,31 @@
         <text encoding="base64">CQkJaW5mby5zdGFnZVNjYWxlID0gRHJhd1ZlY3RvcjMoIsyo19O089ChIiwgMTAwLCBpbmZvLnN0YWdlU2NhbGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAiSnVuVHVhbkJPU1MvQ2x1YldvcmxkQm9zc1VJUGFuZWxfY2hlbmciCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIERpZmZpY3VsdHlFZmZ0ZWN0ID0gbmV3W10KLy8gICAgICAgIHsKLy8gICAgICAgICAgICAiIiwKLy8gICAgICAgICAgICAiIiwKLy8gICAgICAgICAgICAiSnVuVHVhbkJPU1MvQ2x1YldvcmxkQm9zc1VJUGFuZWxfemkiLAovLyAgICAgICAgICAgICJKdW5UdWFuQk9TUy9DbHViV29ybGRCb3NzVUlQYW5lbF9ob25nIiwKLy8gICAgICAgICAgICAiSnVuVHVhbkJPU1MvQ2x1YldvcmxkQm9zc1VJUGFuZWxfamluIiwK</text>
+        <text encoding="base64">Ly8gICAgICAgIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3YXJlSG91c2VMaXN0LkNsZWFyKCk7CiAgICAgICAgd2FyZUhvdXNlTGlzdCA9IG51bGw7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAiSnVuVHVhbkJPU1MvQ2x1YldvcmxkQm9zc1VJUGFuZWxfY2hlbmciCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZUtpbGxSZXdhcmRzLkNsZWFyKCk7CiAgICAgICAgcmVLaWxsUmV3YXJkcyA9IG51bGw7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIERpZmZpY3VsdHlFZmZ0ZWN0ID0gbmV3W10KLy8gICAgICAgIHsKLy8gICAgICAgICAgICAiIiwKLy8gICAgICAgICAgICAiIiwKLy8gICAgICAgICAgICAiSnVuVHVhbkJPU1MvQ2x1YldvcmxkQm9zc1VJUGFuZWxfemkiLAovLyAgICAgICAgICAgICJKdW5UdWFuQk9TUy9DbHViV29ybGRCb3NzVUlQYW5lbF9ob25nIiwKLy8gICAgICAgICAgICAiSnVuVHVhbkJPU1MvQ2x1YldvcmxkQm9zc1VJUGFuZWxfamluIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdEtpbGxSZXdhcmRzLkNsZWFyKCk7CiAgICAgICAgZmlyc3RLaWxsUmV3YXJkcyA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3YXJlSG91c2VMaXN0LkNsZWFyKCk7CiAgICAgICAgd2FyZUhvdXNlTGlzdCA9IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGRhdGEuZGlmZmljdWx0eSAhPSBjbHViQm9zc0luZm8uZGlmZmljdWx0eUxldmVsICkgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZUtpbGxSZXdhcmRzLkNsZWFyKCk7CiAgICAgICAgcmVLaWxsUmV3YXJkcyA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmsuZGlmZmljdWx0eSA9IHRlbXBsYXRlLmRpZmZpY3VsdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdEtpbGxSZXdhcmRzLkNsZWFyKCk7CiAgICAgICAgZmlyc3RLaWxsUmV3YXJkcyA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
