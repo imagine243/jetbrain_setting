@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossUIPanel.cs" timestamp="1564644276194">
+        <mark key="'" line="161" column="48" />
+        <mark key="[" line="378" column="50" />
+        <mark key="]" line="378" column="48" />
+        <mark key="." line="378" column="48" />
+        <mark key="^" line="378" column="48" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoDeityUpgradePage.cs" timestamp="1560827836578">
         <mark key="'" line="54" column="53" />
       </file>
@@ -12,164 +19,6 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/HeronewGCHandler.cs" timestamp="1563849172137">
         <mark key="'" line="176" column="52" />
       </file>
-      <file name="D:/project/zombie_trunk/Assets/Scripts/UI/Common/UIRefreshTimeCountDownCtrl.cs" timestamp="1561519920177">
-        <mark key="'" line="17" column="141" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/NotificationManager.cs" timestamp="1561357173054">
-        <mark key="'" line="99" column="11" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookDataCenter.cs" timestamp="1563526505828">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RecruitrankGCHandler.cs" timestamp="1563784714884">
-        <mark key="'" line="25" column="79" />
-      </file>
-      <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Data/GC_SignIn_Msg.cs" timestamp="1561519693511">
-        <mark key="'" line="13" column="17" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_ClubBoss_Lv_Reward_List_Msg.cs" timestamp="1564651883209" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoDeityAwakenPage.cs" timestamp="1562816823003">
-        <mark key="'" line="257" column="59" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_All_Recruit_Rank_Msg.cs" timestamp="1563784465059">
-        <mark key="'" line="15" column="20" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BagUI/UIBagBatchUse.cs" timestamp="1561620555177">
-        <mark key="'" line="159" column="45" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ClubbossHandler.cs" timestamp="1564390792833">
-        <mark key="'" line="50" column="41" />
-      </file>
-      <file name="/CitizenAI.cs" timestamp="1564472054971" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/CountrywarGCHandler.cs" timestamp="1562658437843">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/ClubBossUIPanel.cs" timestamp="1564556737190" />
-      <file name="D:/project/fblx_1.4.70_korea/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1564472046042">
-        <mark key="'" line="972" column="12" />
-      </file>
-      <file name="E:/chao/unityproj/UITool/Assets/UITestPanelGenerated.cs" timestamp="1563948899941">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="25" column="30" />
-        <mark key="^" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/UIHeroInfoPanel.cs" timestamp="1560842536032">
-        <mark key="'" line="554" column="45" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetService.cs" timestamp="1564641820626">
-        <mark key="'" line="395" column="32" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/LadderInfo.cs" timestamp="1560910305058">
-        <mark key="'" line="31" column="57" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1564567394335">
-        <mark key="'" line="179" column="52" />
-        <mark key="[" line="732" column="87" />
-        <mark key="]" line="732" column="133" />
-        <mark key="^" line="732" column="133" />
-        <mark key="." line="732" column="133" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankItemDetail.cs" timestamp="1564628914591" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1564127464060">
-        <mark key="[" line="1683" column="4" />
-        <mark key="]" line="1683" column="0" />
-        <mark key="^" line="1683" column="0" />
-        <mark key="." line="1683" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D8C5D73D-BD0C-4BBF-8F8C-8BA172435E4E/fa/30e485e0/CodeTypeDeclaration.cs" timestamp="1563870641267">
-        <mark key="'" line="159" column="24" />
-      </file>
-      <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Handler/SignInGCHandler.cs" timestamp="1561518831185">
-        <mark key="'" line="6" column="53" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/helpTools/MsgWriter.cs" timestamp="1564644720656">
-        <mark key="'" line="54" column="26" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadActorAIModelController.cs" timestamp="1563434699960">
-        <mark key="'" line="9" column="57" />
-      </file>
-      <file name="E:/chao/unityproj/UITool/Assets/Scripts/UIButton3.cs" timestamp="1563938337611">
-        <mark key="'" line="15" column="39" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UITexture.cs" timestamp="1562925137853">
-        <mark key="'" line="108" column="26" />
-      </file>
-      <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Handler/WarGCHandler.cs" timestamp="1561447938179">
-        <mark key="'" line="305" column="29" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1561441074002">
-        <mark key="'" line="61" column="45" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" timestamp="1564653219618">
-        <mark key="'" line="120" column="60" />
-        <mark key="[" line="91" column="46" />
-        <mark key="]" line="91" column="48" />
-        <mark key="^" line="91" column="48" />
-        <mark key="." line="91" column="48" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" timestamp="1563435880048">
-        <mark key="'" line="95" column="32" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/CountryWar/CountryWarAttackPathManager.cs" timestamp="1563444368300">
-        <mark key="'" line="67" column="24" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Get_Club_BossInfo_Msg.cs" timestamp="1564387251360" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1563787874148">
-        <mark key="[" line="1201" column="58" />
-        <mark key="]" line="1197" column="36" />
-        <mark key="." line="1197" column="36" />
-        <mark key="^" line="1197" column="36" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1563434674698">
-        <mark key="'" line="6" column="21" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Reward_Data_Msg.cs" timestamp="1561693182650">
-        <mark key="'" line="13" column="27" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" timestamp="1564653237876">
-        <mark key="'" line="20" column="56" />
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="30" column="8" />
-        <mark key="^" line="30" column="8" />
-        <mark key="." line="30" column="8" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/CountryWar/CountryWarCityCtrl.cs" timestamp="1562573608986">
-        <mark key="'" line="15" column="23" />
-      </file>
-      <file name="E:/chao/unityproj/UITool/Assets/Editor/CodeGeneraterInfo.cs" timestamp="1563949801257">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-      </file>
-      <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Data/GC_Show_SignIn_Msg.cs" timestamp="1561518836156">
-        <mark key="'" line="13" column="18" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoPanelAttributePage.cs" timestamp="1560765251697">
-        <mark key="'" line="117" column="50" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/TreasureParty/UIOperationTreasurePartyPanel.cs" timestamp="1564717645556">
-        <mark key="'" line="63" column="69" />
-        <mark key="[" line="63" column="73" />
-        <mark key="]" line="63" column="75" />
-        <mark key="^" line="63" column="75" />
-        <mark key="." line="63" column="75" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinChangePanel.cs" timestamp="1560850010440">
-        <mark key="'" line="117" column="15" />
-      </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossUIPanel.cs" timestamp="1564644276194">
-        <mark key="'" line="161" column="48" />
-        <mark key="[" line="378" column="50" />
-        <mark key="]" line="378" column="48" />
-        <mark key="." line="378" column="48" />
-        <mark key="^" line="378" column="48" />
-      </file>
-      <file name="/ActorAIBase.cs" timestamp="1564471988227" />
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1561433311213">
         <mark key="'" line="813" column="40" />
       </file>
@@ -183,11 +32,32 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Loading_Role_Msg.cs" timestamp="1560764318026">
         <mark key="'" line="13" column="48" />
       </file>
+      <file name="D:/project/zombie_trunk/Assets/Scripts/UI/Common/UIRefreshTimeCountDownCtrl.cs" timestamp="1561519920177">
+        <mark key="'" line="17" column="141" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveEquipChoose.cs" timestamp="1561433935316">
         <mark key="'" line="134" column="31" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/NotificationManager.cs" timestamp="1561357173054">
+        <mark key="'" line="99" column="11" />
+      </file>
       <file name="D:/project/zombie_trunk/Assets/Scripts/UI/Activities/SignInUI/SignIn7DaysItemCtrl.cs" timestamp="1561518650591">
         <mark key="'" line="86" column="53" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/HandBookDataCenter.cs" timestamp="1563526505828">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RecruitrankGCHandler.cs" timestamp="1563784714884">
+        <mark key="'" line="25" column="79" />
+      </file>
+      <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Data/GC_SignIn_Msg.cs" timestamp="1561519693511">
+        <mark key="'" line="13" column="17" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_ClubBoss_Lv_Reward_List_Msg.cs" timestamp="1564727738031">
+        <mark key="'" line="17" column="20" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadModelController.cs" timestamp="1563354370159">
         <mark key="'" line="61" column="63" />
@@ -198,8 +68,14 @@
         <mark key="." line="146" column="23" />
         <mark key="^" line="146" column="23" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoDeityAwakenPage.cs" timestamp="1562816823003">
+        <mark key="'" line="257" column="59" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/OtherPlayerDataCenter.cs" timestamp="1561716280320">
         <mark key="'" line="12" column="25" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_All_Recruit_Rank_Msg.cs" timestamp="1563784465059">
+        <mark key="'" line="15" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E1EC6421-AAD8-403C-A580-448FBED7C0ED/e3/a7669662/Mesh.cs" timestamp="1564043915797">
         <mark key="'" line="1107" column="26" />
@@ -207,8 +83,14 @@
       <file name="E:/project/FengbaoEditor/Fengbao_Editor/code/StaticData/ExportExcelData.cs" timestamp="1563531421936">
         <mark key="'" line="25" column="50" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/BagUI/UIBagBatchUse.cs" timestamp="1561620555177">
+        <mark key="'" line="159" column="45" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Rank_Reward_Msg.cs" timestamp="1561618417510">
         <mark key="'" line="13" column="22" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/ClubbossHandler.cs" timestamp="1564390792833">
+        <mark key="'" line="50" column="41" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/HeroDataCenter.cs" timestamp="1563443147012">
         <mark key="'" line="105" column="66" />
@@ -225,6 +107,12 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UITestPanelGenerated.cs" timestamp="1564023075329">
         <mark key="'" line="29" column="49" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/CountrywarGCHandler.cs" timestamp="1562658437843">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/project/fblx_1.4.70_korea/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1564472046042">
+        <mark key="'" line="972" column="12" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/TcpNetwork/countrywar/data/CityData.cs" timestamp="1562561487248">
         <mark key="'" line="7" column="22" />
       </file>
@@ -234,11 +122,48 @@
       <file name="E:/chao/unityproj/UITool/Assets/NGUI/Scripts/Interaction/UIToggle.cs" timestamp="1563862216266">
         <mark key="'" line="279" column="36" />
       </file>
+      <file name="E:/chao/unityproj/UITool/Assets/UITestPanelGenerated.cs" timestamp="1563948899941">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/UIHeroInfoPanel.cs" timestamp="1560842536032">
+        <mark key="'" line="554" column="45" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetService.cs" timestamp="1564641820626">
+        <mark key="'" line="395" column="32" />
+      </file>
       <file name="E:/chao/unityproj/UITool/Assets/NGUI/Scripts/UI/UICamera.cs" timestamp="1563528261179">
         <mark key="'" line="2643" column="44" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/LadderInfo.cs" timestamp="1560910305058">
+        <mark key="'" line="31" column="57" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1564567394335">
+        <mark key="'" line="179" column="52" />
+        <mark key="[" line="732" column="87" />
+        <mark key="]" line="732" column="133" />
+        <mark key="^" line="732" column="133" />
+        <mark key="." line="732" column="133" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/RoleInfo.cs" timestamp="1560764290541">
         <mark key="'" line="37" column="56" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/EnumCollection.cs" timestamp="1564127464060">
+        <mark key="[" line="1683" column="4" />
+        <mark key="]" line="1683" column="0" />
+        <mark key="^" line="1683" column="0" />
+        <mark key="." line="1683" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D8C5D73D-BD0C-4BBF-8F8C-8BA172435E4E/fa/30e485e0/CodeTypeDeclaration.cs" timestamp="1563870641267">
+        <mark key="'" line="159" column="24" />
+      </file>
+      <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Handler/SignInGCHandler.cs" timestamp="1561518831185">
+        <mark key="'" line="6" column="53" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/helpTools/MsgWriter.cs" timestamp="1564644720656">
+        <mark key="'" line="54" column="26" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroAwakeItem.cs" timestamp="1563430261539">
         <mark key="[" line="28" column="22" />
@@ -246,8 +171,20 @@
         <mark key="." line="28" column="19" />
         <mark key="^" line="28" column="19" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadActorAIModelController.cs" timestamp="1563434699960">
+        <mark key="'" line="9" column="57" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/RecruitrankGCMessage.cs" timestamp="1563784405879">
         <mark key="'" line="103" column="47" />
+      </file>
+      <file name="E:/chao/unityproj/UITool/Assets/Scripts/UIButton3.cs" timestamp="1563938337611">
+        <mark key="'" line="15" column="39" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/NGUI/Scripts/UI/UITexture.cs" timestamp="1562925137853">
+        <mark key="'" line="108" column="26" />
+      </file>
+      <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Handler/WarGCHandler.cs" timestamp="1561447938179">
+        <mark key="'" line="305" column="29" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RankingUI/UITotalRankingPanel.cs" timestamp="1564641261161">
         <mark key="'" line="153" column="23" />
@@ -259,11 +196,22 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Message/ClubbossCGMessage.cs" timestamp="1564644714829">
         <mark key="'" line="27" column="21" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubWorldBossKillItemUI.cs" timestamp="1564563464607">
-        <mark key="[" line="22" column="101" />
-        <mark key="]" line="23" column="55" />
-        <mark key="^" line="23" column="55" />
-        <mark key="." line="23" column="55" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubWorldBossKillItemUI.cs" timestamp="1564728400265">
+        <mark key="'" line="49" column="67" />
+        <mark key="[" line="40" column="49" />
+        <mark key="]" line="40" column="53" />
+        <mark key="^" line="40" column="53" />
+        <mark key="." line="40" column="53" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" timestamp="1561441074002">
+        <mark key="'" line="61" column="45" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" timestamp="1564729536300">
+        <mark key="'" line="82" column="18" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="24" />
       </file>
       <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Message/WarGCMessage.cs" timestamp="1561447865138">
         <mark key="'" line="288" column="31" />
@@ -274,7 +222,18 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/RankingDataCenter.cs" timestamp="1564626072741" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelController.cs" timestamp="1563435880048">
+        <mark key="'" line="95" column="32" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/CountryWar/CountryWarAttackPathManager.cs" timestamp="1563444368300">
+        <mark key="'" line="67" column="24" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/NetMessageType.cs" timestamp="1563787874148">
+        <mark key="[" line="1201" column="58" />
+        <mark key="]" line="1197" column="36" />
+        <mark key="." line="1197" column="36" />
+        <mark key="^" line="1197" column="36" />
+      </file>
       <file name="E:/chao/unityproj/UITool/Assets/NGUI/Scripts/Internal/UIWidget.cs" timestamp="1563938348840">
         <mark key="'" line="14" column="28" />
       </file>
@@ -288,12 +247,56 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/RetrieveUI/UIRetrieveItem.cs" timestamp="1560766301483">
         <mark key="'" line="30" column="31" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1563434674698">
+        <mark key="'" line="6" column="21" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Reward_Data_Msg.cs" timestamp="1561693182650">
+        <mark key="'" line="13" column="27" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" timestamp="1564653237876">
+        <mark key="'" line="20" column="56" />
+        <mark key="[" line="45" column="9" />
+        <mark key="]" line="30" column="8" />
+        <mark key="^" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinItemCtrl.cs" timestamp="1560931124878">
         <mark key="'" line="39" column="39" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/ClubBossRankInfoBean.cs" timestamp="1564568429880" />
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossRewardUIPanel.cs" timestamp="1564654248265">
-        <mark key="'" line="89" column="42" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/BattleBase/CountryWar/CountryWarCityCtrl.cs" timestamp="1562573608986">
+        <mark key="'" line="15" column="23" />
+      </file>
+      <file name="E:/chao/unityproj/UITool/Assets/Editor/CodeGeneraterInfo.cs" timestamp="1563949801257">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+      </file>
+      <file name="D:/project/zombie_trunk/Assets/Scripts/NET/Data/GC_Show_SignIn_Msg.cs" timestamp="1561518836156">
+        <mark key="'" line="13" column="18" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" timestamp="1564729289189">
+        <mark key="'" line="1678" column="46" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoPanelAttributePage.cs" timestamp="1560765251697">
+        <mark key="'" line="117" column="50" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/TreasureParty/UIOperationTreasurePartyPanel.cs" timestamp="1564717645556">
+        <mark key="'" line="63" column="69" />
+        <mark key="[" line="63" column="73" />
+        <mark key="]" line="63" column="75" />
+        <mark key="^" line="63" column="75" />
+        <mark key="." line="63" column="75" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossRewardUIPanel.cs" timestamp="1564729632817">
+        <mark key="'" line="82" column="58" />
+        <mark key="[" line="82" column="32" />
+        <mark key="]" line="80" column="65" />
+        <mark key="^" line="80" column="65" />
+        <mark key="." line="80" column="65" />
+      </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinChangePanel.cs" timestamp="1560850010440">
+        <mark key="'" line="117" column="15" />
       </file>
       <file name="E:/chao/unityproj/UITool/Assets/Scripts/RefClass/UIWidget.cs" timestamp="1564024483652">
         <mark key="[" line="11" column="22" />
@@ -309,11 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="56" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" />
-      <jump line="46" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" />
-      <jump line="6" column="0" filename="E:/chao/unityproj/UITool/Assets/Editor/CodeGenerater.cs" />
-      <jump line="2643" column="44" filename="E:/chao/unityproj/UITool/Assets/NGUI/Scripts/UI/UICamera.cs" />
-      <jump line="47" column="24" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="25" column="50" filename="E:/project/FengbaoEditor/Fengbao_Editor/code/StaticData/ExportExcelData.cs" />
       <jump line="122" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="129" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
@@ -373,10 +371,8 @@
       <jump line="167" column="37" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
       <jump line="73" column="19" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
       <jump line="61" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
-      <jump line="26" column="68" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossRewardUIPanel.cs" />
       <jump line="972" column="12" filename="D:/project/fblx_1.4.70_korea/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
       <jump line="96" column="15" filename="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelDisplayInfo.cs" />
-      <jump line="81" column="52" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
       <jump line="91" column="43" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
       <jump line="102" column="44" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
       <jump line="296" column="35" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossUIPanel.cs" />
@@ -409,25 +405,32 @@
       <jump line="120" column="60" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
       <jump line="89" column="42" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossRewardUIPanel.cs" />
       <jump line="63" column="69" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/TreasureParty/UIOperationTreasurePartyPanel.cs" />
+      <jump line="48" column="67" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubWorldBossKillItemUI.cs" />
+      <jump line="110" column="34" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
+      <jump line="17" column="20" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_ClubBoss_Lv_Reward_List_Msg.cs" />
+      <jump line="26" column="73" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossRewardUIPanel.cs" />
+      <jump line="1678" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" />
+      <jump line="82" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossRewardUIPanel.cs" />
+      <jump line="81" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJTZWxlY3RlZFRhYi5TZXRTZWxlY3RlZFN0YXRlKHRydWUpOwogICAgICAgIGN1clNlbGVjdGVkVGFiLkNsaWNrVGl0bGVCYXIoKTsKICAgICAgICBjdXJTZWxlY3RlZFRhYi50YWJDdHJsLlNlbGVjdFRhYigwKTsK</text>
+      <register name="&quot;" type="4">
+        <text>itemCount</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>stageScale</text>
+        <text>itemCount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJTZWxlY3RlZFRhYiA9IChVSVRvdGFsUmFua0l0ZW1EZXRhaWwpbGlzdEN0cmwuaXRlbUxpc3RbMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IGl0ZW1Db3VudDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjdXJTZWxlY3RlZFRhYi5TZXRTZWxlY3RlZFN0YXRlKHRydWUpOwogICAgICAgIGN1clNlbGVjdGVkVGFiLkNsaWNrVGl0bGVCYXIoKTsKICAgICAgICBjdXJTZWxlY3RlZFRhYi50YWJDdHJsLlNlbGVjdFRhYigwKTsK</text>
