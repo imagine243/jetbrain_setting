@@ -250,6 +250,9 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1563434674698">
         <mark key="'" line="6" column="21" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/RecruitParty/UIOperationRectuitPartyPersonPage.cs" timestamp="1564731478334">
+        <mark key="'" line="5" column="54" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Reward_Data_Msg.cs" timestamp="1561693182650">
         <mark key="'" line="13" column="27" />
       </file>
@@ -312,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="50" filename="E:/project/FengbaoEditor/Fengbao_Editor/code/StaticData/ExportExcelData.cs" />
       <jump line="122" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="129" column="33" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookPanel.cs" />
       <jump line="75" column="21" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookDetailPanel.cs" />
@@ -412,6 +414,7 @@
       <jump line="1678" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" />
       <jump line="82" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossRewardUIPanel.cs" />
       <jump line="81" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
+      <jump line="5" column="54" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/RecruitParty/UIOperationRectuitPartyPersonPage.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
