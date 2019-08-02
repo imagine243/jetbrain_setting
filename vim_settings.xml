@@ -220,8 +220,11 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/LoadDisplayModelController.cs" timestamp="1563434674698">
         <mark key="'" line="6" column="21" />
       </file>
-      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/RecruitParty/UIOperationRectuitPartyPersonPage.cs" timestamp="1564732114698">
-        <mark key="'" line="65" column="89" />
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/RecruitParty/UIOperationRectuitPartyPersonPage.cs" timestamp="1564737780087">
+        <mark key="'" line="5" column="55" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="40" column="5" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/NET/Data/GC_Send_Recruit_Reward_Data_Msg.cs" timestamp="1561693182650">
         <mark key="'" line="13" column="27" />
@@ -361,19 +364,19 @@
       <jump line="1678" column="46" filename="E:/project/mobile_tf2_project/Assets/Scripts/Utils/MUtils.cs" />
       <jump line="82" column="58" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossRewardUIPanel.cs" />
       <jump line="81" column="18" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
-      <jump line="5" column="54" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/RecruitParty/UIOperationRectuitPartyPersonPage.cs" />
       <jump line="25" column="88" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/RecruitParty/UIOperationRectuitPartyPersonPage.cs" />
       <jump line="65" column="89" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/RecruitParty/UIOperationRectuitPartyPersonPage.cs" />
       <jump line="58" column="45" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/RecruitrankGCHandler.cs" />
       <jump line="47" column="86" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/RecruitParty/UIOperationRecruitPartyMyServerPage.cs" />
       <jump line="130" column="53" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/TreasureParty/OperationTreasurePartyDataCenter.cs" />
+      <jump line="5" column="55" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/RecruitParty/UIOperationRectuitPartyPersonPage.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZXF1ZXN0RGF0YShFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLFVwZGF0ZVNob3dJbmZvKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyDB7Mihsb63/r2xwPizybmmCiAgICAvLy8gPC9zdW1tYXJ5PgogICAgcHVibGljIHN0YXRpYyB2b2lkIEdldE15U2VydmVyUmV3YXJkU3VjY2VzcygpCiAgICB7CgogICAgfQoKICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyDB7MihyKu3/r2xwPizybmmCiAgICAvLy8gPC9zdW1tYXJ5PgogICAgcHVibGljIHN0YXRpYyB2b2lkIEdldEFsbFNlcnZlclJld2FyZFN1Y2Nlc3MoKQogICAgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHByb3RlY3RlZCB2b2lkIE9uUGFnZUNsb3NlKCkKICAgIHsKICAgICAgICBSZW1vdmVEYXRhKCk7CiAgICAgICAgY3VyU2VsZWN0ZWRSZXdhcmRJdGVtID0gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLkJhcmdhaW5TaG93U2Vla0hlbHBJbmZvLCBVcGRhdGVTaG93SW5mbyk7Cg==</text>
@@ -388,31 +391,31 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IGl0ZW1Db3VudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyDB7Mihsb63/r2xwPizybmmCiAgICAvLy8gPC9zdW1tYXJ5PgogICAgcHVibGljIHN0YXRpYyB2b2lkIEdldE15U2VydmVyUmV3YXJkU3VjY2VzcygpCiAgICB7CgogICAgfQoKICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyDB7MihyKu3/r2xwPizybmmCiAgICAvLy8gPC9zdW1tYXJ5PgogICAgcHVibGljIHN0YXRpYyB2b2lkIEdldEFsbFNlcnZlclJld2FyZFN1Y2Nlc3MoKQogICAgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHByb3RlY3RlZCB2b2lkIE9uUGFnZUNsb3NlKCkKICAgIHsKICAgICAgICBSZW1vdmVEYXRhKCk7CiAgICAgICAgY3VyU2VsZWN0ZWRSZXdhcmRJdGVtID0gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBMaXN0PFJld2FyZERhdGE+IEdldFJlY3J1aXRQYXJ0eVJld2FyZERhdGEodGhpcyByZWNydWl0UGFydHlUZW1wbGF0ZVZPIHRlbXBWTykKLy8gICAgewovLyAgICAgICAgTGlzdDxSZXdhcmREYXRhPiByZXdhcmREYXRhTGlzdCA9IG5ldyBMaXN0PFJld2FyZERhdGE+KCk7Ci8vICAgICAgICBSZXdhcmREYXRhIHIxID0gbmV3IFJld2FyZERhdGEoKTsKLy8gICAgICAgIHIxLnJld2FyZElkID0gdGVtcFZPLml0ZW1JZDE7Ci8vICAgICAgICByMS5yZXdhcmRLaW5kID0gdGVtcFZPLml0ZW1UeXBlMTsKLy8gICAgICAgIHIxLnJld2FyZENvdW50ID0gdGVtcFZPLml0ZW1OdW0xOwovLyAgICAgICAgcmV3YXJkRGF0YUxpc3QuQWRkKHIxKTsKLy8gICAgICAgIFJld2FyZERhdGEgcjIgPSBuZXcgUmV3YXJkRGF0YSgpOwovLyAgICAgICAgcjIucmV3YXJkSWQgPSB0ZW1wVk8uaXRlbUlkMjsKLy8gICAgICAgIHIyLnJld2FyZEtpbmQgPSB0ZW1wVk8uaXRlbVR5cGUyOwovLyAgICAgICAgcjIucmV3YXJkQ291bnQgPSB0ZW1wVk8uaXRlbU51bTI7Ci8vICAgICAgICByZXdhcmREYXRhTGlzdC5BZGQocjIpOwovLyAgICAgICAgUmV3YXJkRGF0YSByMyA9IG5ldyBSZXdhcmREYXRhKCk7Ci8vICAgICAgICByMy5yZXdhcmRJZCA9IHRlbXBWTy5pdGVtSWQzOwovLyAgICAgICAgcjMucmV3YXJkS2luZCA9IHRlbXBWTy5pdGVtVHlwZTM7Ci8vICAgICAgICByMy5yZXdhcmRDb3VudCA9IHRlbXBWTy5pdGVtTnVtMzsKLy8gICAgICAgIHJld2FyZERhdGFMaXN0LkFkZChyMyk7Ci8vICAgICAgICBSZXdhcmREYXRhIHI0ID0gbmV3IFJld2FyZERhdGEoKTsKLy8gICAgICAgIHI0LnJld2FyZElkID0gdGVtcFZPLml0ZW1JZDQ7Ci8vICAgICAgICByNC5yZXdhcmRLaW5kID0gdGVtcFZPLml0ZW1UeXBlNDsKLy8gICAgICAgIHI0LnJld2FyZENvdW50ID0gdGVtcFZPLml0ZW1OdW00OwovLyAgICAgICAgcmV3YXJkRGF0YUxpc3QuQWRkKHI0OwovLwovLyAgICAgICAgcmV0dXJuIHJld2FyZERhdGFMaXN0OwovLyAgICB9IAo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHByb3RlY3RlZCB2b2lkIE9uUGFnZUNsb3NlKCkKICAgIHsKICAgICAgICBSZW1vdmVEYXRhKCk7CiAgICAgICAgY3VyU2VsZWN0ZWRSZXdhcmRJdGVtID0gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBSZW1vdmVEYXRhKCkKICAgIHsKICAgICAgICBEeW5hbWljRGF0YUNlbnRlci5SZW1vdmVDYWxsQmFjayhFbURhdGFUeXBlLk9wZXJhdGlvbkFjdGl2aXR5U2hvd0l0ZW1EZXRhaWwsIE9uQWN0aXZpdHlEYWlsUmVjZWl2ZWQpOwogICAgICAgIER5bmFtaWNEYXRhQ2VudGVyLlJlbW92ZUNhbGxCYWNrKEVtRGF0YVR5cGUuT3BlcmF0aW9uQWN0aXZpdHlSZXdhcmQsIE9uUmV3YXJkUmVjZWl2ZWQpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJTZWxlY3RlZFRhYi5TZXRTZWxlY3RlZFN0YXRlKHRydWUpOwogICAgICAgIGN1clNlbGVjdGVkVGFiLkNsaWNrVGl0bGVCYXIoKTsKICAgICAgICBjdXJTZWxlY3RlZFRhYi50YWJDdHJsLlNlbGVjdFRhYigwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGxpc3RDdHJsLml0ZW1MaXN0LkNvdW50OyBpKyspCiAgICAgICAgewogICAgICAgICAgICBVSVRvdGFsUmFua0l0ZW1EZXRhaWwgdGVtcCA9IGxpc3RDdHJsLml0ZW1MaXN0W2ldIGFzICBVSVRvdGFsUmFua0l0ZW1EZXRhaWw7CiAgICAgICAgICAgIGlmICh0ZW1wICE9IG51bGwgJiYgc2hvd2luZ1JhbmtUeXBlID09IHRlbXAucmFua2luZ1R5cGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGN1clNlbGVjdGVkVGFiID0gdGVtcDsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpdml0eURhdGEgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9uUmFua1RhYkNsaWNrKHRlbXApOwo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpdml0eURhdGEgPSBPcGVyYXRpb25BY3Rpdml0eURhdGFDZW50ZXIuR2V0QWN0aXZpdHlCeVRZcGUoQWN0aXZpdHlUeXBlLlJFQ1JVSVRfUkFOSyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYwo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpdml0eURhdGEgPSBPcGVyYXRpb25BY3Rpdml0eURhdGFDZW50ZXIuR2V0QWN0aXZpdHlCeVRZcGUoQWN0aXZpdHlUeXBlLlJFQ1JVSVRfUkFOSyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
