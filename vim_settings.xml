@@ -152,6 +152,13 @@
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroInfoPanelAttributePage.cs" timestamp="1560765251697">
         <mark key="'" line="117" column="50" />
       </file>
+      <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/TreasureParty/UIOperationTreasurePartyPanel.cs" timestamp="1564717645556">
+        <mark key="'" line="63" column="69" />
+        <mark key="[" line="63" column="73" />
+        <mark key="]" line="63" column="75" />
+        <mark key="^" line="63" column="75" />
+        <mark key="." line="63" column="75" />
+      </file>
       <file name="E:/project/mobile_tf2_project/Assets/Scripts/UI/Hero/HeroSkinChangePanel.cs" timestamp="1560850010440">
         <mark key="'" line="117" column="15" />
       </file>
@@ -302,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="29" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/HandBook/UIHandBookHeroItem.cs" />
       <jump line="75" column="56" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" />
       <jump line="46" column="63" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/Handler/SystemGCHandler.cs" />
       <jump line="6" column="0" filename="E:/chao/unityproj/UITool/Assets/Editor/CodeGenerater.cs" />
@@ -402,6 +408,7 @@
       <jump line="54" column="26" filename="E:/project/mobile_tf2_project/Assets/Scripts/NET/helpTools/MsgWriter.cs" />
       <jump line="120" column="60" filename="E:/project/mobile_tf2_project/Assets/Scripts/DataCenter/DynamicData/ClubBossDataCenter.cs" />
       <jump line="89" column="42" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/Panel/ClubBoss/ClubBossRewardUIPanel.cs" />
+      <jump line="63" column="69" filename="E:/project/mobile_tf2_project/Assets/Scripts/UI/OperationActivity/TreasureParty/UIOperationTreasurePartyPanel.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
