@@ -2,9 +2,6 @@
   <component name="CodeInsightSettings">
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="JetBrains Mono" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
