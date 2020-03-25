@@ -5,6 +5,10 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="BuildSolutionAction">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="EditorJoinLines" />
   <action id="EditorUp">
