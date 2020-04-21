@@ -102,9 +102,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/GameCtrl/Main.cs" timestamp="1587379074172" />
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1587380852576">
-        <mark key="'" line="50" column="75" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1587448404044">
+        <mark key="'" line="470" column="52" />
       </file>
       <file name="/" timestamp="1587378512688">
         <mark key="[" line="0" column="0" />
@@ -113,6 +112,7 @@
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
       <jump line="50" column="75" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="470" column="52" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
