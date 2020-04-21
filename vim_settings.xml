@@ -102,7 +102,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1587448404044">
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/IFix/Editor/IFixConfig.cs" timestamp="1587453930241" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1587448432699">
         <mark key="'" line="470" column="52" />
       </file>
       <file name="/" timestamp="1587378512688">
