@@ -103,8 +103,19 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/IFix/Editor/IFixConfig.cs" timestamp="1587453930241" />
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1587448432699">
-        <mark key="'" line="470" column="52" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54409B7F-0318-4A10-811E-CBCDF2A1E15D/9e/8db2b55d/Singleton`1.cs" timestamp="1587454584850" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformUtil.cs" timestamp="1587455080078">
+        <mark key="'" line="5" column="29" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="12" column="43" />
+        <mark key="." line="12" column="42" />
+        <mark key="^" line="12" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerCity.cs" timestamp="1587454527832">
+        <mark key="'" line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1587454433672">
+        <mark key="'" line="136" column="34" />
       </file>
       <file name="/" timestamp="1587378512688">
         <mark key="[" line="0" column="0" />
@@ -114,10 +125,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
       <jump line="50" column="75" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
       <jump line="470" column="52" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="136" column="34" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="3" column="39" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerCity.cs" />
+      <jump line="5" column="29" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformUtil.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBiYXNlLkluaXRTaW5nbGV0b24oKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CgkvLyBVc2UgdGhpcyBmb3IgaW5pdGlhbGl6YXRpb24KCXZvaWQgU3RhcnQgKCkgewoJCQoJfQoJCgkvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCgl2b2lkIFVwZGF0ZSAoKSB7CgkJCgl9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFBsYXRmb3JtVXRpbCA6IHsK</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
