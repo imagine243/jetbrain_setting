@@ -120,12 +120,11 @@
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/Control/AnimationController.cs" timestamp="1587458257676">
         <mark key="'" line="117" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformUtil.cs" timestamp="1587462011441">
-        <mark key="'" line="5" column="32" />
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="8" />
-        <mark key="." line="24" column="7" />
-        <mark key="^" line="24" column="8" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformUtil.cs" timestamp="1587464139113">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerCity.cs" timestamp="1587454527832">
         <mark key="'" line="3" column="39" />
@@ -155,10 +154,16 @@
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/PvpGhostMasterAI.cs" timestamp="1587457704794">
         <mark key="'" line="91" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/BasePlatform.cs" timestamp="1587464210538">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+        <mark key="." line="27" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1587457555287">
         <mark key="'" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/SelfTest/PlatformManage/Assets/Platform/PlatformUtil.cs" timestamp="1587463432637">
+      <file name="$USER_HOME$/Documents/SelfTest/PlatformManage/Assets/Platform/PlatformUtil.cs" timestamp="1587464172376">
         <mark key="[" line="24" column="94" />
         <mark key="]" line="24" column="95" />
         <mark key="." line="24" column="94" />
