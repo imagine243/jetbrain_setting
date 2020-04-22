@@ -114,11 +114,11 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformUtil.cs" timestamp="1587541659951">
-        <mark key="[" line="32" column="20" />
-        <mark key="]" line="32" column="20" />
-        <mark key="^" line="32" column="20" />
-        <mark key="." line="32" column="19" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformUtil.cs" timestamp="1587542457603">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/English/EnglishPlatform.cs" timestamp="1587539332652">
         <mark key="[" line="12" column="5" />
@@ -199,12 +199,12 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/FastLogin/FastLoginPanel.cs" timestamp="1587541620334">
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/FastLogin/FastLoginPanel.cs" timestamp="1587542555306">
         <mark key="'" line="240" column="79" />
-        <mark key="[" line="241" column="94" />
-        <mark key="]" line="242" column="83" />
-        <mark key="^" line="242" column="83" />
-        <mark key="." line="242" column="82" />
+        <mark key="[" line="255" column="55" />
+        <mark key="]" line="255" column="82" />
+        <mark key="^" line="255" column="82" />
+        <mark key="." line="255" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/JunYi/JunYiIOSPlatform.cs" timestamp="1587539133883">
         <mark key="[" line="11" column="5" />
@@ -269,34 +269,34 @@
         <text encoding="base64">ICAgICAgICBzY3JpcHRzUm9vdEdvLkFkZENvbXBvbmVudDxNb2JDYWxsYmFja01lc3NhZ2U+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I2lmIFVOSVRZCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2lmIFVOSVRZCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFtDb25kaXRpb25hbCgpXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1EZXBlbmRlbnQoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyB2aXJ0dWFsIHZvaWQgcHgK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IHBsYXRmb3JtVHlwZSA9IFBsYXRmb3JtTWFuYWdlci5QTEFURk9STV9KVUhFOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1EZXBlbmRlbnQoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXB1YmxpYyB2aXJ0dWFsIHZvaWQgcHgK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IHBsYXRmb3JtVHlwZSA9IFBsYXRmb3JtTWFuYWdlci5QTEFURk9STV9KVUhFOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
