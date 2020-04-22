@@ -102,26 +102,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/KaiSa/KaiSaPlatform.cs" timestamp="1587526034682">
-        <mark key="]" line="9" column="39" />
-        <mark key="^" line="9" column="39" />
-        <mark key="." line="9" column="38" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/ZhiJian/ZhiJianPlatform.cs" timestamp="1587531498664">
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/English/EnglishPlatform.cs" timestamp="1587525227253">
-        <mark key="]" line="12" column="5" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="12" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/FaceBook/FaceBookPlatform.cs" timestamp="1587525280634">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="12" column="5" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="12" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/QiFeng/QiFengPlatform.cs" timestamp="1587526192446">
-        <mark key="]" line="9" column="40" />
-        <mark key="^" line="9" column="40" />
-        <mark key="." line="9" column="39" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformUtil.cs" timestamp="1587532078293">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/SSJJPc/FunnyCorePlatform.cs" timestamp="1587526238093">
         <mark key="[" line="16" column="4" />
@@ -129,39 +119,11 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/GuoHui/GuoHuiDaTongGameSDK.cs" timestamp="1587525950489">
-        <mark key="]" line="12" column="45" />
-        <mark key="^" line="12" column="45" />
-        <mark key="." line="12" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Korea/SkyLinePlatformSDK.cs" timestamp="1587526048345">
-        <mark key="]" line="12" column="44" />
-        <mark key="^" line="12" column="44" />
-        <mark key="." line="12" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/QQGameHallPc/QQGameHallSDK.cs" timestamp="1587526181287">
-        <mark key="[" line="24" column="1" />
-        <mark key="]" line="29" column="39" />
-        <mark key="^" line="29" column="39" />
-        <mark key="." line="29" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Mob/MobPlatform.cs" timestamp="1587526057882">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="9" column="37" />
-        <mark key="^" line="9" column="37" />
-        <mark key="." line="9" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/MoreFun/MoreFunPlatform.cs" timestamp="1587526072250">
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="9" column="41" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="9" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Ourpalm/OurpalmPlatform.cs" timestamp="1587526143632">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="9" column="41" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="9" column="40" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Juhe/JuheAndroidSDK.cs" timestamp="1587532156709">
+        <mark key="'" line="28" column="26" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/QuickSDK/QuickSDKAndroidSDK.cs" timestamp="1587526226249">
         <mark key="[" line="5" column="1" />
@@ -169,10 +131,16 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlayIOS/PlayIOSPlatform.cs" timestamp="1587526167380">
-        <mark key="]" line="9" column="41" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="9" column="40" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/ZhangQu/ZhangQuPlatform.cs" timestamp="1587531480623">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/UWan/UWanPlatform.cs" timestamp="1587531248145">
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/SSJJPc/SSJJPcSDK.cs" timestamp="1587526252525">
         <mark key="[" line="6" column="1" />
@@ -180,41 +148,69 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/AppStore/AppStorePlatform.cs" timestamp="1587525012323">
-        <mark key="'" line="0" column="39" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="15" column="48" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/WHYX/WHYXPlatform.cs" timestamp="1587531273695">
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Japan/JapanPlatform.cs" timestamp="1587525964071">
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" timestamp="1587531340476">
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/XuYang/XuYangPlatform.cs" timestamp="1587531314556">
+        <mark key="]" line="9" column="40" />
+        <mark key="^" line="9" column="40" />
+        <mark key="." line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/WD/WDPlatform.cs" timestamp="1587531260442">
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1587532140313">
+        <mark key="'" line="144" column="66" />
+        <mark key="[" line="70" column="39" />
+        <mark key="]" line="70" column="52" />
+        <mark key="^" line="70" column="52" />
+        <mark key="." line="70" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/QiFeng/QiFengPlatform.cs" timestamp="1587526192446">
+        <mark key="]" line="9" column="40" />
+        <mark key="^" line="9" column="40" />
+        <mark key="." line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/QQGameHallPc/QQGameHallSDK.cs" timestamp="1587526181287">
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="29" column="39" />
+        <mark key="^" line="29" column="39" />
+        <mark key="." line="29" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/YiJie/YiJieAndroidSDK.cs" timestamp="1587531365284">
         <mark key="[" line="5" column="1" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="10" column="38" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/GooglePlay/GooglePlayPlatform.cs" timestamp="1587525900121">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="12" column="4" />
-        <mark key="^" line="12" column="4" />
-        <mark key="." line="12" column="3" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/YouCY/YouCYPlatform.cs" timestamp="1587531387546">
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/JunYi/JunYiIOSPlatform.cs" timestamp="1587526014992">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="9" column="42" />
-        <mark key="^" line="9" column="42" />
-        <mark key="." line="9" column="41" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlayIOS/PlayIOSPlatform.cs" timestamp="1587526167380">
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Tutu/TutuPlatform.cs" timestamp="1587531235985">
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlayB/PlayBPlatform.cs" timestamp="1587526153534">
         <mark key="]" line="9" column="39" />
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/GuoHui/GuoHuiDaTongAndroidPlatform.cs" timestamp="1587525925401">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="11" column="53" />
-        <mark key="^" line="11" column="53" />
-        <mark key="." line="11" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -243,42 +239,44 @@
       <jump line="32" column="10" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformUtil.cs" />
       <jump line="19" column="28" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Juhe/JuheAndroidSDK.cs" />
       <jump line="0" column="39" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/AppStore/AppStorePlatform.cs" />
+      <jump line="28" column="26" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Juhe/JuheAndroidSDK.cs" />
+      <jump line="19" column="23" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Juhe/JuheGameSdk.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IHBsYXRmb3JtVHlwZSA9IFBsYXRmb3JtTWFuYWdlci5QTEFURk9STV9OT1BMQVRGT1JNOwo=</text>
+        <text encoding="base64">ICAgICAgICBwbGF0Zm9ybVR5cGUgPSBQbGF0Zm9ybU1hbmFnZXIuUExBVEZPUk1fTk9QTEFURk9STTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IHBsYXRmb3JtVHlwZSA9IFBsYXRmb3JtTWFuYWdlci5QTEFURk9STV9KVUhFOwo=</text>
       </register>
       <register name="&quot;" type="4">
         <text>PLATFORM_NOPLATFORM</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIkFwcFN0b3JlUGxhdGZvcm0iOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIkFwcFN0b3JlUGxhdGZvcm0iOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBvdmVycmlkZSBzdHJpbmcgcHhQbGF0Zm9ybU5hbWUoKQo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBvdmVycmlkZSBzdHJpbmcgcHhQbGF0Zm9ybU5hbWUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gdGhpcy5HZXRUeXBlKCkuRnVsbE5hbWU7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
         <text>PLATFORM_NOPLATFORM</text>
