@@ -117,6 +117,11 @@
         <mark key="^" line="32" column="11" />
         <mark key="." line="32" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/English/EnglishPlatform.cs" timestamp="1587525045596">
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="12" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Juhe/JuheAndroidSDK.cs" timestamp="1587524053542">
         <mark key="'" line="19" column="28" />
         <mark key="[" line="14" column="0" />
@@ -134,8 +139,7 @@
         <mark key="^" line="29" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/ShangYou/ShangYouGameSDK.cs" timestamp="1587465472494" />
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/UI/GlobalUI/UIPopTipsManager.cs" timestamp="1587458284445" />
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/AppStore/AppStorePlatform.cs" timestamp="1587524164677">
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/AppStore/AppStorePlatform.cs" timestamp="1587525012323">
         <mark key="'" line="0" column="39" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
