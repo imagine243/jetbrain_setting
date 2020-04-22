@@ -108,12 +108,6 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/ZhiJian/ZhiJianPlatform.cs" timestamp="1587538915513">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="16" column="57" />
-        <mark key="^" line="16" column="57" />
-        <mark key="." line="16" column="56" />
-      </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformUtil.cs" timestamp="1587542457603">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -138,13 +132,13 @@
         <mark key="^" line="15" column="57" />
         <mark key="." line="15" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/UWan/UWanPlatform.cs" timestamp="1587539044533">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="15" column="54" />
-        <mark key="^" line="15" column="54" />
-        <mark key="." line="15" column="53" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/QuickSDK/QuickSDKAndroidSDK.cs" timestamp="1587545133590">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="58" />
+        <mark key="^" line="16" column="58" />
+        <mark key="." line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/WHYX/WHYXPlatform.cs" timestamp="1587538893111">
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/UWan/UWanPlatform.cs" timestamp="1587539044533">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="15" column="54" />
         <mark key="^" line="15" column="54" />
@@ -168,14 +162,8 @@
         <mark key="^" line="15" column="56" />
         <mark key="." line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/WD/WDPlatform.cs" timestamp="1587538835150">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="15" column="52" />
-        <mark key="^" line="15" column="52" />
-        <mark key="." line="15" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1587540530764">
-        <mark key="'" line="139" column="35" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1587545462838">
+        <mark key="'" line="572" column="75" />
         <mark key="[" line="139" column="68" />
         <mark key="]" line="140" column="60" />
         <mark key="^" line="140" column="60" />
@@ -187,18 +175,15 @@
         <mark key="^" line="17" column="57" />
         <mark key="." line="17" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/JieShenPay/JieShenPayGameSdk.cs" timestamp="1587545522946" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/QiFeng/QiFengPlatform.cs" timestamp="1587539088773">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="15" column="56" />
         <mark key="^" line="15" column="56" />
         <mark key="." line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/YouCY/YouCYPlatform.cs" timestamp="1587538815616">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="15" column="55" />
-        <mark key="^" line="15" column="55" />
-        <mark key="." line="15" column="54" />
-      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/BanglaHyjt/BanglaHyjtGameSDK.cs" timestamp="1587545153945" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/DTB/DTBGameSDK.cs" timestamp="1587545062550" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/FastLogin/FastLoginPanel.cs" timestamp="1587544153515">
         <mark key="'" line="240" column="79" />
         <mark key="[" line="304" column="55" />
@@ -206,17 +191,14 @@
         <mark key="^" line="304" column="82" />
         <mark key="." line="304" column="81" />
       </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1587544585529">
+        <mark key="'" line="819" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/JunYi/JunYiIOSPlatform.cs" timestamp="1587539133883">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="15" column="58" />
         <mark key="^" line="15" column="58" />
         <mark key="." line="15" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Tutu/TutuPlatform.cs" timestamp="1587538864611">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="15" column="54" />
-        <mark key="^" line="15" column="54" />
-        <mark key="." line="15" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlayB/PlayBPlatform.cs" timestamp="1587539111983">
         <mark key="[" line="11" column="5" />
@@ -261,6 +243,8 @@
       <jump line="139" column="35" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
       <jump line="239" column="36" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/FastLogin/FastLoginPanel.cs" />
       <jump line="240" column="79" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/FastLogin/FastLoginPanel.cs" />
+      <jump line="572" column="75" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="40" column="57" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
