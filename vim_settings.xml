@@ -102,12 +102,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/KaiSa/KaiSaPlatform.cs" timestamp="1587539286614">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="15" column="55" />
-        <mark key="^" line="15" column="55" />
-        <mark key="." line="15" column="54" />
-      </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Editor/Build/ProjectBuild.cs" timestamp="1587548924097">
         <mark key="[" line="316" column="0" />
         <mark key="]" line="316" column="0" />
@@ -130,12 +124,6 @@
         <mark key="]" line="87" column="14" />
         <mark key="." line="87" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Ourpalm/OurpalmPlatform.cs" timestamp="1587539271149">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="15" column="57" />
-        <mark key="^" line="15" column="57" />
-        <mark key="." line="15" column="56" />
-      </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/QuickSDK/QuickSDKAndroidSDK.cs" timestamp="1587545133590">
         <mark key="[" line="16" column="35" />
         <mark key="]" line="16" column="58" />
@@ -147,24 +135,23 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Japan/JapanPlatform.cs" timestamp="1587539228822">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="16" column="57" />
-        <mark key="^" line="16" column="57" />
-        <mark key="." line="16" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/YaYaWan/YaYaWanPlatform.cs" timestamp="1587539179208">
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/WHYX/WHYXPlatform.cs" timestamp="1587549189816">
         <mark key="[" line="11" column="5" />
-        <mark key="]" line="15" column="57" />
-        <mark key="^" line="15" column="57" />
-        <mark key="." line="15" column="56" />
+        <mark key="]" line="15" column="54" />
+        <mark key="^" line="15" column="54" />
+        <mark key="." line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1587548578223">
-        <mark key="'" line="595" column="58" />
-        <mark key="[" line="693" column="0" />
-        <mark key="]" line="693" column="0" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Utils/ReviewUtil.cs" timestamp="1587548942367">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="10" />
+        <mark key="." line="21" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1587549976351">
+        <mark key="'" line="371" column="80" />
+        <mark key="[" line="495" column="0" />
+        <mark key="]" line="495" column="0" />
         <mark key="^" line="140" column="60" />
-        <mark key="." line="693" column="0" />
+        <mark key="." line="495" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/JieShenPay/JieShenPayGameSdk.cs" timestamp="1587545522946" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/UI/InviteUI/InviteFriendUIPage.cs" timestamp="1587548176700">
@@ -185,6 +172,7 @@
         <mark key="^" line="12" column="58" />
         <mark key="." line="12" column="57" />
       </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/WHYX/WHYXSDK.cs" timestamp="1587549133472" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/FastLogin/FastLoginPanel.cs" timestamp="1587548449551">
         <mark key="'" line="240" column="79" />
         <mark key="[" line="30" column="199" />
@@ -195,6 +183,7 @@
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1587544585529">
         <mark key="'" line="819" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/XMLYIOS/XMLYIOSSDK.cs" timestamp="1587549112993" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/XuYang/XuYangSDK.cs" timestamp="1587546941887" />
     </filemarks>
     <jumps>
@@ -237,6 +226,8 @@
       <jump line="40" column="57" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
       <jump line="595" column="58" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
       <jump line="22" column="21" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" />
+      <jump line="371" column="80" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="28" column="21" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -251,31 +242,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmKFBsYXRmb3JtTWFuYWdlci5wbGF0Zm9ybVR5cGUgPT0gUExBVEZPUk1fWE1MWV9JT1MpCiAgICAgICAgewogICAgICAgICAgICBYTUxZSU9TU0RLLnB4UGxhdGZvcm1Db25nemkob3JkZXJJRCwgY2hhcmdlVGVtcCk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyB2b2lkIEJ1aWxkRm9ySU9TX0NodWFuZ1hpbmcoKQogICAgewogICAgICAgIFBsYXllclNldHRpbmdzLmlPUy50YXJnZXRPU1ZlcnNpb25TdHJpbmcgPSAiOC4wIjsKICAgICAgICBYQ29kZVBvc3RQcm9jZXNzLnByb2ptb2RzID0gbmV3IHN0cmluZ1tdIHsgRGlyZWN0b3J5LkdldFBhcmVudChBcHBsaWNhdGlvbi5kYXRhUGF0aCkuRnVsbE5hbWUgKyAiL3BhY2thZ2UvSU9TL0NvbW1vbi9Nb2RzL3lvdWN5X2NodWFuZ3hpbmcucHJvam1vZHMiIH07CiAgICAgICAgQnVpbGRJT1NQUm9qZWN0KCJQQUNLQUdFX1JFTEVBU0U7WU9VQ1kiKTsKICAgIH0KCiAgICBzdGF0aWMgdm9pZCBCdWlsZEZvcklPU19DaHVhbmdYaW5nX0NvbmRpdGlvbkRvd25sb2FkKCkKICAgIHsKICAgICAgICBQbGF5ZXJTZXR0aW5ncy5pT1MudGFyZ2V0T1NWZXJzaW9uU3RyaW5nID0gIjguMCI7CiAgICAgICAgCiAgICAgICAgWENvZGVQb3N0UHJvY2Vzcy5wcm9qbW9kcyA9IG5ldyBzdHJpbmdbXSB7IERpcmVjdG9yeS5HZXRQYXJlbnQoQXBwbGljYXRpb24uZGF0YVBhdGgpLkZ1bGxOYW1lICsgIi9wYWNrYWdlL0lPUy9Db21tb24vTW9kcy95b3VjeV9jaHVhbmd4aW5nLnByb2ptb2RzIiB9OwogICAgICAgIEJ1aWxkSU9TUFJvamVjdCgiUEFDS0FHRV9SRUxFQVNFO1lPVUNZIik7CiAgICB9CgogICAgc3RhdGljIHZvaWQgQnVpbGRGb3JJT1NfWU9VQ1lfR1VBTkdNTygpCiAgICB7CiAgICAgICAgUGxheWVyU2V0dGluZ3MuaU9TLnRhcmdldE9TVmVyc2lvblN0cmluZyA9ICI4LjAiOwogICAgICAgIFhDb2RlUG9zdFByb2Nlc3MucHJvam1vZHMgPSBuZXcgc3RyaW5nW10geyBEaXJlY3RvcnkuR2V0UGFyZW50KEFwcGxpY2F0aW9uLmRhdGFQYXRoKS5GdWxsTmFtZSArICIvcGFja2FnZS9JT1MvQ29tbW9uL01vZHMveW91Y3lfZ3Vhbmdtby5wcm9qbW9kcyIgfTsKICAgICAgICBCdWlsZElPU1BSb2plY3QoIlBBQ0tBR0VfUkVMRUFTRTtZT1VDWSIpOwogICAgfQoKICAgIHN0YXRpYyB2b2lkIEJ1aWxkRm9ySU9TX1lPVUNZX0dVQU5HTU9fQ29uZGl0aW9uRG93bmxvYWQoKQogICAgewogICAgICAgIFBsYXllclNldHRpbmdzLmlPUy50YXJnZXRPU1ZlcnNpb25TdHJpbmcgPSAiOC4wIjsKICAgICAgICAKICAgICAgICBYQ29kZVBvc3RQcm9jZXNzLnByb2ptb2RzID0gbmV3IHN0cmluZ1tdIHsgRGlyZWN0b3J5LkdldFBhcmVudChBcHBsaWNhdGlvbi5kYXRhUGF0aCkuRnVsbE5hbWUgKyAiL3BhY2thZ2UvSU9TL0NvbW1vbi9Nb2RzL3lvdWN5X2d1YW5nbW8ucHJvam1vZHMiIH07CiAgICAgICAgQnVpbGRJT1NQUm9qZWN0KCJQQUNLQUdFX1JFTEVBU0U7WU9VQ1kiKTsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBpZiAoUGxhdGZvcm1NYW5hZ2VyLnBsYXRmb3JtVHlwZSA9PSBQbGF0Zm9ybU1hbmFnZXIuUExBVEZPUk1fWE1MWV9JT1MpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNka1VpbiA9IFhNTFlJT1NDYWxsYmFja01lc3NhZ2UuU2RrVWluOwogICAgICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBpZiAoUGxhdGZvcm1NYW5hZ2VyLnBsYXRmb3JtVHlwZSA9PSBQbGF0Zm9ybU1hbmFnZXIuUExBVEZPUk1fWE1MWV9JT1MpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFhNTFlJT1NTREsucHhQbGF0Zm9ybUxvZ2luKCk7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChQbGF0Zm9ybU1hbmFnZXIucGxhdGZvcm1UeXBlID09IFBsYXRmb3JtTWFuYWdlci5QTEFURk9STV9ZSUpJRSkKICAgICAgICB7CiAgICAgICAgICAgIHN0cmluZyBjaGFubmVsQ29kZSA9IFlpSmllR2FtZVNkay5nZXRTZXJ2aWNlSWQoKTsKICAgICAgICAgICAgYnJhbmNoTnVtYmVyID0gTWFpbi5HZXRJbnN0YW5jZSgpLkJ1bmRsZVZlcnNpb24gKyAiX1lpSmllXyIgKyBjaGFubmVsQ29kZTsKICAgICAgICB9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQljYXNlIFBsYXRmb3JtTWFuYWdlci5QTEFURk9STV9ZSUpJRToJCWNoYW5uZWxJZCA9ICIxMDAwMTA2NzMxMDYxMDAwMDAwMzEwNjEwMDAzMTA2MTAwMDAwMDAwMSI7CWJyZWFrOwkvLyA/Pwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyB2b2lkIEJ1aWxkRm9ySU9TX0NodWFuZ1hpbmcoKQogICAgewogICAgICAgIFBsYXllclNldHRpbmdzLmlPUy50YXJnZXRPU1ZlcnNpb25TdHJpbmcgPSAiOC4wIjsKICAgICAgICBYQ29kZVBvc3RQcm9jZXNzLnByb2ptb2RzID0gbmV3IHN0cmluZ1tdIHsgRGlyZWN0b3J5LkdldFBhcmVudChBcHBsaWNhdGlvbi5kYXRhUGF0aCkuRnVsbE5hbWUgKyAiL3BhY2thZ2UvSU9TL0NvbW1vbi9Nb2RzL3lvdWN5X2NodWFuZ3hpbmcucHJvam1vZHMiIH07CiAgICAgICAgQnVpbGRJT1NQUm9qZWN0KCJQQUNLQUdFX1JFTEVBU0U7WU9VQ1kiKTsKICAgIH0KCiAgICBzdGF0aWMgdm9pZCBCdWlsZEZvcklPU19DaHVhbmdYaW5nX0NvbmRpdGlvbkRvd25sb2FkKCkKICAgIHsKICAgICAgICBQbGF5ZXJTZXR0aW5ncy5pT1MudGFyZ2V0T1NWZXJzaW9uU3RyaW5nID0gIjguMCI7CiAgICAgICAgCiAgICAgICAgWENvZGVQb3N0UHJvY2Vzcy5wcm9qbW9kcyA9IG5ldyBzdHJpbmdbXSB7IERpcmVjdG9yeS5HZXRQYXJlbnQoQXBwbGljYXRpb24uZGF0YVBhdGgpLkZ1bGxOYW1lICsgIi9wYWNrYWdlL0lPUy9Db21tb24vTW9kcy95b3VjeV9jaHVhbmd4aW5nLnByb2ptb2RzIiB9OwogICAgICAgIEJ1aWxkSU9TUFJvamVjdCgiUEFDS0FHRV9SRUxFQVNFO1lPVUNZIik7CiAgICB9CgogICAgc3RhdGljIHZvaWQgQnVpbGRGb3JJT1NfWU9VQ1lfR1VBTkdNTygpCiAgICB7CiAgICAgICAgUGxheWVyU2V0dGluZ3MuaU9TLnRhcmdldE9TVmVyc2lvblN0cmluZyA9ICI4LjAiOwogICAgICAgIFhDb2RlUG9zdFByb2Nlc3MucHJvam1vZHMgPSBuZXcgc3RyaW5nW10geyBEaXJlY3RvcnkuR2V0UGFyZW50KEFwcGxpY2F0aW9uLmRhdGFQYXRoKS5GdWxsTmFtZSArICIvcGFja2FnZS9JT1MvQ29tbW9uL01vZHMveW91Y3lfZ3Vhbmdtby5wcm9qbW9kcyIgfTsKICAgICAgICBCdWlsZElPU1BSb2plY3QoIlBBQ0tBR0VfUkVMRUFTRTtZT1VDWSIpOwogICAgfQoKICAgIHN0YXRpYyB2b2lkIEJ1aWxkRm9ySU9TX1lPVUNZX0dVQU5HTU9fQ29uZGl0aW9uRG93bmxvYWQoKQogICAgewogICAgICAgIFBsYXllclNldHRpbmdzLmlPUy50YXJnZXRPU1ZlcnNpb25TdHJpbmcgPSAiOC4wIjsKICAgICAgICAKICAgICAgICBYQ29kZVBvc3RQcm9jZXNzLnByb2ptb2RzID0gbmV3IHN0cmluZ1tdIHsgRGlyZWN0b3J5LkdldFBhcmVudChBcHBsaWNhdGlvbi5kYXRhUGF0aCkuRnVsbE5hbWUgKyAiL3BhY2thZ2UvSU9TL0NvbW1vbi9Nb2RzL3lvdWN5X2d1YW5nbW8ucHJvam1vZHMiIH07CiAgICAgICAgQnVpbGRJT1NQUm9qZWN0KCJQQUNLQUdFX1JFTEVBU0U7WU9VQ1kiKTsKICAgIH0=</text>
+      </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>|</text>
       </register>
     </registers>
   </component>
