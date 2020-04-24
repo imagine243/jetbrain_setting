@@ -111,9 +111,6 @@
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1587627639427">
         <mark key="'" line="532" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1587613922242">
-        <mark key="'" line="515" column="56" />
-      </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/God'sHands/Editor/GodsHands.cs" timestamp="1587629420483">
         <mark key="'" line="14" column="23" />
       </file>
@@ -166,6 +163,9 @@
         <mark key="]" line="106" column="17" />
         <mark key="." line="106" column="16" />
         <mark key="^" line="106" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/UI/Artifact/UIArtifactInheritancePanel.cs" timestamp="1587713727364">
+        <mark key="'" line="276" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/GuoHui/GuoHuiDaTongAndroidPlatform.cs" timestamp="1587626852237">
         <mark key="'" line="17" column="46" />
@@ -232,6 +232,7 @@
       <jump line="111" column="24" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/God'sHands/Editor/GodsHands.cs" />
       <jump line="14" column="23" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/God'sHands/Editor/GodsHands.cs" />
       <jump line="61" column="19" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/PlatformEditor/Editor/PlatformTool.cs" />
+      <jump line="276" column="24" filename="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/UI/Artifact/UIArtifactInheritancePanel.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
