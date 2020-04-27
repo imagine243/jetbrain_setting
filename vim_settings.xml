@@ -1,7 +1,12 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
@@ -57,9 +62,6 @@
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -96,7 +98,190 @@
         <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1587614273877">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/tf2_4.6.0/Assets/Scripts/UI/Panel/UILoginBgPanel.cs" timestamp="1587626080274">
+        <mark key="'" line="20" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1587627639427">
+        <mark key="'" line="532" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/God'sHands/Editor/GodsHands.cs" timestamp="1587629420483">
+        <mark key="'" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/JieShenPay/JieShenNDYPaySdk.cs" timestamp="1587614266549">
+        <mark key="[" line="42" column="87" />
+        <mark key="]" line="12" column="58" />
+        <mark key="^" line="12" column="58" />
+        <mark key="." line="12" column="57" />
+      </file>
+      <file name="/" timestamp="1587613780016">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/PlatformEditor/Editor/PlatformTool.cs" timestamp="1587707806011">
+        <mark key="[" line="83" column="43" />
+        <mark key="]" line="33" column="75" />
+        <mark key="^" line="33" column="75" />
+        <mark key="." line="33" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/PlatformEditor/Editor/EditorTools.cs" timestamp="1587639767048">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/tf2_4.6.0/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1587626176166">
+        <mark key="'" line="1053" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/PlatformEditor/Editor/FileTools.cs" timestamp="1587638748216">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1587715259035">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/UI/Panel/UILoginBgPanel.cs" timestamp="1587622268113">
+        <mark key="'" line="20" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/IBei/IBeiPayCallbackMessage.cs" timestamp="1587626872809">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Utils/ReviewUtil.cs" timestamp="1587622424237">
+        <mark key="'" line="108" column="46" />
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="106" column="17" />
+        <mark key="." line="106" column="16" />
+        <mark key="^" line="106" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/UI/Artifact/UIArtifactInheritancePanel.cs" timestamp="1587715403414">
+        <mark key="'" line="191" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/GuoHui/GuoHuiDaTongAndroidPlatform.cs" timestamp="1587626852237">
+        <mark key="'" line="17" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/tf2_4.6.0/Assets/Scripts/Utils/ReviewUtil.cs" timestamp="1587626549862">
+        <mark key="'" line="108" column="44" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="50" column="75" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="470" column="52" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="136" column="34" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="3" column="39" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerCity.cs" />
+      <jump line="1150" column="14" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/PvpActorAI.cs" />
+      <jump line="25" column="37" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" />
+      <jump line="117" column="31" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/Control/AnimationController.cs" />
+      <jump line="91" column="46" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/ActorControl/PvpGhostMasterAI.cs" />
+      <jump line="143" column="53" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/UI/Activities/BettingUI/BettingPanel.cs" />
+      <jump line="5" column="32" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformUtil.cs" />
+      <jump line="146" column="48" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="4" column="35" filename="$USER_HOME$/Documents/SelfTest/PlatformManage/Assets/Platform/Japan/JapanPlatform.cs" />
+      <jump line="9" column="23" filename="$USER_HOME$/Documents/SelfTest/PlatformManage/Assets/Scenes/Game.cs" />
+      <jump line="954" column="91" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="66" column="63" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Japan/OnJapanCallbackMessage.cs" />
+      <jump line="81" column="26" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Japan/OnJapanCallbackMessage.cs" />
+      <jump line="129" column="98" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Japan/OnJapanCallbackMessage.cs" />
+      <jump line="819" column="29" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" />
+      <jump line="899" column="17" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" />
+      <jump line="143" column="50" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="144" column="66" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="32" column="10" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformUtil.cs" />
+      <jump line="19" column="28" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Juhe/JuheAndroidSDK.cs" />
+      <jump line="0" column="39" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/AppStore/AppStorePlatform.cs" />
+      <jump line="28" column="26" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Juhe/JuheAndroidSDK.cs" />
+      <jump line="19" column="23" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Juhe/JuheGameSdk.cs" />
+      <jump line="367" column="35" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="4" column="36" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Juhe/JuheAndroidSDK.cs" />
+      <jump line="209" column="28" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="160" column="51" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="282" column="45" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="139" column="35" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="239" column="36" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/FastLogin/FastLoginPanel.cs" />
+      <jump line="240" column="79" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/FastLogin/FastLoginPanel.cs" />
+      <jump line="572" column="75" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="40" column="57" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="595" column="58" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="22" column="21" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/NET/Handler/RoleGCHandler.cs" />
+      <jump line="371" column="80" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="28" column="21" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="39" column="12" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/Japan/OnJapanCallbackMessage.cs" />
+      <jump line="515" column="56" filename="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/Platform/PlatformManager.cs" />
+      <jump line="532" column="21" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
+      <jump line="20" column="41" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/UI/Panel/UILoginBgPanel.cs" />
+      <jump line="106" column="16" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Utils/ReviewUtil.cs" />
+      <jump line="19" column="16" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Utils/ReviewUtil.cs" />
+      <jump line="108" column="46" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Utils/ReviewUtil.cs" />
+      <jump line="106" column="19" filename="$USER_HOME$/Documents/work/tf2_4.6.0/Assets/Scripts/Utils/ReviewUtil.cs" />
+      <jump line="108" column="44" filename="$USER_HOME$/Documents/work/tf2_4.6.0/Assets/Scripts/Utils/ReviewUtil.cs" />
+      <jump line="20" column="45" filename="$USER_HOME$/Documents/work/tf2_4.6.0/Assets/Scripts/UI/Panel/UILoginBgPanel.cs" />
+      <jump line="1053" column="45" filename="$USER_HOME$/Documents/work/tf2_4.6.0/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" />
+      <jump line="17" column="46" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/GuoHui/GuoHuiDaTongAndroidPlatform.cs" />
+      <jump line="28" column="19" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/God'sHands/Editor/GodsHands.cs" />
+      <jump line="111" column="24" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/God'sHands/Editor/GodsHands.cs" />
+      <jump line="14" column="23" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/God'sHands/Editor/GodsHands.cs" />
+      <jump line="61" column="19" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/PlatformEditor/Editor/PlatformTool.cs" />
+      <jump line="276" column="24" filename="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/UI/Artifact/UIArtifactInheritancePanel.cs" />
+      <jump line="191" column="59" filename="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/UI/Artifact/UIArtifactInheritancePanel.cs" />
+      <jump line="32" column="36" filename="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/UI/Artifact/UIArtifactInheritancePanel.cs" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBFZGl0b3JUb29scy5BZGRFZGl0b3JCdXR0b24oIj8/Pz8/PyIsIENsZWFuUGxhdGZvcm1FeHRlcm5hbENvZGUpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>CleanPlatformExternalCode</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgRGlyZWN0b3J5LkRlbGV0ZShleHRlcm5hbENvZGVQYXRoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoRGlyZWN0b3J5LkV4aXN0cyhleHRlcm5hbENvZGVQYXRoKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB2YXIgZXh0ZXJuYWxDb2RlUGF0aCA9IEFwcGxpY2F0aW9uLmRhdGFQYXRoICsgIlxcU2NyaXB0c1xcUGxhdGZvcm1cXGV4dGVybmFsXFwiOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGlyZWN0b3J5SW5mbyBkaSA9IG5ldyBEaXJlY3RvcnlJbmZvKGV4dGVybmFsRm9sZFBhdGgpOwogICAgICAgICAgICB2YXIgZnNpQXJyYXkgPSBkaS5HZXRGaWxlU3lzdGVtSW5mb3MoKTsKICAgICAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCBmc2lBcnJheS5MZW5ndGg7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgRGVidWcuTG9nKGZzaUFycmF5W2ldLkZ1bGxOYW1lKTsKICAgICAgICAgICAgICAgIGZzaUFycmF5W2ldLkRlbGV0ZSgpOwogICAgICAgICAgICB9</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZzaXNbaV0uCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>CleanPlatformExternalCode</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
