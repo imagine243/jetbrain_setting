@@ -120,11 +120,11 @@
         <mark key="^" line="120" column="89" />
         <mark key="." line="120" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishPlatform.cs" timestamp="1588060823126">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="23" column="53" />
-        <mark key="." line="23" column="52" />
-        <mark key="^" line="23" column="53" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishPlatform.cs" timestamp="1588061948623">
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="27" column="52" />
+        <mark key="^" line="27" column="52" />
+        <mark key="." line="27" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishGameSDK.cs" timestamp="1588060771463" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/God'sHands/Editor/GodsHands.cs" timestamp="1587629420483">
@@ -262,37 +262,37 @@
         <text encoding="base64">ICAgICAgICBFZGl0b3JUb29scy5BZGRFZGl0b3JCdXR0b24oIj8/Pz8/PyIsIENsZWFuUGxhdGZvcm1FeHRlcm5hbENvZGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1UcmFjayh0cmFja05hbWUsIG9iamVjdHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1UcmFjayh0cmFja05hbWUsIG9iamVjdHMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIHB4UGxhdGZvcm1UcmFjayhzdHJpbmcgdHJhY2tOYW1lLCBwYXJhbXMgb2JqZWN0W10gb2JqZWN0cykKICAgIHsKICAgICAgICBFbmdsaXNoR2FtZVNESy5FbmdsaXNoU0RLVHJhY2sodHJhY2tOYW1lKTsKICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBFbmdsaXNoQ2hhcmdlKENoYXJnZVRlbXBsYXRlVk8gdm8sIHN0cmluZyBwYXJhbUJpbGxObykKICAgIHsKICAgICAgICBpZiAodm8uc3RhdHVzSUQgPT0gRW5nbGlzaEdhbWVTREsuWmVyb0NoYXJnZUlkKQogICAgICAgIHsKICAgICAgICAgICAgRW5nbGlzaEdhbWVTREsuRW5nbGlzaFNES1plcm9SZXdhcmQoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KHZvLm5hbWVMYW5nSWQpLCB2by5jaGFyZ2VSbWIuVG9TdHJpbmcoKSwgcGFyYW1CaWxsTm8sIHZvLmFwcHN0b3JlVHlwZSk7CiAgICAgICAgfQogICAgICAgIGVsc2UKICAgICAgICB7CiAgICAgICAgICAgIEVuZ2xpc2hHYW1lU0RLLkVuZ2xpc2hTREtQYXkoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KHZvLm5hbWVMYW5nSWQpLCB2by5jaGFyZ2VSbWIuVG9TdHJpbmcoKSwgcGFyYW1CaWxsTm8sIHZvLmFwcHN0b3JlVHlwZSwgIiIpOwogICAgICAgIH0KICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1UcmFjayh0cmFja05hbWUsIG9iamVjdHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBFbmdsaXNoQ2hhcmdlKENoYXJnZVRlbXBsYXRlVk8gdm8sIHN0cmluZyBwYXJhbUJpbGxObykKICAgIHsKICAgICAgICBpZiAodm8uc3RhdHVzSUQgPT0gRW5nbGlzaEdhbWVTREsuWmVyb0NoYXJnZUlkKQogICAgICAgIHsKICAgICAgICAgICAgRW5nbGlzaEdhbWVTREsuRW5nbGlzaFNES1plcm9SZXdhcmQoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KHZvLm5hbWVMYW5nSWQpLCB2by5jaGFyZ2VSbWIuVG9TdHJpbmcoKSwgcGFyYW1CaWxsTm8sIHZvLmFwcHN0b3JlVHlwZSk7CiAgICAgICAgfQogICAgICAgIGVsc2UKICAgICAgICB7CiAgICAgICAgICAgIEVuZ2xpc2hHYW1lU0RLLkVuZ2xpc2hTREtQYXkoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KHZvLm5hbWVMYW5nSWQpLCB2by5jaGFyZ2VSbWIuVG9TdHJpbmcoKSwgcGFyYW1CaWxsTm8sIHZvLmFwcHN0b3JlVHlwZSwgIiIpOwogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgRGlyZWN0b3J5LkRlbGV0ZShleHRlcm5hbENvZGVQYXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CleanPlatformExternalCode</text>
+        <text>}</text>
       </register>
     </registers>
   </component>
