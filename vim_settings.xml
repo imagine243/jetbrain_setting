@@ -102,8 +102,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587614273877">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/UI/LoginUI/UILoginServerPanel.cs" timestamp="1588059377448">
+        <mark key="[" line="218" column="75" />
+        <mark key="]" line="218" column="89" />
+        <mark key="^" line="218" column="89" />
+        <mark key="." line="218" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/work/tf2_4.6.0/Assets/Scripts/UI/Panel/UILoginBgPanel.cs" timestamp="1587626080274">
         <mark key="'" line="20" column="45" />
@@ -111,17 +114,21 @@
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1587627639427">
         <mark key="'" line="532" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/UI/LoginUI/UIChooseLoginTypePanel.cs" timestamp="1588059269066">
+        <mark key="[" line="119" column="41" />
+        <mark key="]" line="120" column="89" />
+        <mark key="^" line="120" column="89" />
+        <mark key="." line="120" column="88" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishPlatform.cs" timestamp="1588060823126">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="23" column="53" />
+        <mark key="." line="23" column="52" />
+        <mark key="^" line="23" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishGameSDK.cs" timestamp="1588060771463" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/God'sHands/Editor/GodsHands.cs" timestamp="1587629420483">
         <mark key="'" line="14" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/JieShenPay/JieShenNDYPaySdk.cs" timestamp="1587614266549">
-        <mark key="[" line="42" column="87" />
-        <mark key="]" line="12" column="58" />
-        <mark key="^" line="12" column="58" />
-        <mark key="." line="12" column="57" />
-      </file>
-      <file name="/" timestamp="1587613780016">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/PlatformEditor/Editor/PlatformTool.cs" timestamp="1587707806011">
         <mark key="[" line="83" column="43" />
@@ -146,8 +153,17 @@
       <file name="/Dummy.cs" timestamp="1587715259035">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/UI/Panel/UILoginBgPanel.cs" timestamp="1587622268113">
-        <mark key="'" line="20" column="41" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/UI/SetUI/UISetting.cs" timestamp="1588059458611">
+        <mark key="[" line="438" column="74" />
+        <mark key="]" line="438" column="74" />
+        <mark key="^" line="438" column="74" />
+        <mark key="." line="438" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/BasePlatform.cs" timestamp="1588060336828">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="43" column="8" />
+        <mark key="^" line="43" column="8" />
+        <mark key="." line="43" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/IBei/IBeiPayCallbackMessage.cs" timestamp="1587626872809">
         <mark key="[" line="50" column="0" />
@@ -166,6 +182,12 @@
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/GuoHui/GuoHuiDaTongAndroidPlatform.cs" timestamp="1587626852237">
         <mark key="'" line="17" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1588060243846">
+        <mark key="[" line="574" column="63" />
+        <mark key="]" line="571" column="9" />
+        <mark key="^" line="571" column="9" />
+        <mark key="." line="571" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/work/tf2_4.6.0/Assets/Scripts/Utils/ReviewUtil.cs" timestamp="1587626549862">
         <mark key="'" line="108" column="44" />
@@ -240,34 +262,34 @@
         <text encoding="base64">ICAgICAgICBFZGl0b3JUb29scy5BZGRFZGl0b3JCdXR0b24oIj8/Pz8/PyIsIENsZWFuUGxhdGZvcm1FeHRlcm5hbENvZGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1UcmFjayh0cmFja05hbWUsIG9iamVjdHMpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>CleanPlatformExternalCode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1UcmFjayh0cmFja05hbWUsIG9iamVjdHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgRGlyZWN0b3J5LkRlbGV0ZShleHRlcm5hbENvZGVQYXRoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoRGlyZWN0b3J5LkV4aXN0cyhleHRlcm5hbENvZGVQYXRoKSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB2YXIgZXh0ZXJuYWxDb2RlUGF0aCA9IEFwcGxpY2F0aW9uLmRhdGFQYXRoICsgIlxcU2NyaXB0c1xcUGxhdGZvcm1cXGV4dGVybmFsXFwiOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBFbmdsaXNoQ2hhcmdlKENoYXJnZVRlbXBsYXRlVk8gdm8sIHN0cmluZyBwYXJhbUJpbGxObykKICAgIHsKICAgICAgICBpZiAodm8uc3RhdHVzSUQgPT0gRW5nbGlzaEdhbWVTREsuWmVyb0NoYXJnZUlkKQogICAgICAgIHsKICAgICAgICAgICAgRW5nbGlzaEdhbWVTREsuRW5nbGlzaFNES1plcm9SZXdhcmQoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KHZvLm5hbWVMYW5nSWQpLCB2by5jaGFyZ2VSbWIuVG9TdHJpbmcoKSwgcGFyYW1CaWxsTm8sIHZvLmFwcHN0b3JlVHlwZSk7CiAgICAgICAgfQogICAgICAgIGVsc2UKICAgICAgICB7CiAgICAgICAgICAgIEVuZ2xpc2hHYW1lU0RLLkVuZ2xpc2hTREtQYXkoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KHZvLm5hbWVMYW5nSWQpLCB2by5jaGFyZ2VSbWIuVG9TdHJpbmcoKSwgcGFyYW1CaWxsTm8sIHZvLmFwcHN0b3JlVHlwZSwgIiIpOwogICAgICAgIH0KICAgIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGlyZWN0b3J5SW5mbyBkaSA9IG5ldyBEaXJlY3RvcnlJbmZvKGV4dGVybmFsRm9sZFBhdGgpOwogICAgICAgICAgICB2YXIgZnNpQXJyYXkgPSBkaS5HZXRGaWxlU3lzdGVtSW5mb3MoKTsKICAgICAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCBmc2lBcnJheS5MZW5ndGg7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgRGVidWcuTG9nKGZzaUFycmF5W2ldLkZ1bGxOYW1lKTsKICAgICAgICAgICAgICAgIGZzaUFycmF5W2ldLkRlbGV0ZSgpOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgRGlyZWN0b3J5LkRlbGV0ZShleHRlcm5hbENvZGVQYXRoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZzaXNbaV0uCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>CleanPlatformExternalCode</text>
