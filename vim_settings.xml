@@ -108,9 +108,6 @@
         <mark key="^" line="218" column="89" />
         <mark key="." line="218" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tf2_4.6.0/Assets/Scripts/UI/Panel/UILoginBgPanel.cs" timestamp="1587626080274">
-        <mark key="'" line="20" column="45" />
-      </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/GameCtrl/ModelMnager/DisplayModelManager.cs" timestamp="1587627639427">
         <mark key="'" line="532" column="21" />
       </file>
@@ -120,21 +117,8 @@
         <mark key="^" line="120" column="89" />
         <mark key="." line="120" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishPlatform.cs" timestamp="1588061948623">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="27" column="52" />
-        <mark key="^" line="27" column="52" />
-        <mark key="." line="27" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishGameSDK.cs" timestamp="1588060771463" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/God'sHands/Editor/GodsHands.cs" timestamp="1587629420483">
         <mark key="'" line="14" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/PlatformEditor/Editor/PlatformTool.cs" timestamp="1587707806011">
-        <mark key="[" line="83" column="43" />
-        <mark key="]" line="33" column="75" />
-        <mark key="^" line="33" column="75" />
-        <mark key="." line="33" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/PlatformEditor/Editor/EditorTools.cs" timestamp="1587639767048">
         <mark key="[" line="10" column="9" />
@@ -159,23 +143,34 @@
         <mark key="^" line="438" column="74" />
         <mark key="." line="438" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/BasePlatform.cs" timestamp="1588060336828">
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="43" column="8" />
-        <mark key="^" line="43" column="8" />
-        <mark key="." line="43" column="4" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/BasePlatform.cs" timestamp="1588068279603">
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="39" column="18" />
+        <mark key="^" line="39" column="18" />
+        <mark key="." line="39" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/tf2_4.6.0/Assets/Scripts/UI/Panel/UILoginBgPanel.cs" timestamp="1587626080274">
+        <mark key="'" line="20" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishCallbackMessage.cs" timestamp="1588068219089" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishPlatform.cs" timestamp="1588068254309">
+        <mark key="'" line="4" column="42" />
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="28" column="9" />
+        <mark key="^" line="28" column="9" />
+        <mark key="." line="28" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishGameSDK.cs" timestamp="1588060771463" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/PlatformEditor/Editor/PlatformTool.cs" timestamp="1587707806011">
+        <mark key="[" line="83" column="43" />
+        <mark key="]" line="33" column="75" />
+        <mark key="^" line="33" column="75" />
+        <mark key="." line="33" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/IBei/IBeiPayCallbackMessage.cs" timestamp="1587626872809">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Utils/ReviewUtil.cs" timestamp="1587622424237">
-        <mark key="'" line="108" column="46" />
-        <mark key="[" line="21" column="10" />
-        <mark key="]" line="106" column="17" />
-        <mark key="." line="106" column="16" />
-        <mark key="^" line="106" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/UI/Artifact/UIArtifactInheritancePanel.cs" timestamp="1587715403414">
         <mark key="'" line="191" column="59" />
@@ -254,6 +249,7 @@
       <jump line="276" column="24" filename="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/UI/Artifact/UIArtifactInheritancePanel.cs" />
       <jump line="191" column="59" filename="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/UI/Artifact/UIArtifactInheritancePanel.cs" />
       <jump line="32" column="36" filename="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/UI/Artifact/UIArtifactInheritancePanel.cs" />
+      <jump line="4" column="42" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishPlatform.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
