@@ -152,13 +152,13 @@
         <mark key="." line="30" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishGameSDK.cs" timestamp="1588060771463" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/Korea/SkyLinePlatformSDK.cs" timestamp="1588144519195">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+      </file>
       <file name="/" timestamp="1588073014215">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/PlatformEditor/Editor/PlatformTool.cs" timestamp="1587707806011">
-        <mark key="]" line="33" column="75" />
-        <mark key="^" line="33" column="75" />
-        <mark key="." line="33" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/MoreFun/MoreFunVedioPlayPanel.cs" timestamp="1588143993901" />
       <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/UI/Artifact/UIArtifactInheritancePanel.cs" timestamp="1587715403414">
@@ -266,34 +266,34 @@
         <text encoding="base64">ICAgIC8vICAgICBNb3JlRnVuR2FtZVNESy5Nb3JlRnVuQ29uZ3ppKHByb2R1Y3RJRCxwYXJhbUJpbGxUaXRsZSwiMSIsYW1vdW50LlRvU3RyaW5nKCkscGFyYW1CaWxsTm8pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weFBsYXRmb3JtRnVuY3Rpb24oZnVuY05hbWUsIG9iamVjdHMpOwo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weFBsYXRmb3JtRnVuY3Rpb24oZnVuY05hbWUsIG9iamVjdHMpOwo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7MQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weFBsYXRmb3JtRnVuY3Rpb24oZnVuY05hbWUsIG9iamVjdHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7MQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIHB4UGxhdGZvcm1UcmFjayhzdHJpbmcgdHJhY2tOYW1lLCBwYXJhbXMgb2JqZWN0W10gb2JqZWN0cykKICAgIHsKICAgICAgICBFbmdsaXNoR2FtZVNESy5FbmdsaXNoU0RLVHJhY2sodHJhY2tOYW1lKTsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1UcmFjayh0cmFja05hbWUsIG9iamVjdHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIHB4UGxhdGZvcm1UcmFjayhzdHJpbmcgdHJhY2tOYW1lLCBwYXJhbXMgb2JqZWN0W10gb2JqZWN0cykKICAgIHsKICAgICAgICBFbmdsaXNoR2FtZVNESy5FbmdsaXNoU0RLVHJhY2sodHJhY2tOYW1lKTsKICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1UcmFjayh0cmFja05hbWUsIG9iamVjdHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBFbmdsaXNoQ2hhcmdlKENoYXJnZVRlbXBsYXRlVk8gdm8sIHN0cmluZyBwYXJhbUJpbGxObykKICAgIHsKICAgICAgICBpZiAodm8uc3RhdHVzSUQgPT0gRW5nbGlzaEdhbWVTREsuWmVyb0NoYXJnZUlkKQogICAgICAgIHsKICAgICAgICAgICAgRW5nbGlzaEdhbWVTREsuRW5nbGlzaFNES1plcm9SZXdhcmQoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KHZvLm5hbWVMYW5nSWQpLCB2by5jaGFyZ2VSbWIuVG9TdHJpbmcoKSwgcGFyYW1CaWxsTm8sIHZvLmFwcHN0b3JlVHlwZSk7CiAgICAgICAgfQogICAgICAgIGVsc2UKICAgICAgICB7CiAgICAgICAgICAgIEVuZ2xpc2hHYW1lU0RLLkVuZ2xpc2hTREtQYXkoU3Rvcm1Mb2NhbGl6YXRpb24uR2V0KHZvLm5hbWVMYW5nSWQpLCB2by5jaGFyZ2VSbWIuVG9TdHJpbmcoKSwgcGFyYW1CaWxsTm8sIHZvLmFwcHN0b3JlVHlwZSwgIiIpOwogICAgICAgIH0KICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>productID</text>
