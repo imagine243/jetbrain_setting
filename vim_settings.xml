@@ -112,7 +112,7 @@
         <mark key="." line="85" column="32" />
         <mark key="^" line="85" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/BasePlatform.cs" timestamp="1588229859886">
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/BasePlatform.cs" timestamp="1588231481888">
         <mark key="[" line="67" column="4" />
         <mark key="]" line="70" column="21" />
         <mark key="." line="70" column="20" />
@@ -152,11 +152,8 @@
       <file name="/" timestamp="1588073014215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/ZhangQu/ZhangQuPlatform.cs" timestamp="1588229874198">
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/ZhangQu/ZhangQuPlatform.cs" timestamp="1588230990877">
         <mark key="'" line="4" column="39" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/ILRuntimeExt/TDILRManager.cs" timestamp="1588154115092" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/MoreFun/MoreFunVedioPlayPanel.cs" timestamp="1588143993901" />
