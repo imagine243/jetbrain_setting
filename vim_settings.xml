@@ -102,18 +102,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/UI/LoginUI/UILoginServerPanel.cs" timestamp="1588059377448">
-        <mark key="[" line="219" column="75" />
-        <mark key="]" line="219" column="89" />
-        <mark key="^" line="219" column="89" />
-        <mark key="." line="219" column="88" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/UI/LoginUI/UIChooseLoginTypePanel.cs" timestamp="1588059269066">
-        <mark key="[" line="119" column="41" />
-        <mark key="]" line="120" column="89" />
-        <mark key="^" line="120" column="89" />
-        <mark key="." line="120" column="88" />
-      </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/UI/SetUI/UISetting.cs" timestamp="1588059458611">
         <mark key="[" line="438" column="74" />
         <mark key="]" line="438" column="74" />
@@ -123,10 +111,10 @@
       <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1588139303011">
         <mark key="'" line="711" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/BasePlatform.cs" timestamp="1588156760615">
-        <mark key="]" line="57" column="15" />
-        <mark key="^" line="57" column="15" />
-        <mark key="." line="57" column="14" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/BasePlatform.cs" timestamp="1588225589832">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/BattleBase/ActorControl/InteractiveAI.cs" timestamp="1588133412954">
         <mark key="'" line="223" column="62" />
@@ -148,32 +136,31 @@
         <mark key="." line="30" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/English/EnglishGameSDK.cs" timestamp="1588060771463" />
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/Korea/SkyLinePlatformSDK.cs" timestamp="1588151958354">
-        <mark key="[" line="157" column="8" />
-        <mark key="]" line="157" column="15" />
-        <mark key="." line="157" column="14" />
-        <mark key="^" line="157" column="15" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/GuoHui/GuoHuiDaTongGameSDK.cs" timestamp="1588226669404">
+        <mark key="[" line="83" column="73" />
+        <mark key="]" line="83" column="87" />
+        <mark key="." line="83" column="86" />
+        <mark key="^" line="83" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/Korea/SkyLinePlatformSDK.cs" timestamp="1588225604069">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="20" />
+        <mark key="." line="22" column="19" />
+        <mark key="^" line="22" column="20" />
       </file>
       <file name="/" timestamp="1588073014215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/ILRuntimeExt/TDILRManager.cs" timestamp="1588154115092" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/MoreFun/MoreFunVedioPlayPanel.cs" timestamp="1588143993901" />
-      <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/UI/Artifact/UIArtifactInheritancePanel.cs" timestamp="1587715403414">
-        <mark key="'" line="192" column="59" />
-      </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/MoreFun/MoreFunPlatform.cs" timestamp="1588142857764">
         <mark key="[" line="28" column="17" />
         <mark key="]" line="29" column="18" />
         <mark key="." line="29" column="17" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1588060243846">
-        <mark key="[" line="575" column="63" />
-        <mark key="]" line="572" column="9" />
-        <mark key="^" line="572" column="9" />
-        <mark key="." line="572" column="8" />
-      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/Mob/MobErrorCode.cs" timestamp="1588226042768" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1588225948499" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
@@ -264,34 +251,34 @@
         <text encoding="base64">ICAgIC8vICAgICBNb3JlRnVuR2FtZVNESy5Nb3JlRnVuQ29uZ3ppKHByb2R1Y3RJRCxwYXJhbUJpbGxUaXRsZSwiMSIsYW1vdW50LlRvU3RyaW5nKCkscGFyYW1CaWxsTm8pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLnB4SXNPcGVuVXNlckNlbnRlclN1cHBvcnQoKTsK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLnB4SXNPcGVuVXNlckNlbnRlclN1cHBvcnQoKTsK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNPcGVuVXNlckNlbnRlclN1cHBvcnQK</text>
+        <text encoding="base64">ICAgIChzdHJpbmcgb3JkZXJJRCwgQ2hhcmdlVGVtcGxhdGVWTyBjaGFyZ2VUZW1wLCBzdHJpbmcgcGFyYW1Sb2xlSWQsIHN0cmluZyBwcm9kdWN0SUQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weFBsYXRmb3JtRnVuY3Rpb24oZnVuY05hbWUsIG9iamVjdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7MQo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIFNreUxpbmVHYW1lU2RrLmdldENoYW5uZWxJRCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIHB4UGxhdGZvcm1UcmFjayhzdHJpbmcgdHJhY2tOYW1lLCBwYXJhbXMgb2JqZWN0W10gb2JqZWN0cykKICAgIHsKICAgICAgICBFbmdsaXNoR2FtZVNESy5FbmdsaXNoU0RLVHJhY2sodHJhY2tOYW1lKTsKICAgIH0=</text>
+        <text encoding="base64">CQlpZiAoZnVuY05hbWUuRXF1YWxzKCJnZXRDaGFubmVsSUQiKSkK</text>
       </register>
       <register name="-" type="4">
         <text>productID</text>
