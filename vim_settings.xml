@@ -19,8 +19,17 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
-    <jumps />
+    <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12DB4414-5F3F-411C-B89B-333D1DCE75FF/f1/09431602/Mesh.cs" timestamp="1588572910090" />
+      <file name="$USER_HOME$/Test/BasicMesh/Assets/Grid.cs" timestamp="1588572680518">
+        <mark key="'" line="31" column="17" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="15" column="54" filename="$USER_HOME$/Test/BasicMesh/Assets/Grid.cs" />
+      <jump line="29" column="16" filename="$USER_HOME$/Test/BasicMesh/Assets/Grid.cs" />
+      <jump line="31" column="17" filename="$USER_HOME$/Test/BasicMesh/Assets/Grid.cs" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers />
