@@ -111,6 +111,13 @@
       <file name="$USER_HOME$/Documents/work/tf2_4.5.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1588245505457">
         <mark key="'" line="410" column="95" />
       </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/QQGameHallPc/QQGameHallSDK.cs" timestamp="1588750003287">
+        <mark key="'" line="358" column="99" />
+        <mark key="[" line="327" column="5" />
+        <mark key="]" line="328" column="19" />
+        <mark key="." line="328" column="18" />
+        <mark key="^" line="328" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/GuoHui/GuoHuiDaTongGameSDK.cs" timestamp="1588226669404">
         <mark key="[" line="83" column="73" />
         <mark key="]" line="83" column="87" />
@@ -125,6 +132,12 @@
       </file>
       <file name="/" timestamp="1588073014215">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/PlatformEditor/Editor/PlatformTool.cs" timestamp="1588749286056">
+        <mark key="[" line="155" column="23" />
+        <mark key="]" line="155" column="26" />
+        <mark key="." line="155" column="25" />
+        <mark key="^" line="155" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1588139303011">
         <mark key="'" line="711" column="54" />
@@ -148,7 +161,6 @@
       <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/BattleBase/ActorControl/InteractiveAI.cs" timestamp="1588133412954">
         <mark key="'" line="223" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tf2_4.5.0/Assets/Scripts/DataCenter/ConfigTemplate/constantTemplateVO.cs" timestamp="1588245651201" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/MoreFun/MoreFunPlatform.cs" timestamp="1588142857764">
         <mark key="[" line="28" column="17" />
         <mark key="]" line="29" column="18" />
@@ -241,45 +253,46 @@
       <jump line="11" column="28" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/BasePlatform.cs" />
       <jump line="4" column="39" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/ZhangQu/ZhangQuPlatform.cs" />
       <jump line="410" column="95" filename="$USER_HOME$/Documents/work/tf2_4.5.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" />
+      <jump line="328" column="99" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/QQGameHallPc/QQGameHallSDK.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vICAgICBNb3JlRnVuR2FtZVNESy5Nb3JlRnVuQ29uZ3ppKHByb2R1Y3RJRCxwYXJhbUJpbGxUaXRsZSwiMSIsYW1vdW50LlRvU3RyaW5nKCkscGFyYW1CaWxsTm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICBFZGl0b3JUb29scy5BZGRFZGl0b3JCdXR0b24oIj8/UGxhdGZvcm1Db2RlPz9tZXRhPz8iLERlbGV0ZVBsYXRmb3JtQ29kZU1ldGFGaWxlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weElzVXNlckxvZ291dFN1cHBvcnQoKTsK</text>
+        <text encoding="base64">CQliYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weElzVXNlckxvZ291dFN1cHBvcnQoKTsK</text>
+        <text encoding="base64">CQliYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weElzT3BlblVzZXJDZW50ZXJTdXBwb3J0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBHdWlsYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weFBsYXRmb3JtRnVuY3Rpb24oZnVuY05hbWUsIG9iamVjdHMpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1FeGl0KCk7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gYmFzZS5weFBsYXRmb3JtRnVuY3Rpb24oZnVuY05hbWUsIG9iamVjdHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB4UGxhdGZvcm1FeGl0Cg==</text>
+        <text encoding="base64">CQliYXNlLnB4UGxhdGZvcm1EZXBlbmRlbnQoc2NyaXB0c1Jvb3RHbyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weElzVXNlckxvZ291dFN1cHBvcnQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChzdHJpbmcgb3JkZXJJRCwgQ2hhcmdlVGVtcGxhdGVWTyBjaGFyZ2VUZW1wLCBzdHJpbmcgcGFyYW1Sb2xlSWQsIHN0cmluZyBwcm9kdWN0SUQpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weElzT3BlblVzZXJDZW50ZXJTdXBwb3J0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weFBsYXRmb3JtRnVuY3Rpb24oZnVuY05hbWUsIG9iamVjdHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1FeGl0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>productID</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
     </registers>
   </component>
