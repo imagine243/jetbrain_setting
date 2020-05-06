@@ -102,11 +102,48 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/AppStore/AppStorePlatform.cs" timestamp="1588754171951">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="14" column="62" />
+        <mark key="." line="14" column="61" />
+        <mark key="^" line="14" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/QuickSDK/QuickSDKAndroidSDK.cs" timestamp="1588752795534">
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="32" column="61" />
+        <mark key="." line="32" column="60" />
+        <mark key="^" line="32" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/YaYaWan/YaYaWanPlatform.cs" timestamp="1588228050325">
+        <mark key="'" line="3" column="36" />
+        <mark key="[" line="84" column="5" />
+        <mark key="]" line="85" column="33" />
+        <mark key="." line="85" column="32" />
+        <mark key="^" line="85" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/BasePlatform.cs" timestamp="1588753764584">
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="70" column="21" />
+        <mark key="." line="70" column="20" />
+        <mark key="^" line="70" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/SSJJPc/SSJJPcSDK.cs" timestamp="1588750786326">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="36" column="92" />
+        <mark key="." line="36" column="91" />
+        <mark key="^" line="36" column="92" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588245661345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1588140888701">
-        <mark key="'" line="255" column="34" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1588753921915">
+        <mark key="'" line="157" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/Juhe/JuheAndroidSDK.cs" timestamp="1588754353496">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="16" column="58" />
+        <mark key="." line="16" column="57" />
+        <mark key="^" line="16" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/work/tf2_4.5.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" timestamp="1588245505457">
         <mark key="'" line="410" column="95" />
@@ -124,14 +161,17 @@
         <mark key="." line="83" column="86" />
         <mark key="^" line="83" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/Korea/SkyLinePlatformSDK.cs" timestamp="1588225604069">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="19" />
-        <mark key="^" line="22" column="20" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/GooglePlay/GooglePlayPlatform.cs" timestamp="1588755088906">
+        <mark key="[" line="55" column="5" />
+        <mark key="]" line="56" column="90" />
+        <mark key="." line="56" column="89" />
+        <mark key="^" line="56" column="90" />
       </file>
-      <file name="/" timestamp="1588073014215">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/SSJJPc/FunnyCorePlatform.cs" timestamp="1588750808226">
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="17" />
+        <mark key="^" line="35" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/DevelopTools/PlatformEditor/Editor/PlatformTool.cs" timestamp="1588749286056">
         <mark key="[" line="155" column="23" />
@@ -139,34 +179,12 @@
         <mark key="." line="155" column="25" />
         <mark key="^" line="155" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/BattleBase/ActorControl/ActorAIBase.cs" timestamp="1588139303011">
-        <mark key="'" line="711" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/YaYaWan/YaYaWanPlatform.cs" timestamp="1588228050325">
-        <mark key="'" line="3" column="36" />
-        <mark key="[" line="84" column="5" />
-        <mark key="]" line="85" column="33" />
-        <mark key="." line="85" column="32" />
-        <mark key="^" line="85" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/ZhangQu/ZhangQuPlatform.cs" timestamp="1588230990877">
         <mark key="'" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/BasePlatform.cs" timestamp="1588231481888">
-        <mark key="[" line="67" column="4" />
-        <mark key="]" line="70" column="21" />
-        <mark key="." line="70" column="20" />
-        <mark key="^" line="70" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/tf2_4.7.0/Assets/Scripts/BattleBase/ActorControl/InteractiveAI.cs" timestamp="1588133412954">
-        <mark key="'" line="223" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/MoreFun/MoreFunPlatform.cs" timestamp="1588142857764">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="29" column="18" />
-        <mark key="." line="29" column="17" />
-        <mark key="^" line="29" column="18" />
-      </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/ShangYou/ShangYouGameSDK.cs" timestamp="1588752976030" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1588753925493" />
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/QuickSDK/QuickSDKCallbackMessage.cs" timestamp="1588752494011" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" />
@@ -254,6 +272,7 @@
       <jump line="4" column="39" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/ZhangQu/ZhangQuPlatform.cs" />
       <jump line="410" column="95" filename="$USER_HOME$/Documents/work/tf2_4.5.0/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" />
       <jump line="328" column="99" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/QQGameHallPc/QQGameHallSDK.cs" />
+      <jump line="157" column="33" filename="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/BattleBase/LevelManamger/LevelManagerLogin.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -262,34 +281,34 @@
         <text encoding="base64">ICAgICAgICBFZGl0b3JUb29scy5BZGRFZGl0b3JCdXR0b24oIj8/UGxhdGZvcm1Db2RlPz9tZXRhPz8iLERlbGV0ZVBsYXRmb3JtQ29kZU1ldGFGaWxlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQliYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQliYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1aaGljaGkob3JkZXJJZCwgY2hhcmdlVGVtcCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBHdWlsYQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gYmFzZS5weFBsYXRmb3JtRnVuY3Rpb24oZnVuY05hbWUsIG9iamVjdHMpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CQliYXNlLnB4UGxhdGZvcm1EZXBlbmRlbnQoc2NyaXB0c1Jvb3RHbyk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1EZXBlbmRlbnQoc2NyaXB0c1Jvb3RHbyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weElzVXNlckxvZ291dFN1cHBvcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoUGxhdGZvcm1NYW5hZ2VyLnBsYXRmb3JtVHlwZSA9PSBQbGF0Zm9ybU1hbmFnZXIuUExBVEZPUk1fQVBQU1RPUkUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weElzT3BlblVzZXJDZW50ZXJTdXBwb3J0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcm1iID0gKGludCljaGFyZ2VUZW1wLmNoYXJnZVJtYjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZS5weFBsYXRmb3JtRnVuY3Rpb24oZnVuY05hbWUsIG9iamVjdHMpOwo=</text>
+        <text encoding="base64">CSAgICByZXR1cm4gYmFzZS5weElzVXNlckxvZ291dFN1cHBvcnQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLnB4UGxhdGZvcm1FeGl0KCk7Cg==</text>
+        <text encoding="base64">CSAgICByZXR1cm4gYmFzZS5weElzT3BlblVzZXJDZW50ZXJTdXBwb3J0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cmV0dXJuIA==</text>
