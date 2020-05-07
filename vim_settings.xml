@@ -126,6 +126,7 @@
         <mark key="." line="70" column="20" />
         <mark key="^" line="70" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/IBei/IBeiPay.cs" timestamp="1588817891114" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/SSJJPc/SSJJPcSDK.cs" timestamp="1588750786326">
         <mark key="[" line="35" column="5" />
         <mark key="]" line="36" column="92" />
@@ -177,9 +178,6 @@
         <mark key="]" line="155" column="26" />
         <mark key="." line="155" column="25" />
         <mark key="^" line="155" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/ZhangQu/ZhangQuPlatform.cs" timestamp="1588230990877">
-        <mark key="'" line="4" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/external/ShangYou/ShangYouGameSDK.cs" timestamp="1588752976030" />
       <file name="$USER_HOME$/Documents/work/mobile_tf2_project/Assets/Scripts/Platform/PlatformManager.cs" timestamp="1588753925493" />
